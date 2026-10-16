@@ -1,0 +1,19 @@
+{
+ "nome": "Diário Jurídico",
+ "sub": "Ramos Advocacia",
+ "lema": "Notícias e jurisprudência do STF, STJ e TJMT, todos os dias.",
+ "cidade": "Sinop/MT",
+ "editor": {
+  "nome": "Dr. Thalisson Ramos",
+  "oab": "OAB/MT 23.316",
+  "bio": "Advogado, doutor em Direito e professor de Direito Penal na UNIFASIPE. Atua nas áreas penal, de família, sucessões e cível em Sinop e no norte de Mato Grosso.",
+  "foto": "foto.jpg"
+ },
+ "contato": {
+  "escritorio": "Thalisson Ramos Advocacia e Assessoria Jurídica",
+  "email": "thalissonmakeadv@gmail.com",
+  "whatsapp": "",
+  "instagram": "",
+  "endereco": "Avenida das Palmeiras, nº 2995, Jardim Imperial, CEP 78555-068, Sinop/MT"
+ }
+}
