@@ -69,7 +69,7 @@ EDITORIAS = {
     "pratica": r"\b(prazo|prazos|suspensao de prazo|expediente|ponto facultativo|feriado|pje|sistema eletronico|instabilidade|intimacao|citacao|cpc|codigo de processo|recurso especial|agravo|embargos|apelacao|honorari|advocacia|advogad|oab|audiencia|sessao|pauta|plantao|peticionamento|custas|gratuidade|sisbajud|penhora|execucao|cumprimento de sentenca|repetitivo|tema \d)",
     "civel": r"\b(desconsideracao da personalidade|personalidade juridica|contrato|contratu|indeniza|dano moral|danos morais|responsabilidade civil|posse|possessori|usucapi|condomini|locacao|aluguel|despejo|imovel|imoveis|propriedade|registro de imoveis|cartorio|direito civil|civel|cobranca|obrigac|seguro|acidente de transito)",
 }
-JURIS = r"\b(turma|secao|plenario|corte especial|camara (civel|criminal)|relator|relatora|acordao|sumula|tese|repercussao geral|repetitivo|decide|decidiu|julg|entend|jurisprudencia|mantem|mantid|condena|nega\b|negou|reconhece|reconheceu|afasta|afastou|anula|anulou|inconstitucional|valida\b|validou)"
+JURIS = r"\b(turma|secao|plenario|corte especial|camara (civel|criminal)|relator|relatora|acordao|sumula|tese|repercussao geral|repetitivo|decide|decidiu|julg|entend|jurisprudencia|mantem|mantid|condena|nega\b|negou|reconhece\b|reconheceu|afasta|afastou|anula|anulou|inconstitucional|valida\b|validou)"
 JURIDICO = r"\b(justica|juiz|juiza|tribunal|stf|stj|lei|direito|processo|judicial|julg|ministerio publico|defensoria|advog|oab|cnj|constitucional|codigo)"
 FORA = r"\b(trabalhista|clt|tst|trt|reclamacao trabalhista|falencia|recuperacao judicial|societari)"
 
@@ -143,6 +143,8 @@ def item(fonte, titulo, link, resumo, data, imagem=None):
     if fonte.get("filtrar") and not re.search(JURIDICO, texto):
         return None
     eds = classificar(titulo, resumo, fonte)
+    if fonte.get("filtrar") and not eds:
+        return None  # fontes gerais: só entram notícias das editorias do portal
     if re.search(FORA, texto) and not eds:
         return None
     if imagem:
@@ -297,7 +299,8 @@ def main():
             it["imagem"] = urljoin(it["link"], it["imagem"])
             if it["imagem"].lower().endswith(".svg") or "logo" in it["imagem"].lower():
                 it["imagem"] = None
-    anteriores = [i for i in anteriores if i.get("fonte_id") in por_id]
+    anteriores = [i for i in anteriores if i.get("fonte_id") in por_id
+                  and (i["editorias"] or not por_id[i["fonte_id"]].get("filtrar"))]
 
     novos, status = [], {}
     for fonte in FONTES:
