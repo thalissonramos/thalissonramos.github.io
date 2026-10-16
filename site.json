@@ -3,17 +3,21 @@
  "sub": "Ramos Advocacia",
  "lema": "Notícias e jurisprudência do STF, STJ e TJMT, todos os dias.",
  "cidade": "Sinop/MT",
+ "url": "https://thalissonramos.github.io",
  "editor": {
   "nome": "Dr. Thalisson Ramos",
   "oab": "OAB/MT 23.316",
-  "bio": "Advogado, doutor em Direito e professor de Direito Penal na UNIFASIPE. Atua nas áreas penal, de família, sucessões e cível em Sinop e no norte de Mato Grosso.",
-  "foto": "foto.jpg"
+  "bio": "Advogado e professor de Direito Penal e Processo Penal na UNIFASIPE. Atua nas áreas penal, de família, sucessões e cível em Sinop e no norte de Mato Grosso.",
+  "foto": "foto.jpg",
+  "foto_grande": "advogado.jpg"
  },
  "contato": {
   "escritorio": "Thalisson Ramos Advocacia e Assessoria Jurídica",
-  "email": "thalissonmakeadv@gmail.com",
-  "whatsapp": "",
-  "instagram": "",
-  "endereco": "Avenida das Palmeiras, nº 2995, Jardim Imperial, CEP 78555-068, Sinop/MT"
+  "email": "makeramos@hotmail.com",
+  "whatsapp": "5566999962183",
+  "whatsapp_exibir": "(66) 99996-2183",
+  "instagram": "dr.thalissonramos",
+  "endereco": "Avenida das Palmeiras, nº 2995, Jardim Imperial, CEP 78555-068, Sinop/MT",
+  "mapa": "Avenida das Palmeiras, 2995, Jardim Imperial, Sinop, MT, 78555-068"
  }
 }
