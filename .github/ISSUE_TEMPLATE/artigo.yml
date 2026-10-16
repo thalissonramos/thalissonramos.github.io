@@ -1,0 +1,46 @@
+name: Novo artigo
+description: Publicar um artigo no Diário Jurídico Ramos Advocacia
+title: "[Artigo] "
+labels: ["artigo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Escreva o título acima (depois de "[Artigo]") e preencha os campos. Ao clicar em **Create**, o artigo aparece no site em cerca de 1 minuto.
+        Para corrigir, edite esta página. Para retirar do ar, clique em **Close issue**.
+  - type: input
+    id: linha_fina
+    attributes:
+      label: Linha fina
+      description: Uma ou duas frases que resumem o artigo (aparece abaixo do título).
+    validations:
+      required: true
+  - type: dropdown
+    id: editoria
+    attributes:
+      label: Editoria
+      options:
+        - Penal
+        - Processo Penal
+        - Tribunal do Júri
+        - Família
+        - Sucessões
+        - Cível
+        - Consumidor
+        - Jurisprudência
+        - Prática forense
+        - Advocacia
+    validations:
+      required: true
+  - type: textarea
+    id: capa
+    attributes:
+      label: Foto de capa (opcional)
+      description: Arraste uma foto para este campo. Se ficar em branco, usamos a primeira imagem do texto.
+  - type: textarea
+    id: texto
+    attributes:
+      label: Texto do artigo
+      description: "Uma linha em branco separa os parágrafos. Use ## para subtítulos, **negrito** e > para citações. Pode arrastar imagens para dentro do texto."
+    validations:
+      required: true
