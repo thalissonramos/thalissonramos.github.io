@@ -21,11 +21,6 @@
    "itens": 0,
    "ok": false
   },
-  "conjur": {
-   "nome": "ConJur",
-   "itens": 0,
-   "ok": false
-  },
   "agbrasil": {
    "nome": "Agência Brasil",
    "itens": 10,
@@ -41,10 +36,10 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-16T07:00-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Raul%20Ara%c3%bajo.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Raul%20Ara%c3%bajo.jpg",
    "editorias": [
     "jurisprudencia",
-    "penal"
+    "civel"
    ]
   },
   {
@@ -69,7 +64,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-15T19:26-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -80,7 +75,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-15T19:14-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_RLZ_4784.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_RLZ_4784.jpg",
    "editorias": [
     "jurisprudencia"
    ]
@@ -93,9 +88,8 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-15T19:00-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-9o-Seminario-Juridico-de-Seguros-debateu-novo-marco-legal-e-seguranca-juridica-no-STJ/INTERNA_PORTAL_RLZ_3522.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-9o-Seminario-Juridico-de-Seguros-debateu-novo-marco-legal-e-seguranca-juridica-no-STJ/INTERNA_PORTAL_RLZ_3522.jpg",
    "editorias": [
-    "penal",
     "civel"
    ]
   },
@@ -120,7 +114,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-15T18:02-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": [
     "civel"
    ]
@@ -133,7 +127,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-15T17:56-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -166,7 +160,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-15T16:27-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": [
     "pratica"
    ]
@@ -179,7 +173,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-15T16:22-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/AdobeStock_479430898_Editorial_Use_Only.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/AdobeStock_479430898_Editorial_Use_Only.jpg",
    "editorias": []
   },
   {
@@ -201,7 +195,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-15T15:49-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-Abertas-as-inscricoes-para-coloquio-internacional-sobre-direito--literatura-e-inteligencia-artificial-na-PB/76931_portal_interna_700x467.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-Abertas-as-inscricoes-para-coloquio-internacional-sobre-direito--literatura-e-inteligencia-artificial-na-PB/76931_portal_interna_700x467.jpg",
    "editorias": []
   },
   {
@@ -224,9 +218,7 @@
    "fonte_id": "tjmt",
    "data": "2026-10-15T13:41-04:00",
    "imagem": null,
-   "editorias": [
-    "penal"
-   ]
+   "editorias": []
   },
   {
    "id": "098358492594",
@@ -271,7 +263,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-15T12:25-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/eventos/76659_LivroFraterno_cimp.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/eventos/76659_LivroFraterno_cimp.jpg",
    "editorias": []
   },
   {
@@ -334,7 +326,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T20:40-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -345,7 +337,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T20:02-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": [
     "pratica"
    ]
@@ -360,8 +352,7 @@
    "data": "2026-10-14T18:29-04:00",
    "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_STJ_14.10.jpg",
    "editorias": [
-    "jurisprudencia",
-    "penal"
+    "jurisprudencia"
    ]
   },
   {
@@ -372,7 +363,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T17:27-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": [
     "penal"
    ]
@@ -396,7 +387,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T16:05-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -407,7 +398,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-14T14:54-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo/PORTAL_INTERNA_Min.-Dem%c3%b3crito-Reinaldo-01-Restaurada-copiar.jpg.jpeg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo/PORTAL_INTERNA_Min.-Dem%c3%b3crito-Reinaldo-01-Restaurada-copiar.jpg.jpeg",
    "editorias": []
   },
   {
@@ -418,7 +409,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-14T14:35-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica/76650_portal_interna_700x467.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica/76650_portal_interna_700x467.jpg",
    "editorias": []
   },
   {
@@ -429,7 +420,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T14:07-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -440,7 +431,7 @@
    "fonte": "Agência Brasil",
    "fonte_id": "agbrasil",
    "data": "2026-10-14T11:25-04:00",
-   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "imagem": null,
    "editorias": [
     "penal"
    ]
@@ -480,7 +471,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-13T15:54-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores/PORTAL_EGUT_8885.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores/PORTAL_EGUT_8885.jpg",
    "editorias": []
   },
   {
@@ -491,7 +482,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-13T14:17-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028/Nancy_PORTAL_INTERNA_MAX_1828.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028/Nancy_PORTAL_INTERNA_MAX_1828.jpg",
    "editorias": []
   },
   {
@@ -517,9 +508,7 @@
    "fonte_id": "stj",
    "data": "2026-10-13T07:50-04:00",
    "imagem": null,
-   "editorias": [
-    "jurisprudencia"
-   ]
+   "editorias": []
   },
   {
    "id": "7c0644ddf159",
@@ -543,7 +532,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-13T06:50-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Daniela%20Teixeira.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Daniela%20Teixeira.jpg",
    "editorias": []
   },
   {
@@ -554,7 +543,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-12T07:00-04:00",
-   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam/PORTALWhatsApp-Image-2026-10-07-at-07.51.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam/PORTALWhatsApp-Image-2026-10-07-at-07.51.jpg",
    "editorias": []
   },
   {
@@ -565,7 +554,7 @@
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-11T19:10-04:00",
-   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%2011102026.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%2011102026.jpg",
    "editorias": [
     "pratica"
    ]
