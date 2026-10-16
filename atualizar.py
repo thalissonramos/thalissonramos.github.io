@@ -185,6 +185,8 @@ def coletar_rss(fonte, url):
     texto = r.content.replace(b'xmlns:content="https://', b'xmlns:content="http://')
     texto = texto.replace(b'xmlns:media="https://', b'xmlns:media="http://')
     feed = feedparser.parse(texto)
+    if not feed.entries:
+        print(f"   {url}: resposta sem itens de RSS ({len(r.content)} bytes; início: {r.content[:160]!r})")
     saida = []
     for e in feed.entries[:POR_FONTE]:
         titulo, link = e.get("title"), e.get("link")
@@ -215,6 +217,25 @@ def coletar_tjmt(fonte, url):
     for a in soup.find_all("a", href=padrao):
         link = urljoin(url, a["href"].split("?")[0])
         if link in vistos:
+            continue
+        # Layout atual do TJMT: <a><p>data hora</p><p class="h5"><strong>título</strong></p><p class="h6">resumo</p></a>
+        t_el = a.select_one("p.h5, .h5, h2, h3, h4, h5")
+        if t_el and len(t_el.get_text(strip=True)) > 15:
+            titulo = t_el.get_text(" ", strip=True)
+            r_el = a.select_one("p.h6, .h6, small")
+            resumo = r_el.get_text(" ", strip=True) if r_el else ""
+            data = data_pt(a.get_text(" ", strip=True))
+            if not data:
+                m = padrao.search(link)
+                data = dt.datetime(int(m.group(1)), int(m.group(2)), 1, 12, tzinfo=FUSO)
+            img = a.find("img")
+            imagem = urljoin(url, img["src"]) if img and img.get("src") and not img["src"].startswith("data:") else None
+            vistos.add(link)
+            it = item(fonte, titulo, link, resumo, data, imagem)
+            if it:
+                saida.append(it)
+            if len(saida) >= POR_FONTE:
+                break
             continue
         bloco, titulo = a, ""
         for _ in range(6):
@@ -250,6 +271,8 @@ def coletar_tjmt(fonte, url):
             saida.append(it)
         if len(saida) >= POR_FONTE:
             break
+    if not saida:
+        print(f"   TJMT: página recebida ({len(r.text)} caracteres), {len(soup.find_all('a', href=padrao))} links de notícia; início: {r.text[:200]!r}")
     return saida
 
 
