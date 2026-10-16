@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T09:09-04:00",
+ "atualizado": "2026-10-16T09:55-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -8,8 +8,8 @@
   },
   "stj": {
    "nome": "STJ",
-   "itens": 0,
-   "ok": false
+   "itens": 24,
+   "ok": true
   },
   "tjmt": {
    "nome": "TJMT",
