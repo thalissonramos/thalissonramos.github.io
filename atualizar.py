@@ -50,9 +50,8 @@ FONTES = [
     ]},
     {"id": "cnj", "nome": "CNJ", "tipo": "rss", "tribunal": False, "urls": [
         "https://www.cnj.jus.br/feed/",
-    ]},
-    {"id": "conjur", "nome": "ConJur", "tipo": "rss", "tribunal": False, "urls": [
-        "https://www.conjur.com.br/rss.xml",
+        "https://www.cnj.jus.br/?feed=rss2",
+        "https://www.cnj.jus.br/agencia-cnj/feed/",
     ]},
     {"id": "agbrasil", "nome": "Agência Brasil", "tipo": "rss", "tribunal": False,
      "filtrar": True, "urls": [
@@ -65,12 +64,12 @@ FONTES = [
 EDITORIAS = {
     "sucessoes": r"\b(heranc|herdeir|inventari|testament|espolio|itcmd|sucess|legitima|meacao|partilha de bens do falecido|de cujus)",
     "familia": r"\b(divorci|guarda|pensao aliment|alimentos|aliment(ante|ando)|uniao estavel|paternidade|maternidade|alienacao parental|adocao|adotad|casament|conjug|filiacao|socioafetiv|curatela|interdicao|convivencia familiar|familia)",
-    "penal": r"\b(penal|crime|criminos|prisao|preso|presa|reu |re |homicidi|trafico|habeas corpus|juri|maria da penha|violencia domestica|feminicidi|estupro|furto|roubo|estelionat|denuncia|pena |condenad|absolvi|execucao penal|delegad|inquerito|lavagem|organizacao criminosa|medida protetiva|flagrante|preventiva)",
-    "consumidor": r"\b(consumidor|cdc|procon|plano de saude|operadora|companhia aerea|voo|bagagem|negativacao|serasa|cadastro de inadimplentes|banco|bancari|cartao de credito|emprestimo consignado|tarifa|fornecedor|propaganda enganosa|superendivid|telefonia|energia eletrica)",
+    "penal": r"\b(penal|penais|crimes?\b|criminos|criminal|prisao|presos?\b|presas?\b|reus?\b|homicidi|trafico de drogas|trafico\b|habeas corpus|tribunal do juri|juri\b|maria da penha|violencia domestica|feminicidi|estupro|furto|roubo|estelionat|denuncia\b|denunciad|penas?\b|condenad|absolvi|execucao penal|delegad|inquerito|lavagem de dinheiro|organizacao criminosa|medidas? protetivas?|flagrante|preventiva)",
+    "consumidor": r"\b(consumidor|cdc|procon|plano de saude|operadora|companhia aerea|voos?\b|bagagem|negativacao|serasa|cadastro de inadimplentes|banco|bancari|cartao de credito|emprestimo consignado|tarifa|fornecedor|propaganda enganosa|superendivid|telefonia|energia eletrica)",
     "pratica": r"\b(prazo|prazos|suspensao de prazo|expediente|ponto facultativo|feriado|pje|sistema eletronico|instabilidade|intimacao|citacao|cpc|codigo de processo|recurso especial|agravo|embargos|apelacao|honorari|advocacia|advogad|oab|audiencia|sessao|pauta|plantao|peticionamento|custas|gratuidade|sisbajud|penhora|execucao|cumprimento de sentenca|repetitivo|tema \d)",
-    "civel": r"\b(contrato|contratu|indeniza|dano moral|danos morais|responsabilidade civil|posse|possessori|usucapi|condomini|locacao|aluguel|despejo|imovel|imoveis|propriedade|registro de imoveis|cartorio|direito civil|civel|cobranca|obrigac|seguro|acidente de transito)",
+    "civel": r"\b(desconsideracao da personalidade|personalidade juridica|contrato|contratu|indeniza|dano moral|danos morais|responsabilidade civil|posse|possessori|usucapi|condomini|locacao|aluguel|despejo|imovel|imoveis|propriedade|registro de imoveis|cartorio|direito civil|civel|cobranca|obrigac|seguro|acidente de transito)",
 }
-JURIS = r"\b(turma|secao|plenario|corte especial|camara|relator|relatora|acordao|sumula|tese|repercussao geral|repetitivo|decide|decidiu|decisao|julg|entendimento|jurisprudencia|mantem|condena|nega|reconhece|afasta|garante|determina|anula|valida|invalida|inconstitucional|constitucional)"
+JURIS = r"\b(turma|secao|plenario|corte especial|camara (civel|criminal)|relator|relatora|acordao|sumula|tese|repercussao geral|repetitivo|decide|decidiu|julg|entend|jurisprudencia|mantem|mantid|condena|nega\b|negou|reconhece|reconheceu|afasta|afastou|anula|anulou|inconstitucional|valida\b|validou)"
 JURIDICO = r"\b(justica|juiz|juiza|tribunal|stf|stj|lei|direito|processo|judicial|julg|ministerio publico|defensoria|advog|oab|cnj|constitucional|codigo)"
 FORA = r"\b(trabalhista|clt|tst|trt|reclamacao trabalhista|falencia|recuperacao judicial|societari)"
 
@@ -146,6 +145,10 @@ def item(fonte, titulo, link, resumo, data, imagem=None):
     eds = classificar(titulo, resumo, fonte)
     if re.search(FORA, texto) and not eds:
         return None
+    if imagem:
+        imagem = urljoin(link, imagem)
+        if imagem.lower().endswith(".svg") or "logo" in imagem.lower():
+            imagem = None
     agora = dt.datetime.now(FUSO)
     if not data or data > agora + dt.timedelta(hours=2):
         data = agora
@@ -283,6 +286,18 @@ def main():
             anteriores = json.loads(ARQUIVO.read_text("utf-8")).get("itens", [])
         except (ValueError, OSError):
             anteriores = []
+
+    # Reclassifica o histórico com as regras atuais
+    por_id = {f["id"]: f for f in FONTES}
+    for it in anteriores:
+        f = por_id.get(it.get("fonte_id"))
+        if f:
+            it["editorias"] = classificar(it["titulo"], it.get("resumo", ""), f)
+        if it.get("imagem"):
+            it["imagem"] = urljoin(it["link"], it["imagem"])
+            if it["imagem"].lower().endswith(".svg") or "logo" in it["imagem"].lower():
+                it["imagem"] = None
+    anteriores = [i for i in anteriores if i.get("fonte_id") in por_id]
 
     novos, status = [], {}
     for fonte in FONTES:
