@@ -1,1 +1,491 @@
-{"atualizado": null, "fontes": {}, "itens": []}
+{
+ "atualizado": "2026-10-16T09:00-04:00",
+ "fontes": {
+  "stf": {
+   "nome": "STF",
+   "itens": 10,
+   "ok": true
+  },
+  "stj": {
+   "nome": "STJ",
+   "itens": 24,
+   "ok": true
+  },
+  "tjmt": {
+   "nome": "TJMT",
+   "itens": 0,
+   "ok": false
+  },
+  "cnj": {
+   "nome": "CNJ",
+   "itens": 0,
+   "ok": false
+  },
+  "conjur": {
+   "nome": "ConJur",
+   "itens": 0,
+   "ok": false
+  },
+  "agbrasil": {
+   "nome": "Agência Brasil",
+   "itens": 10,
+   "ok": true
+  }
+ },
+ "itens": [
+  {
+   "id": "bb4012db61ce",
+   "titulo": "Desconsideração da personalidade jurídica exige prova de abuso, define Segunda Seção",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16102026-Desconsideracao-da-personalidade-juridica-exige-prova-de-abuso--define-Segunda-Secao.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-16T07:00-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Raul%20Ara%c3%bajo.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "686f149226b4",
+   "titulo": "Terceira Turma aplica efeito retroativo à revogação da gratuidade de justiça",
+   "resumo": "Para o colegiado, o CPC/2015 é claro ao prever que a gratuidade não afasta a responsabilidade do beneficiário pelas despesas processuais e pelos honorários, apenas suspendendo a exigência do pagamento enquanto durar o benefício.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16102026-Terceira-Turma-aplica-efeito-retroativo-a-revogacao-da-gratuidade-de-justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-16T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Terceira%20Turma%20STJ.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "4023fc9e1ba5",
+   "titulo": "TSE determina isonomia após IA da Meta barrar imagens de Lula",
+   "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), proibiu nesta quinta-feira (15) a Meta de restringir a entrega de postagens relacionadas aos candidatos à Presidência da República. Pela decisão, o Facebook, uma das redes sociais…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-15T19:26-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "16f8b3667803",
+   "titulo": "Mantida decisão que determinou a exoneração de 20% dos comissionados da Secretaria de Cultura do Rio",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Mantida-decisao-que-determinou-a-exoneracao-de-20--dos-comissionados-da-Secretaria-de-Cultura-do-Rio.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T19:14-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_RLZ_4784.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "c686d2b5c481",
+   "titulo": "9º Seminário Jurídico de Seguros debateu novo marco legal e segurança jurídica no STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-9o-Seminario-Juridico-de-Seguros-debateu-novo-marco-legal-e-seguranca-juridica-no-STJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T19:00-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-9o-Seminario-Juridico-de-Seguros-debateu-novo-marco-legal-e-seguranca-juridica-no-STJ/INTERNA_PORTAL_RLZ_3522.jpg",
+   "editorias": [
+    "penal",
+    "civel"
+   ]
+  },
+  {
+   "id": "eaa8fe2ab04c",
+   "titulo": "Justiça homologa acordo para indenizar empregados das Casas Bahia",
+   "resumo": "A Justiça do Trabalho no Distrito Federal homologou nesta quinta-feira (15) um acordo para pagamento de indenizações a 4,3 mil trabalhadores das Casas Bahia demitidos pela varejista, que está em recuperação judicial desde agosto deste ano. Após intermediação…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-homologa-acordo-para-indenizar-empregados-das-casas-bahia",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-15T18:02-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "ea4a807e881a",
+   "titulo": "EBC reafirma não ter responsabilidade por falha em programa do PL",
+   "resumo": "A Empresa Brasil de Comunicação (EBC) divulgou nesta quinta-feira (15) uma nota em que reafirma não ter responsabilidade sobre a falha em áudio do programa de Flávio Bolsonaro, exibido na última segunda-feira (12). Em notificação protocolada na Justiça…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ebc-reafirma-nao-ter-responsabilidade-por-falha-em-programa-do-pl",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-15T17:56-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "00cb7003f437",
+   "titulo": "TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro",
+   "resumo": "O colegiado do Tribunal Regional Eleitoral do Rio (TRE-RJ) homologou, por unanimidade, em sessão plenária nesta quinta-feira (15), o resultado da retotalização de votos para o cargo de governador nas Eleições de 2026. Com isso, o presidente da Corte Eleitoral…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-proclama-douglas-ruas-eleito-para-o-governo-do-rio-de-janeiro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-15T16:27-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "e471167ebbe9",
+   "titulo": "STJ rejeita pedido para que jogo entre Vasco e Boca Juniors pela Sul-Americana não fosse realizado no Maracanã",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-STJ-rejeita-pedido-para-que-jogo-entre-Vasco-e-Boca-Juniors-pela-Libertadores-nao-fosse-realizado-no-Maracana.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T16:22-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/AdobeStock_479430898_Editorial_Use_Only.jpg",
+   "editorias": []
+  },
+  {
+   "id": "76da28429d77",
+   "titulo": "Abertas as inscrições para colóquio internacional sobre direito, literatura e inteligência artificial na PB",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Abertas-as-inscricoes-para-coloquio-internacional-sobre-direito--literatura-e-inteligencia-artificial-na-PB.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T15:49-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-Abertas-as-inscricoes-para-coloquio-internacional-sobre-direito--literatura-e-inteligencia-artificial-na-PB/76931_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "53a18cbef546",
+   "titulo": "Livro reflete sobre liberdade empresarial e responsabilidade social",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Livro-reflete-sobre-liberdade-empresarial-e-responsabilidade-social.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T12:25-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/eventos/76659_LivroFraterno_cimp.jpg",
+   "editorias": []
+  },
+  {
+   "id": "9b8225be5305",
+   "titulo": "Remessa ao exterior pela exploração de obras audiovisuais estrangeiras no Brasil tem alíquota de 15% de IR na fonte",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Remessa-ao-exterior-pela-exploracao-de-obras-audiovisuais-estrangeiras-no-Brasil-tem-aliquota-de-15--de-IR-na.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T08:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "77fdbe4b1ce8",
+   "titulo": "Rádio Decidendi fala sobre perda de prazos no decorrer de processos que envolvem infrações aduaneiras",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Radio-Decidendi-fala-sobre-perda-de-prazos-no-decorrer-de-processos-que-envolvem-infracoes-aduaneiras.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T07:45-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "ddfa9d47556f",
+   "titulo": "Inscrições para audiências sobre prescrição para pessoas com deficiência e precatório previdenciário vão até esta quinta (15)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Inscricoes-para-audiencias-sobre-prescricao-para-pessoas-com-deficiencia-e-precatorio-previdenciario-vao-ate-esta.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "d2a81f2f2a28",
+   "titulo": "Terceira Seção reconhece relevância sobre fixação de valor mínimo para reparação de danos à Fazenda por crimes tributários",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/15102026-Terceira-Secao-reconhece-relevancia-sobre-fixacao-de-valor-minimo-para-reparacao-de-danos-a-Fazenda-por-crimes.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-15T06:55-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "772844e6efe4",
+   "titulo": "Campanha de Flávio aciona TSE contra posts de artistas e parlamentares",
+   "resumo": "A campanha do candidato à Presidência da República Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) para suspender 221 postagens de parlamentares do PT, do coletivo de artistas 342 Artes, da Central Única dos Trabalhadores (CUT), da Mídia…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-deputados",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T20:40-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "9885e752f12e",
+   "titulo": "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA",
+   "resumo": "A Ordem dos Advogados do Brasil, seccional do Rio de Janeiro (OABRJ) obteve na Justiça Federal uma vitória no caso envolvendo a plataforma Resolve Juizado, que oferece a elaboração automatizada de petições por meio de inteligência artificial, mediante…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/oab-rio-ganha-acao-que-proibe-plataforma-de-oferecer-peticoes-com-ia",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T20:02-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "8a6c8af240d4",
+   "titulo": "Tribunal tem primeiro reconhecimento da relevância com reafirmação de jurisprudência e fixação de tese",
+   "resumo": "Em julgamento inédito sob o novo regime da relevância, Segunda Seção estabeleceu que planos de saúde não são obrigados, como regra, a custear remédios à base de canabidiol para uso domiciliar.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-Tribunal-tem-primeiro-reconhecimento-da-relevancia-com-reafirmacao-de-jurisprudencia-e-fixacao-de-tese.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-14T18:29-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_STJ_14.10.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "442de6834fe0",
+   "titulo": "Justiça condena 3º réu acusado do assassinato de Mãe Bernadete",
+   "resumo": "O tribunal do Júri condenou nesta terça-feira (13) Josevan Dionísio dos Santos, conhecido como BZ ou Buzuin, a 28 anos de reclusão pelo assassinato da líder quilombola e ialorixá Maria Bernadete Pacífico Moreira, a Mãe Bernadete . Ele é o terceiro condenado…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-condena-3o-reu-acusado-do-assassinato-de-mae-bernadete",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T17:27-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "5fda7e2a2b74",
+   "titulo": "Campanha de Lula vai ao TSE após IA da Meta restringir buscas",
+   "resumo": "A campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) acionou nesta quarta-feira (14) o Tribunal Superior Eleitoral (TSE) após constatar restrições na entrega de postagens aos usuários de plataformas da Meta (Facebook, Instagram e WhatsApp). Além…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T16:05-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "7779a1c89952",
+   "titulo": "STJ e CJF lamentam o falecimento do ministro aposentado Demócrito Ramos Reinaldo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-14T14:54-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo/PORTAL_INTERNA_Min.-Dem%c3%b3crito-Reinaldo-01-Restaurada-copiar.jpg.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "a8bc0e5feabd",
+   "titulo": "STJ sedia XXIII Cúpula Judicial Ibero-Americana sobre inteligência artificial e Justiça",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-14T14:35-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica/76650_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "674c7b1bc33c",
+   "titulo": "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula",
+   "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), deu nesta terça-feira (13) 24 horas para que o deputado Nikolas Ferreira (PL-MG) e o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) removam um vídeo que mostra crianças…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T14:07-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "f8fc1eb5d43e",
+   "titulo": "Justiça do Rio condena homens por estupro coletivo de jovem de 17 anos",
+   "resumo": "A Justiça do Rio de Janeiro condenou quatro homens a 15 anos de prisão, em regime fechado, pela participação no dia 31 de janeiro deste ano no estupro coletivo de uma adolescente de 17 anos de idade, em um apartamento em Copacabana, na zona sul da cidade. Os…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-do-rio-condena-homens-por-estupro-coletivo-de-jovem-de-17-anos",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-14T11:25-04:00",
+   "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "4b937c9aed2b",
+   "titulo": "Repetitivo: redução de multa por dificultar fiscalização de cargas não atinge infrações anteriores à nova norma da ANTT",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-Repetitivo-reducao-de-multa-por-dificultar-fiscalizacao-de-cargas-nao-atinge-infracoes-anteriores-a-nova-norma-da.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-14T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "41b8e3628b24",
+   "titulo": "STJ vê abusividade em perda automática de proteção ao veículo se sinistro não for comunicado em até 30 minutos",
+   "resumo": "Colegiado também considerou abusiva cláusula que previa a perda da proteção se o associado abandonasse o local do acidente. Caso envolveu cobertura garantida por associação de proteção veicular, não contrato tradicional de seguro.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-ve-abusividade-em-perda-automatica-de-protecao-ao-veiculo-se-sinistro-nao-for-comunicado-em-ate-30-minutos-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-14T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_602894851.jpg",
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "a043f1f3fc2a",
+   "titulo": "Seminário homenageia Manoel e Thereza Arruda Alvim; Biblioteca STJ-Enfam incorpora coleção particular dos professores",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T15:54-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores/PORTAL_EGUT_8885.jpg",
+   "editorias": []
+  },
+  {
+   "id": "40235fdf9f38",
+   "titulo": "Ministra Nancy Andrighi será coordenadora-geral do Cejusc até 2028",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T14:17-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028/Nancy_PORTAL_INTERNA_MAX_1828.jpg",
+   "editorias": []
+  },
+  {
+   "id": "10e4f5ad241f",
+   "titulo": "Competência funcional em ação civil pública e preparo recursal na cobrança de honorários são destaques em Informativo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Competencia-funcional-em-acao-civil-publica-e-preparo-recursal-na-cobranca-de-honorarios-sao-destaques.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T08:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica",
+    "civel"
+   ]
+  },
+  {
+   "id": "7bde2b4b1206",
+   "titulo": "STJ Notícias destaca decisão sobre motivação econômica em atos preparatórios de terrorismo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-STJ-Noticias-destaca-decisao-sobre-motivacao-economica-em-atos-preparatorios-de-terrorismo-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T07:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "7c0644ddf159",
+   "titulo": "Corte Especial antecipa sessão do dia 4 de novembro para as 9h",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Corte-Especial-antecipa-sessao-do-dia-4-de-novembro-para-as-9h.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "7e9ba7605a24",
+   "titulo": "Idosa que teve marido assassinado pelos irmãos recebe autorização do STJ para excluir sobrenome paterno",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Idosa-que-teve-marido-assassinado-pelos-irmaos-recebe-autorizacao-do-STJ-para-excluir-sobrenome-paterno.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-13T06:50-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Daniela%20Teixeira.jpg",
+   "editorias": []
+  },
+  {
+   "id": "15a1f905b6c5",
+   "titulo": "Arruda e Thereza Alvim são homenageados e acervo pessoal do casal é incorporado à Biblioteca STJ-Enfam",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-12T07:00-04:00",
+   "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam/PORTALWhatsApp-Image-2026-10-07-at-07.51.jpg",
+   "editorias": []
+  },
+  {
+   "id": "9c019ec88a11",
+   "titulo": "STJ e CFJ lamentam partida do advogado Nelson Martins",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11102026-STJ-e-CFJ-lamentam-partida-do-advogado-Nelson-Martins.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-11T19:10-04:00",
+   "imagem": "/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%2011102026.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "517132b37782",
+   "titulo": "Página da Ouvidoria do STF",
+   "resumo": "",
+   "link": "https://noticias.stf.jus.br/pagina-da-ouvidoria-do-stf/",
+   "fonte": "STF",
+   "fonte_id": "stf",
+   "data": "2026-10-05T18:45-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7b7a0fa0b62f",
+   "titulo": "Série ‘STF Dados”",
+   "resumo": "",
+   "link": "https://noticias.stf.jus.br/serie-stf-dados/",
+   "fonte": "STF",
+   "fonte_id": "stf",
+   "data": "2026-10-05T18:34-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "db490fc8c684",
+   "titulo": "Confira as matérias especiais da série ‘STF Dados’",
+   "resumo": "",
+   "link": "https://noticias.stf.jus.br/confira-as-materias-especiais-da-serie-stf-dados/",
+   "fonte": "STF",
+   "fonte_id": "stf",
+   "data": "2026-10-05T18:32-04:00",
+   "imagem": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/08/14194326/Artes-Portal_Noticia-PORTAL-700x374.jpg.jpeg",
+   "editorias": []
+  }
+ ]
+}
