@@ -55,6 +55,14 @@
     { p: "As notícias do portal servem como orientação para o meu caso?", r: "Não. O conteúdo do Diário Jurídico é informativo e educativo. Cada situação tem detalhes próprios e precisa ser analisada individualmente por um advogado." }
   ];
 
+  var LINKS = [
+    { t: "Supremo Tribunal Federal", d: "Notícias e jurisprudência", u: "https://portal.stf.jus.br/" },
+    { t: "Superior Tribunal de Justiça", d: "Notícias e pesquisa de julgados", u: "https://www.stj.jus.br/" },
+    { t: "Tribunal de Justiça de MT", d: "Serviços e processos", u: "https://www.tjmt.jus.br/" },
+    { t: "Conselho Nacional de Justiça", d: "Normas e estatísticas", u: "https://www.cnj.jus.br/" },
+    { t: "OAB Mato Grosso", d: "Seccional da advocacia", u: "https://www.oabmt.org.br/" },
+    { t: "Legislação federal", d: "Textos oficiais no Planalto", u: "https://www.planalto.gov.br/ccivil_03/" }
+  ];
   var cfg = PADRAO, noticias = { itens: [] }, artigos = [];
   var POR_PAGINA = 30;
 
@@ -233,6 +241,7 @@
       '<div class="bloco"><div class="secao-titulo"><h2>Artigos</h2><span><a href="index.html#/artigos">ver todos</a></span></div>' + col + "</div>" +
       '<a class="bloco insta-card" href="' + insta() + '" target="_blank" rel="noopener"><span class="insta-ic">' + ICONES.insta + "</span><span><b>@" + esc(c.instagram) + "</b><small>Conteúdo jurídico diário no Instagram. Siga!</small></span></a>" +
       '<div class="bloco"><div class="secao-titulo"><h2>Por tribunal</h2><span>últimos 30 dias</span></div><div class="tribunais">' + trib + "</div></div>" +
+      '<div class="bloco"><div class="secao-titulo"><h2>Links oficiais</h2></div><ul class="links-uteis">' + LINKS.map(function (l) { return '<li><a href="' + l.u + '" target="_blank" rel="noopener">' + esc(l.t) + '<small>' + esc(l.d) + '</small></a></li>'; }).join('') + '</ul></div>' +
       '<div class="bloco"><div class="secao-titulo"><h2>Escritório</h2></div><p class="suave" style="margin:0 0 10px">' + esc(c.escritorio) + "<br>" + esc(c.endereco) + '</p><a class="botao claro" href="' + mapsLink() + '" target="_blank" rel="noopener">' + ICONES.pin + "Como chegar</a></div>";
   }
 
@@ -295,6 +304,68 @@
       "</div></section>";
   }
 
+  /* Faixa de última hora (rolagem) */
+  function flash() {
+    var it = noticias.itens.slice(0, 10);
+    if (!it.length) return "";
+    var corpo = it.map(function (n) {
+      return '<a href="' + linkNoticia(n) + '"><b>' + esc(n.fonte) + "</b>" + esc(n.titulo) + "</a>";
+    }).join("");
+    return '<div class="flash"><div class="wrap"><span class="flash-rotulo">Última hora</span>' +
+      '<div class="flash-pista"><div class="flash-trilho">' + corpo + '<span class="flash-copia" aria-hidden="true">' + corpo + "</span></div></div></div></div>";
+  }
+
+  /* Guia rápido: informação permanente, com base legal */
+  var GUIA = [
+    { ic: "casa", t: "Pensão alimentícia atrasada", d: "A prisão civil alcança apenas as três parcelas anteriores ao pedido de execução e as que vencerem durante o processo.", base: "Súmula 309 do STJ e art. 528, § 7º, do CPC", msg: "Olá, Dr. Thalisson! Tenho uma dúvida sobre pensão alimentícia." },
+    { ic: "contrato", t: "Divórcio sem culpa e sem prazo", d: "Não é preciso esperar nenhum tempo nem provar culpa. Havendo consenso e, em regra, sem filhos menores ou incapazes, pode ser feito em cartório.", base: "Emenda Constitucional 66/2010 e art. 733 do CPC", msg: "Olá, Dr. Thalisson! Gostaria de orientação sobre divórcio." },
+    { ic: "doc", t: "Inventário: prazos", d: "O inventário deve ser aberto em até dois meses após o falecimento e concluído em até doze meses. Com herdeiros capazes e em acordo, pode ser feito em cartório.", base: "Arts. 610 e 611 do CPC", msg: "Olá, Dr. Thalisson! Preciso de orientação sobre inventário." },
+    { ic: "balanca", t: "Prisão em flagrante", d: "A pessoa presa deve ser levada a um juiz em até 24 horas, na audiência de custódia, e tem direito de permanecer calada e de falar com advogado.", base: "Art. 5º, LXIII, da Constituição e art. 310 do CPP", msg: "Olá, Dr. Thalisson! Preciso de ajuda com uma prisão." },
+    { ic: "carrinho", t: "Compra pela internet", d: "O consumidor pode desistir da compra feita fora da loja em até 7 dias, contados da assinatura do contrato ou do recebimento do produto, com devolução dos valores.", base: "Art. 49 do Código de Defesa do Consumidor", msg: "Olá, Dr. Thalisson! Tenho um problema com uma compra." },
+    { ic: "carro", t: "Multa ou suspensão da CNH", d: "Toda notificação de trânsito informa o prazo para defesa. Perdê-lo pode fechar a porta para recorrer, por isso vale procurar orientação logo.", base: "Arts. 281 a 290 do Código de Trânsito Brasileiro", msg: "Olá, Dr. Thalisson! Recebi uma notificação de trânsito e preciso de orientação." }
+  ];
+  function guiaRapido() {
+    return '<div class="secao-titulo"><h2>Entenda o Direito</h2><span>informação geral, com base legal</span></div><div class="guia">' +
+      GUIA.map(function (g) {
+        return '<article class="guia-item"><span class="guia-ic">' + ICONES[g.ic] + "</span><h4>" + esc(g.t) + "</h4><p>" + esc(g.d) + '</p><small>' + esc(g.base) + '</small><a href="' + wa(g.msg) + '" target="_blank" rel="noopener">Tirar uma dúvida</a></article>';
+      }).join("") + '</div><p class="guia-nota">Informações gerais e educativas. Cada caso tem particularidades e deve ser analisado individualmente por um advogado.</p>';
+  }
+
+  /* Destaques da semana: notícias recentes de temas do dia a dia */
+  function destaquesSemana(excl) {
+    var limite = Date.now() - 7 * 864e5;
+    var base = noticias.itens.filter(function (n) { return !excl[n.id] && new Date(n.data).getTime() >= limite; });
+    base.forEach(function (n) {
+      var temas = (n.editorias || []).filter(function (e) { return e !== "pratica"; }).length;
+      n._p = temas * 10 + (n.imagem ? 2 : 0) + (n.fonte_id === "stf" || n.fonte_id === "stj" ? 1 : 0);
+    });
+    base.sort(function (a, b) { return b._p - a._p || new Date(b.data) - new Date(a.data); });
+    return base.slice(0, 6);
+  }
+
+  /* Colunas por tribunal */
+  function porTribunal(excl) {
+    var cols = TRIBUNAIS.map(function (t) {
+      var its = noticias.itens.filter(function (n) { return n.fonte_id === t.id; }).slice(0, 4);
+      if (!its.length) return "";
+      return '<section class="col-trib ' + t.id + '"><header><h3>' + t.nome + '</h3><a href="#/fonte/' + t.id + '">ver tudo</a></header><ul>' +
+        its.map(function (n) { return '<li><a href="' + linkNoticia(n) + '">' + esc(n.titulo) + "</a><small>" + esc(rotuloDia(new Date(n.data))) + "</small></li>"; }).join("") + "</ul></section>";
+    }).join("");
+    return cols ? '<div class="secao-titulo"><h2>Direto dos tribunais</h2><span>STF, STJ e TJMT</span></div><div class="trib-colunas">' + cols + "</div>" : "";
+  }
+
+  /* Blocos por assunto */
+  function porAssunto() {
+    var ordem = ["penal", "familia", "sucessoes", "civel", "consumidor", "pratica"];
+    var blocos = ordem.map(function (id) {
+      var its = noticias.itens.filter(function (n) { return (n.editorias || []).indexOf(id) >= 0; }).slice(0, 3);
+      if (!its.length) return "";
+      return '<section class="assunto"><header><h3>' + NOME_ED[id] + '</h3><a href="#/editoria/' + id + '">mais</a></header>' +
+        its.map(function (n) { return '<a class="assunto-item" href="' + linkNoticia(n) + '">' + esc(n.titulo) + "<small>" + esc(n.fonte) + " · " + esc(rotuloDia(new Date(n.data))) + "</small></a>"; }).join("") + "</section>";
+    }).join("");
+    return blocos ? '<div class="secao-titulo"><h2>Por assunto</h2><span>o que está sendo decidido</span></div><div class="assuntos">' + blocos + "</div>" : "";
+  }
+
   function capa() {
     var itens = noticias.itens;
     var html = "";
@@ -322,10 +393,24 @@
         });
         html += "</div>";
       }
+
+      var sem = destaquesSemana(usados);
+      if (sem.length) {
+        html += '<div class="secao-titulo"><h2>Em destaque na semana</h2><span>temas de maior alcance</span></div><ol class="ranking">';
+        sem.forEach(function (n) { usados[n.id] = 1; html += '<li><a href="' + linkNoticia(n) + '"><b></b><span>' + esc(n.titulo) + "<small>" + esc(n.fonte) + " · " + esc(rotuloDia(new Date(n.data))) + "</small></span></a></li>"; });
+        html += "</ol>";
+      }
+
+      html += guiaRapido();
+      html += porTribunal();
+
       if (artigos.length) {
         html += '<div class="secao-titulo"><h2>Artigos do Dr. Thalisson</h2><span><a href="#/artigos">ver todos</a></span></div><div class="grade-artigos">' +
           artigos.slice(0, 2).map(function (a) { return cardArtigo(a); }).join("") + "</div>";
       }
+
+      html += porAssunto();
+
       var resto = itens.filter(function (n) { return !usados[n.id]; });
       var parte = resto.slice(0, POR_PAGINA);
       html += '<div class="secao-titulo"><h2>Últimas notícias</h2><span>' + itens.length + " notícias nos últimos 30 dias</span></div>" + lista(parte);
@@ -393,7 +478,7 @@
     var h = decodeURIComponent(location.hash.replace(/^#\/?/, "")), p = h.split("/");
     window.scrollTo(0, 0);
     var hero = $("hero");
-    if (hero) hero.innerHTML = (p[0] === "" ? heroAutor() : "");
+    if (hero) hero.innerHTML = (p[0] === "" ? flash() + heroAutor() : "");
     var layout = document.querySelector("main.grade");
     if (layout) layout.classList.toggle("larga", p[0] === "advogado");
     if (p[0] === "editoria" && NOME_ED[p[1]]) {
