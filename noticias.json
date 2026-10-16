@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T09:00-04:00",
+ "atualizado": "2026-10-16T09:03-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -13,8 +13,8 @@
   },
   "tjmt": {
    "nome": "TJMT",
-   "itens": 0,
-   "ok": false
+   "itens": 10,
+   "ok": true
   },
   "cnj": {
    "nome": "CNJ",
@@ -100,6 +100,19 @@
    ]
   },
   {
+   "id": "fac3c1b8ae7f",
+   "titulo": "Campanha valoriza histórias de servidores que fazem a Justiça em Mato Grosso",
+   "resumo": "Por trás de cada atendimento, processo e decisão judicial, existem pessoas que contribuem diariamente para o funcionamento da Justiça. Para reconhecer...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/campanha-valoriza-historias-servidores-que-fazem-a-justica-em-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T18:45-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
    "id": "eaa8fe2ab04c",
    "titulo": "Justiça homologa acordo para indenizar empregados das Casas Bahia",
    "resumo": "A Justiça do Trabalho no Distrito Federal homologou nesta quinta-feira (15) um acordo para pagamento de indenizações a 4,3 mil trabalhadores das Casas Bahia demitidos pela varejista, que está em recuperação judicial desde agosto deste ano. Após intermediação…",
@@ -121,6 +134,28 @@
    "fonte_id": "agbrasil",
    "data": "2026-10-15T17:56-04:00",
    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+   "editorias": []
+  },
+  {
+   "id": "db0cd46622f7",
+   "titulo": "Do carrinho ao descarte: nossas escolhas também deixam marcas no planeta",
+   "resumo": "Comprar apenas o necessário, evitar desperdícios, reutilizar materiais e pensar sobre o destino dos resíduos. Atitudes aparentemente simples ganham es...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/carrinho-ao-descarte-nossas-escolhas-tambem-deixam-marcas-no-planeta",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T17:10-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b8fa74a42357",
+   "titulo": "Telefones fixos da Comarca de Itiquira estão inoperantes",
+   "resumo": "Os telefones fixos da Comarca de Itiquira estão temporariamente inoperantes. Para garantir a continuidade do atendimento ao público, a unidade disponi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/telefones-fixos-comarca-itiquira-estao-inoperantes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T16:33-04:00",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -148,6 +183,17 @@
    "editorias": []
   },
   {
+   "id": "413622384f17",
+   "titulo": "Letramento Racial: Palavras também educam e comunicação pode ajudar a combater o racismo",
+   "resumo": "Uma palavra, uma fotografia, um título ou a escolha de uma fonte ajudam a construir a maneira como pessoas e acontecimentos são percebidos. Por isso, ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/letramento-racial-palavras-tambem-educam-e-comunicacao-pode-ajudar-a-combater-o-racismo",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T15:55-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
    "id": "76da28429d77",
    "titulo": "Abertas as inscrições para colóquio internacional sobre direito, literatura e inteligência artificial na PB",
    "resumo": "",
@@ -156,6 +202,65 @@
    "fonte_id": "stj",
    "data": "2026-10-15T15:49-04:00",
    "imagem": "/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/15102026-Abertas-as-inscricoes-para-coloquio-internacional-sobre-direito--literatura-e-inteligencia-artificial-na-PB/76931_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "a3ad2be07150",
+   "titulo": "TJ inaugura primeiro Centro Judiciário de Solução de Conflitos especializado no Agronegócio do país",
+   "resumo": "O Tribunal de Justiça de Mato Grosso deu mais um passo de pioneirismo no Judiciário brasileiro, na manhã desta quinta-feira (15), ao inaugurar o Centr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tj-inaugura-primeiro-centro-judiciario-solucao-conflitos-especializado-no-agronegocio-pais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T14:50-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "51110c8734d3",
+   "titulo": "Aprendizado contínuo: preceptoria fortalece formação dos novos magistrados na prática",
+   "resumo": "A aprovação em um concurso para a magistratura exige anos de preparação e uma sólida base jurídica. Mas, quando chega o momento de assumir uma comarca...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/aprendizado-continuo-preceptoria-fortalece-formacao-novos-magistrados-na-pratica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T13:41-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "098358492594",
+   "titulo": "Fórum da Comarca de Peixoto de Azevedo tem expediente presencial suspenso por falta de água",
+   "resumo": "O expediente presencial da Comarca de Peixoto de Azevedo foi suspenso nesta quinta-feira (15), conforme estabelecido na Portaria nº 38/2026-DF, em raz...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/forum-comarca-peixoto-azevedo-tem-expediente-presencial-suspenso-por-falta-agua",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T13:34-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "7d137f3f34c2",
+   "titulo": "Inovação e futuro da Justiça são temas de congresso que reúne magistrados em Mato Grosso",
+   "resumo": "Inovação, inteligência artificial, empreendedorismo e os desafios do futuro da Justiça estarão no centro das discussões do IV Congresso de Inovação, G...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/inovacao-e-futuro-justica-sao-temas-congresso-que-reune-magistrados-em-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T13:23-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b921266ce7d8",
+   "titulo": "Corregedoria realiza segundo encontro de acolhimento e formação de estagiários do Judiciário",
+   "resumo": "Adquirir conhecimentos profissionais e colocar em prática o aprendizado da faculdade são algumas das experiências proporcionadas pelo estágio no Poder...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/corregedoria-realiza-segundo-encontro-acolhimento-e-formacao-estagiarios-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-15T13:10-04:00",
+   "imagem": null,
    "editorias": []
   },
   {
@@ -271,6 +376,17 @@
    "editorias": [
     "penal"
    ]
+  },
+  {
+   "id": "55af30eceab2",
+   "titulo": "Judcultura: servidora do TJMT reencontra no teatro a paixão que nasceu na adolescência",
+   "resumo": "A paixão pela arte pode até dividir espaço com as responsabilidades do dia a dia, mas não precisa ficar em segundo plano. Para Maeve Laura de Campos, ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/judcultura-servidora-tjmt-reencontra-no-teatro-a-paixao-que-nasceu-na-adolescencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-14T16:42-04:00",
+   "imagem": null,
+   "editorias": []
   },
   {
    "id": "5fda7e2a2b74",
