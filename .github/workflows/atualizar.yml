@@ -2,16 +2,19 @@ name: Atualizar notícias e publicar
 
 on:
   schedule:
-    # Horário de Cuiabá (UTC-4): 06h05, 11h05, 15h05 e 19h05
-    - cron: "5 10,15,19,23 * * *"
+    # Uma vez por dia, às 4h da manhã de Cuiabá (08h UTC)
+    - cron: "0 8 * * *"
   workflow_dispatch:
   push:
     branches: [main]
+  issues:
+    types: [opened, edited, closed, reopened, deleted, labeled, unlabeled]
 
 permissions:
   contents: write
   pages: write
   id-token: write
+  issues: read
 
 concurrency:
   group: pages
@@ -31,20 +34,26 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependências
-        run: pip install feedparser beautifulsoup4 requests
+        run: pip install feedparser beautifulsoup4 requests markdown nh3
 
-      - name: Coletar notícias
+      - name: Coletar notícias (somente no horário diário ou manual)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python atualizar.py
 
-      - name: Salvar notícias no repositório
+      - name: Gerar artigos a partir das Issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python gerar_artigos.py
+
+      - name: Salvar no repositório
         run: |
           git config user.name "Robô Diário Jurídico"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json
+          git add noticias.json artigos.json
           if git diff --cached --quiet; then
             echo "Sem novidades."
           else
-            git commit -m "Atualização automática das notícias"
+            git commit -m "Atualização automática do portal"
             git pull --rebase --autostash || true
             git push
           fi
