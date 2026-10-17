@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T09:56-04:00",
+ "atualizado": "2026-10-17T04:14-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,171 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 5,
+   "itens": 3,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "5004b0771e61",
+   "titulo": "Presidente do STJ participa de evento em celebração ao Dia das Crianças nesta terça-feira (20)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16102026-Presidente-do-STJ-participa-de-evento-em-celebracao-ao-Dia-das-Criancas-nesta-terca-feira--20-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-16T19:14-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/16102026-Presidente-do-STJ-participa-de-evento-em-celebracao-ao-Dia-das-Criancas-nesta-terca-feira--20-/76933_presentedofuturo_interna_2026.jpg",
+   "editorias": []
+  },
+  {
+   "id": "79fcc1d58164",
+   "titulo": "MPF defende prisão de PM por matar estudante de medicina",
+   "resumo": "O Ministério Público Federal (MPF) manifestou-se a favor da prisão preventiva do policial militar Guilherme Augusto Macedo, réu pela morte do estudante de medicina Marco Aurélio Cardenas Acosta , em novembro do ano passado, na capital paulista. O parecer…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpf-defende-prisao-de-pm-por-matar-estudante-de-medicina",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-16T19:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "18af5b954d38",
+   "titulo": "PF pede prorrogação de inquérito sobre financiamento do Dark Horse",
+   "resumo": "A Polícia Federal (PF) pediu nesta sexta-feira (16) ao ministro André Mendonça, do Supremo Tribunal Federal (STF), a prorrogação, por 90 dias, do inquérito que investiga os pagamentos do ex-banqueiro Daniel Vorcaro para o filme Dark Horse , a cinebiografia do…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pf-pede-prorrogacao-de-inquerito-sobre-financiamento-do-dark-horse",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-16T18:49-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "982bf95e2a69",
+   "titulo": "Fake news ameaçam eleições e influenciam comportamento dos eleitores, alerta juiz do TJMA",
+   "resumo": "As fake news deixaram de ser apenas boatos disseminados na internet para se tornar uma das principais ameaças ao debate público e à democracia. Em per...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/fake-news-ameacam-eleicoes-e-influenciam-comportamento-eleitores-alerta-juiz-tjma",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T17:42-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "534c4e47a0c3",
+   "titulo": "Formação credenciada pela Enfam discutirá audiência de custódia e juiz das garantias",
+   "resumo": "Em um cenário de crescente debate sobre o aperfeiçoamento da Justiça Criminal e a proteção dos direitos fundamentais, a Escola Superior da Magistratur...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/formacao-credenciada-pela-enfam-discutira-audiencia-custodia-e-juiz-garantias",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T17:21-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "1aa1a9fec599",
+   "titulo": "TJMT conhece experiência do Paraná no atendimento a mulheres vítimas de violência doméstica",
+   "resumo": "Agilizar o acesso à proteção e garantir que mulheres vítimas de violência doméstica recebam acolhimento e acompanhamento especializado são desafios qu...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-conhece-experiencia-parana-no-atendimento-a-mulheres-vitimas-violencia-domestica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T17:08-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "e250b1d24ebc",
+   "titulo": "Curso sobre Protocolo de Istambul fortalece integração entre magistrados e peritos em Mato Grosso",
+   "resumo": "A Escola Superior da Magistratura de Mato Grosso (Esmagis-MT) realizou, nesta semana (13 e 14 de outubro), o curso de aperfeiçoamento Protocolo de Ist...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/curso-sobre-protocolo-istambul-fortalece-integracao-entre-magistrados-e-peritos-em-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T16:19-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ac35ed2bcf35",
+   "titulo": "Judcultura: entre o gabinete e os palcos, servidora do TJMT encontra no teatro um espaço de leveza",
+   "resumo": "A arte pode entrar na vida de uma pessoa por caminhos inesperados. Para Jessyka Lindaura, assessora do Segundo Juizado Especial Cível da Comarca de Vá...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/judcultura-entre-o-gabinete-e-os-palcos-servidora-tjmt-encontra-no-teatro-um-espaco-leveza",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T16:08-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "18bda3efb1b9",
+   "titulo": "Judiciário de MT funciona em regime de plantão neste fim de semana (17 e 18 de outubro)",
+   "resumo": "Neste fim de semana (17 e 18 de outubro), o Poder Judiciário de Mato Grosso atua em regime de plantão para o recebimento dos feitos cíveis de urgência...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/judiciario-mt-funciona-em-regime-plantao-neste-fim-semana-17-e-18-outubro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T15:13-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "be7fc8c5088b",
+   "titulo": "Dia das Crianças: ação solidária leva diversão e brinquedos a mais de 1,2 mil estudantes em MT",
+   "resumo": "Um dia para brincar, sorrir e guardar boas lembranças. Foi com esse propósito que uma ação solidária em comemoração ao Dia das Crianças mobilizou serv...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/dia-criancas-acao-solidaria-leva-diversao-e-brinquedos-a-mais-12-mil-estudantes-em-mt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T14:55-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "cd0da4e1ad44",
+   "titulo": "Magistrados do TJMT participam do IV Congresso Inova ADV Experience 2026",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) é parceiro do IV Congresso de Inovação, Gestão e Resultados - Inova ADV Experience 2026, realizado no Comp...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/magistrados-tjmt-participam-iv-congresso-inova-adv-experience-2026",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T14:41-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "609b8257efb3",
+   "titulo": "Encontro do GEMAM será realizado com votação de enunciados, estudos e eleição da nova coordenação",
+   "resumo": "Magistrados e magistradas do Poder Judiciário de Mato Grosso já podem reservar a data para o próximo encontro do Grupo de Estudos da Magistratura de M...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/encontro-gemam-sera-realizado-votacao-enunciados-estudos-e-eleicao-nova-coordenacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T13:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "4deb36b315ff",
+   "titulo": "Prosa Legal: juíza orienta mulheres a denunciar chantagens com imagens íntimas",
+   "resumo": "“Não ceda a essas chantagens.” O alerta é da juíza Tatyana Lopes de Araújo Borges, titular da Segunda Vara Especializada de Violência Doméstica e Fami...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/prosa-legal-juiza-orienta-mulheres-a-denunciar-chantagens-imagens-intimas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-16T11:57-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
   {
    "id": "bb4012db61ce",
    "titulo": "Desconsideração da personalidade jurídica exige prova de abuso, define Segunda Seção",
