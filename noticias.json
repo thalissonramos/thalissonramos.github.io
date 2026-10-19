@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T04:15-04:00",
+ "atualizado": "2026-10-19T04:29-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,17 @@
   }
  },
  "itens": [
+  {
+   "id": "d43a86028baa",
+   "titulo": "Quando a inteligência artificial vira questão de Justiça: as primeiras decisões do STJ sobre o uso de IA",
+   "resumo": "Na mesma velocidade em que transformou a vida digital da sociedade, a IA chegou à Justiça não apenas como tema discutido nos processos, mas como desafio na gestão dos tribunais.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18102026-Quando-a-inteligencia-artificial-vira-questao-de-Justica-as-primeiras-decisoes-do-STJ-sobre-o-uso-de-IA.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-18T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/76989_portal_capa_489x326.jpg.jpeg",
+   "editorias": []
+  },
   {
    "id": "5004b0771e61",
    "titulo": "Presidente do STJ participa de evento em celebração ao Dia das Crianças nesta terça-feira (20)",
