@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T04:29-04:00",
+ "atualizado": "2026-10-20T04:22-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -8,7 +8,7 @@
   },
   "stj": {
    "nome": "STJ",
-   "itens": 24,
+   "itens": 25,
    "ok": true
   },
   "tjmt": {
@@ -28,6 +28,197 @@
   }
  },
  "itens": [
+  {
+   "id": "a6c19c02686b",
+   "titulo": "Entenda como funciona o primeiro Cejusc do país especializado no agronegócio",
+   "resumo": "Resolver conflitos sem depender, necessariamente, de uma longa disputa judicial é a proposta do Centro Judiciário de Solução de Conflitos e Cidadania ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/entenda-como-funciona-o-primeiro-cejusc-pais-especializado-no-agronegocio",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T17:47-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "6d0a27c79042",
+   "titulo": "Mais empatia: Curso sobre direitos das pessoas com deficiência fortalece atuação do Judiciário",
+   "resumo": "“A grande questão, de fato, é a inclusão dessas pessoas. Como elas estão sendo incluídas? Como estão sendo respeitadas diante de suas necessidades? Co...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/mais-empatia-curso-sobre-direitos-pessoas-deficiencia-fortalece-atuacao-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T17:38-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a902d2a26fd8",
+   "titulo": "Custas processuais poderão ser parceladas no cartão de crédito a partir de 26 de outubro",
+   "resumo": "Uma nova opção de pagamento promete facilitar a vida de quem precisa ingressar com uma ação judicial em Mato Grosso. A partir do dia 26 de outubro, o ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/custas-processuais-poderao-ser-parceladas-no-cartao-credito-a-partir-26-outubro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T16:41-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "68b1e26654a6",
+   "titulo": "STJ sedia lançamento do livro Por uma Livre Iniciativa Fraterna, nesta terça (20)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-lancamento-do-livro-Por-uma-Livre-Iniciativa-Fraterna-nesta-terca.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T16:20-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-lancamento-do-livro-Por-uma-Livre-Iniciativa-Fraterna-nesta-terca/fraterno.png",
+   "editorias": []
+  },
+  {
+   "id": "5cad78f7517c",
+   "titulo": "Podcast Prosa Legal: juíza explica o que é sextorsão e como pedir ajuda; ouça",
+   "resumo": "Chantagear uma pessoa utilizando conteúdo íntimo, como fotos ou vídeos, é crime que pode se concretizar de diferentes formas e que, em geral, tem sido...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/podcast-prosa-legal-juiza-explica-o-que-e-sextorsao-e-como-pedir-ajuda-ouca",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T16:03-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "7b797de06a80",
+   "titulo": "STJ afasta servidores suspeitos de irregularidades e terá programa de confiança digital para mitigar novos riscos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-afasta-servidores-suspeitos-de-irregularidades-e-tera-programa-de-confianca-digital-para-mitigar-novos-riscos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T14:49-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-afasta-servidores-suspeitos-de-irregularidades-e-tera-programa-de-confianca-digital-para-mitigar-novos-riscos/76610_portal_interna_700x467.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "ddc10af7307c",
+   "titulo": "Cooperação do Judiciário e uso da IA são temas em destaque na abertura da XXIII Cúpula Judicial Ibero-Americana",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Cooperacao-do-Judiciario-e-uso-da-IA-sao-temas-em-destaque-na-abertura-da-XXIII-Cupula-Judicial-Ibero-American.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T14:13-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-Cooperacao-do-Judiciario-e-uso-da-IA-sao-temas-em-destaque-na-abertura-da-XXIII-Cupula-Judicial-Ibero-American/C%c3%bapula_PORTAL_GUT_1963.jpg",
+   "editorias": []
+  },
+  {
+   "id": "ab4f71e43c3c",
+   "titulo": "Zanin pede parecer da PGR e AGU sobre ação do PSD por 2º turno no Rio",
+   "resumo": "O ministro do Supremo Tribunal Federal Cristiano Zanin pediu nesta segunda-feira (19) a manifestação da Procuradoria-Geral da República (PGR) e da Advocacia-Geral da União (AGU) sobre a ação que pede a realização de segundo turno para governador do estado do…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/zanin-pede-parecer-da-pgr-e-agu-sobre-acao-do-psd-por-2-turno-no-rio",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-19T14:12-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "fa80008a562e",
+   "titulo": "TJMT anula júri que considerou suposta traição para reduzir pena por tentativa de feminicídio",
+   "resumo": "A alegação de traição ou humilhação em um relacionamento não pode ser utilizada para justificar a violência contra a mulher ou fundamentar a redução d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-anula-juri-que-considerou-suposta-traicao-para-reduzir-pena-por-tentativa-feminicidio",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T11:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "261bea838c9c",
+   "titulo": "Resolver antes que o conflito aumente também é papel do Juizado Especial Criminal",
+   "resumo": "Encerrar um procedimento judicial nem sempre significa colocar fim ao problema que levou duas pessoas à Justiça. Por trás de uma ocorrência podem exis...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/resolver-antes-que-o-conflito-aumente-tambem-e-papel-juizado-especial-criminal",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-19T11:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "cf2b1d530d2d",
+   "titulo": "TSE dá 24 horas para Meta dar informações sobre igualdade de campanhas",
+   "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), deu 24 horas para que a empresa Meta - responsável por plataformas como Facebook, Instagram e WhatsApp - comprove a adoção de medidas de isonomia na distribuição de posts políticos e na…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24-horas-para-meta-dar-informacoes-sobre-igualdade-de-campanhas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-19T10:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "982c6eb51613",
+   "titulo": "STJ sedia XXIII Cúpula Judicial Ibero-Americana; acompanhe transmissão da abertura",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana--acompanhe-transmissao-da-abertura.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T08:04-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana--acompanhe-transmissao-da-abertura/76650_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "a22e52cec230",
+   "titulo": "Informativo destaca responsabilidade de clube visitante por danos ao patrimônio e apreensão de munição isolada",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Informativo-destaca-responsabilidade-de-clube-visitante-por-danos-ao-patrimonio-e-apreensao-de-municao-isolada.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T07:40-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d89de7662a7c",
+   "titulo": "Repetitivo vai definir exigência de previsão expressa da taxa diária de juros em contrato bancário",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Repetitivo-vai-definir-exigencia-de-previsao-expressa-da-taxa-diaria-de-juros-em-contrato-bancario.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Vilas_boas_cueva_INTERNA_MAX_2019.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "consumidor",
+    "pratica",
+    "civel"
+   ]
+  },
+  {
+   "id": "d306fb2b8435",
+   "titulo": "Estado deve pagar honorários no período em que consumidor foi dispensado de recolher Tust e Tusd no ICMS",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Estado-deve-pagar-honorarios-no-periodo-em-que-consumidor-foi-dispensado-de-recolher-Tust-e-Tusd-no-ICMS.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-19T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_LUC_6918.jpg",
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
   {
    "id": "d43a86028baa",
    "titulo": "Quando a inteligência artificial vira questão de Justiça: as primeiras decisões do STJ sobre o uso de IA",
