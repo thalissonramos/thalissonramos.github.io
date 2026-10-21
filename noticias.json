@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-20T04:22-04:00",
+ "atualizado": "2026-10-21T04:25-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,240 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 2,
+   "itens": 4,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "e0a0cdb25b80",
+   "titulo": "Visita de crianças ao STJ valoriza a renovação e a liberdade",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Visita-de-criancas-ao-STJ-valoriza-a-renovacao-e-a-liberdade-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T20:01-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Carrossel_CNX_DSC_0654.jpg",
+   "editorias": []
+  },
+  {
+   "id": "071ee4bbd896",
+   "titulo": "Novo caso de prompt injection: STJ multa advogados em R$ 20 mil por ato contra a dignidade da Justiça",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Novo-caso-de-prompt-injection-STJ-multa-advogados-em-R--20-mil-por-ato-contra-a-dignidade-da-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T19:25-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_LUC_7100.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "991896822d00",
+   "titulo": "AGU busca recuperar R$ 190 milhões de integrantes do PCC e do CV",
+   "resumo": "A Advocacia-Geral da União (AGU) ajuizou quatro ações civis, nesta terça-feira (20), para recuperar bens, no valor de R$ 190,3 milhões, de integrantes do Primeiro Comando da Capital (PCC) e do Comando Vermelho. As ações são baseadas na nova lei 15.358 de 2026…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/agu-busca-recuperar-r-190-milhoes-de-integrantes-do-pcc-e-do-cv",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-20T19:07-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "4129ca633e45",
+   "titulo": "STJ encerra Primeira Rodada de Oficinas da XXIII Cúpula Judicial Ibero-Americana com foco em IA e Justiça",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-encerra-Primeira-Rodada-de-Oficinas-da-XXIII-Cupula-Judicial-Ibero-Americana-com-foco-em-IA-e-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T17:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/20102026-STJ-encerra-Primeira-Rodada-de-Oficinas-da-XXIII-Cupula-Judicial-Ibero-Americana-com-foco-em-IA-e-Justica/CUmbre_PORTAL_INTERNA_LUC_1907.jpg",
+   "editorias": []
+  },
+  {
+   "id": "2313ceabfb59",
+   "titulo": "Direitos Humanos: TJMT integra articulação regional para cumprimento de decisões internacionais",
+   "resumo": "Os dias 15 e 16 de outubro marcaram o 1º Encontro das Unidades de Monitoramento e Fiscalização de Decisões do Sistema Interamericano de Direitos Human...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/direitos-humanos-tjmt-integra-articulacao-regional-para-cumprimento-decisoes-internacionais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T17:40-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "601e4fdb2053",
+   "titulo": "Justiça Eleitoral nega transporte, água e alimentação para indígenas",
+   "resumo": "A Justiça Eleitoral do Amazonas negou a gratuidade de transporte fluvial, água e alimentação para indígenas de 43 aldeias da Terra Indígena Vale do Javari, no Amazonas, no dia da votação do segundo turno das eleições. O pedido foi feito pela União dos Povos…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-eleitoral-nega-transporte-agua-e-alimentacao-para-indigenas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-20T16:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "72d03f90f0c4",
+   "titulo": "Vai participar da 8ª Corrida do Judiciário? Confira dicas para cuidar do corpo",
+   "resumo": "Quem vai participar da 8ª Corrida do Judiciário precisa preparar o corpo antes mesmo de calçar o tênis. Com as altas temperaturas de Cuiabá, cuidar da...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/vai-participar-8-corrida-judiciario-confira-dicas-para-cuidar-corpo",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T16:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "65905320686b",
+   "titulo": "Projeto aproxima a Justiça de comunidade e mobiliza padrinhos para presentear 100 crianças",
+   "resumo": "Cem crianças atendidas pela Associação Águia Ajudando Vidas, que atua em uma comunidade em situação de vulnerabilidade social em Cuiabá, tiveram um sá...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/projeto-aproxima-a-justica-comunidade-e-mobiliza-padrinhos-para-presentear-100-criancas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T16:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7dc19001788b",
+   "titulo": "STJ moderniza serviço de emissão de certidões com nova plataforma digital",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-moderniza-servico-de-emissao-de-certidoes-com-nova-plataforma-digital.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T15:27-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/20102026-STJ-moderniza-servico-de-emissao-de-certidoes-com-nova-plataforma-digital/76265_portal_interna_700x467%20%281%29.jpg",
+   "editorias": []
+  },
+  {
+   "id": "22cf0e06e60c",
+   "titulo": "Justiça Restaurativa promove diálogo entre estudantes e fortalece combate ao bullying nas escolas",
+   "resumo": "Ofensas disfarçadas de brincadeiras, apelidos constrangedores e situações de exclusão fazem parte da realidade de muitos adolescentes no ambiente esco...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/justica-restaurativa-promove-dialogo-entre-estudantes-e-fortalece-combate-ao-bullying-nas-escolas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T15:27-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7e8e9976b3a9",
+   "titulo": "Cemulher capacita rede de enfrentamento à violência contra a mulher de Querência",
+   "resumo": "Mais de 50 profissionais de diversas instituições públicas e da sociedade civil, que integram a Rede de Enfrentamento à Violência Doméstica e Familiar...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-rede-enfrentamento-a-violencia-contra-a-mulher-querencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T14:39-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "penal"
+   ]
+  },
+  {
+   "id": "8aadff50ad5c",
+   "titulo": "TJMT leva experiência em recuperação ambiental a encontro nacional do Tribunal Superior do Trabalho",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) apresentou o Projeto CompensaJUD no 11º Encontro Nacional de Sustentabilidade da Justiça do Trabalho, real...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-leva-experiencia-em-recuperacao-ambiental-a-encontro-nacional-tribunal-superior-trabalho",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T14:29-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "419deb7917d5",
+   "titulo": "Justiça torna ré PM por homicídio de mulher na zona leste de SP",
+   "resumo": "A Justiça de São Paulo reconheceu, nesta terça-feira (20), a policial militar Yasmin Ferreira como responsável pelo homicídio de Thawanna da Silva Salmázio . A agente da polícia é acusada de disparar uma arma de fogo contra a vítima, que estava desarmada, no…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-re-pm-por-homicidio-de-mulher-na-zona-leste-de-sp",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-20T13:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "52585c8fa2b5",
+   "titulo": "Telefones fixos da Comarca de Rosário Oeste estão inoperantes",
+   "resumo": "Os telefones fixos da Comarca de Rosário Oeste estão temporariamente inoperantes. Para garantir a continuidade do atendimento ao público, a unidade di...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/telefones-fixos-comarca-rosario-oeste-estao-inoperantes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T10:38-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d868f06dcc69",
+   "titulo": "Segundo turno das eleições é tema do podcast Explicando Direito",
+   "resumo": "O podcast Explicando Direito recebeu a juíza de Direito Ana Flávia Martins François, da Vara Única da Comarca de Araputanga e juíza eleitoral da 41ª Z...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/segundo-turno-eleicoes-e-tema-podcast-explicando-direito",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-20T09:43-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "da9fc09fa123",
+   "titulo": "STJ Notícias explica se carro furtado com chave na ignição perde cobertura de seguro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-Noticias-explica-se-carro-furtado-com-chave-na-ignicao-perde-cobertura-de-seguro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T07:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "64be1cf9bccd",
+   "titulo": "Ministério Público do Rio renova acordo para enfrentar criminalidade",
+   "resumo": "O acordo de cooperação técnica para a integração de informações estratégicas e o aprimoramento das ações de enfrentamento à criminalidade no estado do Rio foi renovado pelo Ministério Público (MP) e o Instituto de Segurança Pública (ISP). O termo, assinado…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministerio-publico-do-rio-renova-acordo-para-enfrentar-criminalidade",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-20T07:02-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "01e7788a19f9",
+   "titulo": "Juízo do júri deve analisar medidas urgentes em feminicídio de militar em MG; IPM pode apurar outros pontos da investigação",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Juizo-do-juri-deve-analisar-medidas-urgentes-em-feminicidio-de-militar-em-MG--IPM-pode-apurar-outros-pontos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Nilsoni_de_freitas_PORTAL_INTERNA_LUC_2278.jpg",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "22b4cbe8d1bd",
+   "titulo": "Ecad não pode trocar taxa de ocupação informada por hotel por dado de pesquisa de mercado sem justificativa válida",
+   "resumo": "Para a Terceira Turma, substituição injustificada de informação prestada por hotel para cobrança de direitos autorais configura prática ilegal e abusiva.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Ecad-nao-pode-trocar-taxa-de-ocupacao-informada-por-hotel-por-dado-extraido-de-pesquisa-de-mercado-sem.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-20T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_923649628.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
   {
    "id": "a6c19c02686b",
    "titulo": "Entenda como funciona o primeiro Cejusc do país especializado no agronegócio",
@@ -43,7 +272,7 @@
   },
   {
    "id": "6d0a27c79042",
-   "titulo": "Mais empatia: Curso sobre direitos das pessoas com deficiência fortalece atuação do Judiciário",
+   "titulo": "Mais empatia: curso sobre direitos das pessoas com deficiência fortalece atuação do Judiciário",
    "resumo": "“A grande questão, de fato, é a inclusão dessas pessoas. Como elas estão sendo incluídas? Como estão sendo respeitadas diante de suas necessidades? Co...",
    "link": "https://www.tjmt.jus.br/noticias/2026/10/mais-empatia-curso-sobre-direitos-pessoas-deficiencia-fortalece-atuacao-judiciario",
    "fonte": "TJMT",
