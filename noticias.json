@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-21T04:25-04:00",
+ "atualizado": "2026-10-22T04:27-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,220 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 3,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "edd636e3c0cc",
+   "titulo": "Operação Faroeste: Corte Especial condena magistrados por venda de decisões judiciais na Bahia",
+   "resumo": "Relator da ação penal, ministro Og Fernandes destacou a gravidade do caso e os danos causados à imagem e à credibilidade do Poder Judiciário baiano.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Operacao-Faroeste-Corte-Especial-condena-magistrados-por-venda-de-decisoes-judiciais-na-Bahia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-21T21:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/WhatsApp%20Image%202026-10-21%20at%2020.48.25%20%281%29.jpeg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "22fbd339ccc5",
+   "titulo": "Cejusc de Alto Araguaia transforma vínculo de afeto em reconhecimento legal de maternidade",
+   "resumo": "O amor de mãe também se constrói no cuidado de todos os dias, na presença nas reuniões escolares, no acompanhamento do crescimento e nos laços que per...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cejusc-alto-araguaia-transforma-vinculo-afeto-em-reconhecimento-legal-maternidade",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T17:51-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "dbf10ac765ec",
+   "titulo": "Nova edição do Boletim de Precedentes estreia resumo em linguagem simples e temas da relevância",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Boletim-de-Precedentes-estreia-novo-formato-com-temas-da-relevancia-e-linguagem-simples.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-21T17:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/INTERNA_WhatsApp-Image-2026-10-21-at-17.24.jpg",
+   "editorias": []
+  },
+  {
+   "id": "0c07450aa8e4",
+   "titulo": "Reserve a data: Esmagis-MT realizará a IX edição do Sarau Prosa, Poesia e Justiça em dezembro",
+   "resumo": "A arte, a literatura, a cultura e a memória da magistratura mato-grossense voltarão a se encontrar em mais uma edição do Sarau Prosa, Poesia e Justiça...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/reserve-a-data-esmagis-mt-realizara-a-ix-edicao-sarau-prosa-poesia-e-justica-em-dezembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T17:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c3b48fc63777",
+   "titulo": "Projeto de educação ambiental chega à Chapada dos Guimarães na próxima sexta-feira (23)",
+   "resumo": "O projeto “Meio Ambiente e Sustentabilidade: Construindo um Futuro Melhor” realizará sua próxima ação no município de Chapada dos Guimarães. A ativida...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/projeto-educacao-ambiental-chega-a-chapada-guimaraes-na-proxima-sexta-feira-23",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T16:29-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "6929aa4ab35a",
+   "titulo": "Justiça torna réus 12 denunciados por queda de avião da Voepass",
+   "resumo": "A Justiça Federal aceitou a denúncia do Ministério Público Federal (MPF) e tornou réus 12 integrantes da Voepass por envolvimento na queda do avião da empresa . O acidente ocorreu em agosto de 2024, em Vinhedo, no interior paulista, e matou 62 pessoas. Os…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-21T15:47-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "3206f184edd4",
+   "titulo": "Curso aprofundará debate sobre gênero, raça e acesso à Justiça; inscrições terminam dia 23",
+   "resumo": "A compreensão dos impactos das desigualdades de gênero e raça na prestação jurisdicional, a análise de decisões judiciais emblemáticas e o estudo de m...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/curso-aprofundara-debate-sobre-genero-raca-e-acesso-a-justica-inscricoes-terminam-dia-23",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T15:30-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "918bd31d7fa4",
+   "titulo": "Cemulher capacita membros de rede de enfrentamento à violência doméstica de Porto Alegre do Norte",
+   "resumo": "O combate à violência doméstica começa pela prevenção e passa também pela forma como as mulheres vítimas são acolhidas nos diversos ambientes em que c...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-membros-rede-enfrentamento-a-violencia-domestica-porto-alegre-norte",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T15:09-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "da753f3fffad",
+   "titulo": "Expedição Araguaia-Xingu chega à 8ª edição e deve alcançar 300 mil atendimentos",
+   "resumo": "Com a 8ª edição, que ocorrerá entre os dias 4 e 15 de novembro de 2026, a Expedição Araguaia-Xingu deve chegar a quase 300 mil atendimentos. Desde a p...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/expedicao-araguaia-xingu-chega-a-8-edicao-e-deve-alcancar-300-mil-atendimentos",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T14:34-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "df4a97f02c70",
+   "titulo": "Programa Nosso Judiciário recebe 42 acadêmicos de Direito da Unic Pantanal",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) recebeu nesta terça-feira (20) 42 acadêmicos do curso de Direito da Universidade de Cuiabá (Unic), campus ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/programa-nosso-judiciario-recebe-42-academicos-direito-unic-pantanal",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T14:17-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "df7779801d73",
+   "titulo": "Prêmio Conciliar é Legal recebe inscrições e incentiva boas práticas no Judiciário",
+   "resumo": "A busca por soluções pacíficas para conflitos, por meio do diálogo e da construção de acordos, estará em destaque entre os dias 3 e 6 de novembro, dur...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/premio-conciliar-e-legal-recebe-inscricoes-e-incentiva-boas-praticas-no-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T14:01-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "81bbf332d890",
+   "titulo": "Comarca de Sorriso abre seleção para profissional de Psicologia",
+   "resumo": "A Comarca de Sorriso abre inscrições para o processo seletivo destinado ao credenciamento de profissionais de Psicologia, conforme o Edital nº 12/2026...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/comarca-sorriso-abre-selecao-para-profissional-psicologia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T11:50-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "fecf7d6f8479",
+   "titulo": "TJMT publica 34ª edição do Ementário Eletrônico com decisões das áreas cível, pública e criminal",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) disponibiliza a 34ª edição do Ementário Eletrônico, publicação que reúne decisões judiciais sobre temas re...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-publica-34-edicao-ementario-eletronico-decisoes-areas-civel-publica-e-criminal",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-21T09:27-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "civel"
+   ]
+  },
+  {
+   "id": "6544d9ba6f20",
+   "titulo": "TRE-RJ define urnas que serão auditadas no segundo turno",
+   "resumo": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) realiza sábado (24), véspera do segundo turno das eleições para presidente da República, audiência pública para definir as 43 seções eleitorais cujas urnas eletrônicas passarão por procedimentos de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-define-urnas-que-serao-auditadas-no-segundo-turno",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-21T07:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "9238c61425c4",
+   "titulo": "Podcast STJ No Seu Dia discute direito de regresso nas obrigações solidárias e pagamento parcial da dívida",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Podcast-STJ-No-Seu-Dia-discute-direito-de-regresso-nas-obrigacoes-solidarias-e-pagamento-parcial-da-divida.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-21T07:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "b732cf89e5e6",
+   "titulo": "União não paga honorários de sucumbência se for vencida em ação civil pública, confirma STJ em repetitivo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Uniao-nao-paga-honorarios-de-sucumbencia-se-for-vencida-em-acao-civil-publica--confirma-STJ-em-repetitivo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-21T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Benedito_Goncalves_PORTAL_INTERNA_IMG_6042.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "934da827288e",
+   "titulo": "Filho e noivado não bastam para comprovar união estável pós-morte, decide Terceira Turma",
+   "resumo": "Colegiado estabeleceu diferenças entre o namoro qualificado e a união estável, reforçando a necessidade, na união estável, da comprovação de intenção atual de constituir família.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte--decide-Terceira-Turma.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-21T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Terceira_Turma_PORTAL_CAPA_LUC_8249.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "familia"
+   ]
+  },
   {
    "id": "e0a0cdb25b80",
    "titulo": "Visita de crianças ao STJ valoriza a renovação e a liberdade",
