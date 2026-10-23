@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T04:27-04:00",
+ "atualizado": "2026-10-23T04:25-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,194 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 3,
+   "itens": 4,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "c91cf38712b9",
+   "titulo": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
+   "resumo": "O procurador-geral da República, Paulo Gonet, enviou nesta quinta-feira (22) ao Supremo Tribunal Federal (STF) parecer contrário ao pedido de acesso a eventuais registros de entrada e saída da advogada Viviane Barci, esposa do ministro Alexandre de Moraes, e…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-da-parecer-contra-pedido-de-acesso-registro-de-vorcaro-no-senado",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-22T19:49-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "9441740954e6",
+   "titulo": "Enfam oferece duas vagas de mestrado em direito para candidatos de fora da carreira jurídica",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22102026-Enfam-oferece-duas-vagas-de-mestrado-em-direito-para-candidatos-de-fora-da-carreira-juridica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-22T19:03-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/22102026-Enfam-oferece-duas-vagas-de-mestrado-em-direito-para-candidatos-de-fora-da-carreira-juridica/WhatsApp%20Image%202026-10-22%20at%2018.49.16.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "40333e7677e6",
+   "titulo": "Ministro Benedito Gonçalves é o próximo entrevistado do Programa Explicando Direito",
+   "resumo": "Nesta sexta-feira (22 de outubro), vai ao ar mais uma edição do programa Explicando Direito. Desta vez, o ministro Benedito Gonçalves foi entrevistado...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/ministro-benedito-goncalves-e-o-proximo-entrevistado-programa-explicando-direito",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T18:21-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b38e5ebec4ce",
+   "titulo": "Mendonça diz que Flávio e Lula podem divulgar sigilos",
+   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), decidiu nesta quinta-feira (22) que as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) podem divulgar seus sigilos bancários, fiscal e telefônico, conforme acordo assinado…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-diz-que-flavio-e-lula-podem-divulgar-sigilos",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-22T17:53-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "9211ba75c6bd",
+   "titulo": "Cemulher capacita rede de enfrentamento à violência contra a mulher de São Félix do Araguaia",
+   "resumo": "Em torno de 80 representantes de instituições públicas e da sociedade civil organizada de São Félix do Araguaia (1.200 km ao nordeste de Cuiabá) se re...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-rede-enfrentamento-a-violencia-contra-a-mulher-sao-felix-araguaia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T17:10-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7e54628e8276",
+   "titulo": "Desembargadora Gabriela Knaul reforça importância da preceptoria na formação integral do magistrado",
+   "resumo": "O conhecimento jurídico é requisito indispensável para ingressar na magistratura, mas está longe de ser suficiente para formar um juiz preparado para ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/desembargadora-gabriela-knaul-reforca-importancia-preceptoria-na-formacao-integral-magistrado",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T17:05-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "adfd3171b074",
+   "titulo": "Curso sobre juiz das garantias e audiência de custódia abre vagas para assessores",
+   "resumo": "Estão abertas as inscrições para assessores de magistrados participarem do curso “Juiz das Garantias e Audiência de Custódia: Atuação Judicial e Prote...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/curso-sobre-juiz-garantias-e-audiencia-custodia-abre-vagas-para-assessores",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T16:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "b1510b6d8a44",
+   "titulo": "STJ sediará a 9ª Competição Brasileira de Processo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22102026-STJ-sediara-a-9a-Competicao-Brasileira-de-Processo-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-22T16:03-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/22102026-STJ-sediara-a-9a-Competicao-Brasileira-de-Processo-/76655_portal_interna_700x467%20%281%29.jpg",
+   "editorias": []
+  },
+  {
+   "id": "aaa00917e0c3",
+   "titulo": "Comarca de Brasnorte publica edital para doação de bens móveis do acervo patrimonial",
+   "resumo": "A Comarca de Brasnorte tornou público o Edital nº 006/2026-DF-BRA, que regulamenta a doação de bens móveis considerados inservíveis, por serem antieco...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/comarca-brasnorte-publica-edital-para-doacao-bens-moveis-acervo-patrimonial",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T15:49-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "01b136877eb7",
+   "titulo": "Aposentadoria Humanizada: Tribunal reconhece legado de servidores em encontro marcado pela gratidão",
+   "resumo": "A aposentadoria é um momento importante da vida de todo trabalhador, que traz consigo a ruptura de uma rotina duradoura e a transição para novos desaf...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/aposentadoria-humanizada-tribunal-reconhece-legado-servidores-em-encontro-marcado-pela-gratidao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T15:38-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "2f8df9456275",
+   "titulo": "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula",
+   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, concedeu nesta quinta-feira (22) prazo de 24 horas para Meta apresentar um relatório técnico sobre o funcionamento do canal Exército do Lula , criado no WhatsApp para postagens…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-pede-meta-relatorio-sobre-canal-exercito-do-lula",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-22T15:25-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "d6c28b5a5f17",
+   "titulo": "TJMT mantém proteção patrimonial em separação marcada por alegações de violência econômica",
+   "resumo": "Em meio a uma separação conjugal marcada por alegações de violência patrimonial, dependência econômica e dificuldades de acesso às informações finance...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-mantem-protecao-patrimonial-em-separacao-marcada-por-alegacoes-violencia-economica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-22T13:57-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "familia"
+   ]
+  },
+  {
+   "id": "8514eadab7ad",
+   "titulo": "Entender Direito: quem julga quem nas eleições?",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22102026-Entender-Direito-quem-julga-quem-nas-eleicoes-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-22T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "71f10267d1c5",
+   "titulo": "Rádio Decidendi discute prescrição do fundo de direito no Tema 1.410 do STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22102026-Radio-Decidendi-discute-prescricao-do-fundo-de-direito-no-Tema-1-410-do-STJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-22T07:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "4acdb02cf134",
+   "titulo": "INSS não pode negar automaticamente pedido de benefício apto sem permitir complementação de prova",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22102026-INSS-nao-pode-negar-automaticamente-pedido-de-beneficio-apto-sem-permitir-complementacao-de-prova-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-22T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_AdobeStock_587768377_Editorial_Use_Only.jpg",
+   "editorias": []
+  },
   {
    "id": "edd636e3c0cc",
    "titulo": "Operação Faroeste: Corte Especial condena magistrados por venda de decisões judiciais na Bahia",
@@ -58,12 +241,12 @@
   {
    "id": "dbf10ac765ec",
    "titulo": "Nova edição do Boletim de Precedentes estreia resumo em linguagem simples e temas da relevância",
-   "resumo": "",
+   "resumo": "Informativo agora traz temas da relevância e resumo simplificado",
    "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Boletim-de-Precedentes-estreia-novo-formato-com-temas-da-relevancia-e-linguagem-simples.aspx",
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-10-21T17:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/INTERNA_WhatsApp-Image-2026-10-21-at-17.24.jpg",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/veja_tambem/VT-novo-do-stj.png",
    "editorias": []
   },
   {
