@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T04:25-04:00",
+ "atualizado": "2026-10-24T04:17-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,250 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 5,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "d8fdbeac3001",
+   "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz. O ministro também ordenou quebra dos sigilos bancário, fiscal e cambial, além da suspensão dos…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-23T20:56-04:00",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1706383&amp;o=rss",
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "82d805f8d1d7",
+   "titulo": "Ministra rejeita ação que pedia transporte interestadual na eleição",
+   "resumo": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), negou nesta sexta-feira (23) pedido protocolado pela campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) para estender a gratuidade de transporte público no segundo turno para viagens…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-23T20:12-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "312b97ce9d41",
+   "titulo": "STJ e PNUD unem esforços por uma Justiça mais diversa e inclusiva",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-e-PNUD-unem-esforcos-por-uma-Justica-mais-diversa-e-inclusiva.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-23T19:04-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "270241e4698b",
+   "titulo": "Educação judicial fortalece qualidade da prestação jurisdicional, afirma ministro Benedito Gonçalves",
+   "resumo": "A educação judicial deve acompanhar toda a trajetória da magistratura e é um dos principais instrumentos para aperfeiçoar a qualidade da prestação jur...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/educacao-judicial-fortalece-qualidade-prestacao-jurisdicional-afirma-ministro-benedito-goncalves",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T18:13-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b94070c67288",
+   "titulo": "Cemulher capacita profissionais da rede de enfrentamento à violência contra a mulher de Vila Rica",
+   "resumo": "Quase 50 profissionais que atuam no atendimento a mulheres em situação de violência de gênero em Vila Rica (1.259 km ao nordeste de Cuiabá) participar...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-profissionais-rede-enfrentamento-a-violencia-contra-a-mulher-vila-rica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T17:37-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "953e71b67850",
+   "titulo": "Educação ambiental mobiliza estudantes em Chapada dos Guimarães em ação do Cesima",
+   "resumo": "Reciclagem, preservação ambiental, sustentabilidade e cidadania foram temas que marcaram a manhã desta sexta-feira (23 de outubro) dos estudantes da E...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/educacao-ambiental-mobiliza-estudantes-em-chapada-guimaraes-em-acao-cesima",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T17:17-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a46419b94f43",
+   "titulo": "Integração e troca de experiências marcarão o I Encontro das Escolas do Sistema de Justiça de MT",
+   "resumo": "Promover a aproximação entre as instituições responsáveis pela formação e aperfeiçoamento dos profissionais que atuam no Sistema de Justiça é um dos p...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/integracao-e-troca-experiencias-marcarao-o-i-encontro-escolas-sistema-justica-mt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T17:09-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "03b001080761",
+   "titulo": "STJ recebe prêmio do CNJ por projeto de gestão de pessoas; veja como foi a homenagem",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-recebe-premio-do-CNJ-por-projeto-de-gestao-de-pessoas--veja-como-foi-a-homenagem.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-23T16:46-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23102026-STJ-recebe-premio-do-CNJ-por-projeto-de-gestao-de-pessoas--veja-como-foi-a-homenagem/PORTAL_LUC_4910.gif",
+   "editorias": []
+  },
+  {
+   "id": "5265bdc1b123",
+   "titulo": "Obras literárias contribuem para atividades educacionais e reintegração social no sistema prisional",
+   "resumo": "O Centro de Detenção Provisória de Cáceres (220km de Cuiabá) recebeu a doação de 40 livros do advogado e escritor José de Castro Júnior. Os exemplares...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/obras-literarias-contribuem-para-atividades-educacionais-e-reintegracao-social-no-sistema-prisional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T16:32-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "aa28a470040b",
+   "titulo": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
+   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), reiterou nesta sexta-feira (23) a decisão em que liberou as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) a divulgarem, por conta própria, seus sigilos bancários, fiscal e…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-23T15:19-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "1247fa665d47",
+   "titulo": "Judiciário de MT funciona em regime de plantão neste fim de semana (24 e 25 de outubro)",
+   "resumo": "Neste fim de semana (24 e 25 de outubro), o Poder Judiciário de Mato Grosso atua em regime de plantão para o recebimento dos feitos cíveis de urgência...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/judiciario-mt-funciona-em-regime-plantao-neste-fim-semana-24-e-25-outubro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T15:18-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "7f8f770cff88",
+   "titulo": "STJ define novas diretrizes para lançamento de livros no espaço físico da corte",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-define-novas-diretrizes-para-lancamento-de-livros-no-espaco-fisico-da-corte.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-23T15:11-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23102026-STJ-define-novas-diretrizes-para-lancamento-de-livros-no-espaco-fisico-da-corte/LUC_2267.jpg",
+   "editorias": []
+  },
+  {
+   "id": "37adc5a0aaa7",
+   "titulo": "Órgão Especial aprova Código de Conduta e fortalece integridade no Judiciário de MT",
+   "resumo": "O Órgão Especial do Tribunal de Justiça de Mato Grosso (TJMT) aprovou, nesta quinta-feira (22 de outubro), o Código de Conduta dos Agentes Públicos do...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/orgao-especial-aprova-codigo-conduta-e-fortalece-integridade-no-judiciario-mt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T15:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "22d37155dde9",
+   "titulo": "Método CIS estimula reflexão e novos projetos de vida no sistema prisional de Rondonópolis",
+   "resumo": "Uma nova maneira de enxergar a própria história, reconhecer os erros e acreditar que é possível recomeçar. Essa foi a experiência relatada por uma pes...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/metodo-cis-estimula-reflexao-e-novos-projetos-vida-no-sistema-prisional-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T14:49-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "394e8335878e",
+   "titulo": "Araguaia-Xingu levará serviços jurídicos e de cidadania a Bom Jesus do Araguaia e Confresa",
+   "resumo": "Moradores de Bom Jesus do Araguaia (800 km de Cuiabá) e de Confresa (1.050 km de Cuiabá) terão acesso a serviços jurídicos, orientações sobre benefíci...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/araguaia-xingu-levara-servicos-juridicos-e-cidadania-a-bom-jesus-araguaia-e-confresa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T13:19-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "22fd265e9072",
+   "titulo": "Sistema de justiça é convidado a participar da elaboração da proposta de indulto 2026",
+   "resumo": "Órgãos do sistema de justiça, instituições públicas, autoridades, profissionais, especialistas, entidades representativas e organizações da sociedade ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/sistema-justica-e-convidado-a-participar-elaboracao-proposta-indulto-2026",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-23T11:44-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b2ea286ab53a",
+   "titulo": "TSE dá 24h para Meta e X explicarem distribuição de material político",
+   "resumo": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, deu prazo de 24 horas para que a empresa Meta – responsável pelas plataformas Facebook, Instagram e WhatsApp – e a rede social X revelem detalhes sobre a remoção de publicações e a…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24h-para-meta-e-x-explicarem-distribuicao-de-material-politico",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-23T09:04-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "1eefb839beea",
+   "titulo": "Diretora é presa por desvio de alimentos em unidade prisional feminina",
+   "resumo": "O Ministério Público do Rio de Janeiro (MPRJ) obteve, nesta quinta-feira (22), a conversão da prisão em flagrante em preventiva de Graça Maria Silva de Souza, diretora do Instituto Penal Oscar Stevenson – unidade prisional feminina em Benfica, zona norte do…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/diretora-e-presa-por-desvio-de-alimentos-em-unidade-prisional-feminina",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-23T07:02-04:00",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1706278&amp;o=rss",
+   "editorias": [
+    "familia",
+    "penal"
+   ]
+  },
+  {
+   "id": "ad57da3ad796",
+   "titulo": "Notícia de interesse social justifica prevalência da liberdade de informação sobre proteção da privacidade de figura pública",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-Noticia-de-interesse-social-justifica-prevalencia-da-liberdade-de-informacao-sobre-protecao-da-privacidade-de-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-23T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Raul_Araujo_PORTAL_INTERNA_LPO_4539.jpg",
+   "editorias": []
+  },
+  {
+   "id": "884866873652",
+   "titulo": "Site Reclame Aqui não pode ser automaticamente responsabilizado por avaliações negativas de consumidores",
+   "resumo": "Terceira Turma decidiu que o Reclame Aqui atua como um provedor de aplicação de internet e não responde automaticamente pelo conteúdo de reclamações postadas na plataforma por consumidores.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-Site-Reclame-Aqui-nao-pode-ser-automaticamente-responsabilizado-por-avaliacoes-negativas-de-consumidores-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-23T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Terceira_Turma_PORTAL_CAPA_LUC_8249.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "consumidor"
+   ]
+  },
   {
    "id": "c91cf38712b9",
    "titulo": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
