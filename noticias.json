@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T04:17-04:00",
+ "atualizado": "2026-10-25T04:15-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,7 +23,7 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 5,
+   "itens": 2,
    "ok": true
   }
  },
