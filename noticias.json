@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T04:15-04:00",
+ "atualizado": "2026-10-26T04:34-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,24 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 2,
+   "itens": 1,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "d006186a961e",
+   "titulo": "Advogado vê sabotagem à democracia em falta de transporte de eleitores",
+   "resumo": "A falta de transporte público para eleitores durante o segundo turno, neste domingo (25), representa uma sabotagem ao processo democrático. Esta é a avaliação do advogado e professor de direito eleitoral Guilherme Gonçalves, integrante da Academia Brasileira…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/advogado-ve-sabotagem-democracia-em-falta-de-transporte-de-eleitores",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-25T18:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
   {
    "id": "d8fdbeac3001",
    "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
