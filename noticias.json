@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T04:34-04:00",
+ "atualizado": "2026-10-27T04:30-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,187 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 1,
+   "itens": 2,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "a564f46fa309",
+   "titulo": "Presidente do STJ reconhece contribuição de ministros da corte nas eleições gerais de 2026",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Presidente-do-STJ-reconhece-contribuicao-de-ministros-da-corte-nas-eleicoes-gerais-de-2026.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-26T18:47-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/26102026-Presidente-do-STJ-reconhece-contribuicao-de-ministros-da-corte-nas-eleicoes-gerais-de-2026/Salom%c3%a3oTSE1.jpeg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "58c33cd5ad4c",
+   "titulo": "Comarca de Nova Mutum abre seleção para credenciamento de psicólogos",
+   "resumo": "A Comarca de Nova Mutum (242km de Cuiabá) abre processo seletivo para credenciar profissionais de Psicologia. Previsto no Edital n. 1/2026-Cnpar, o pr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/comarca-nova-mutum-abre-selecao-para-credenciamento-psicologos",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T18:09-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "5e30894c2f71",
+   "titulo": "TRE-BA revoga ordem de prisão de secretário de Mobilidade de Salvador",
+   "resumo": "O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Maurício Kertzman Szporer, revogou, nesta segunda-feira (26), a ordem de prisão em flagrante do secretário municipal de Mobilidade de Salvador, Pablo Souza. O magistrado tinha ordenado , no…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-ba-revoga-ordem-de-prisao-de-secretario-de-mobilidade-de-salvador",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-26T17:13-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "54a405345c08",
+   "titulo": "Ações de saúde e assistência social estão na programação da 8ª Expedição Araguaia-Xingu",
+   "resumo": "A 8ª Expedição Araguaia-Xingu vai oferecer serviços gratuitos de saúde e ações de solidariedade à população de Bom Jesus do Araguaia e Confresa. As at...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/acoes-saude-e-assistencia-social-estao-na-programacao-8-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T17:09-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "4c1a6296c8a6",
+   "titulo": "Tribunal não terá expediente na sexta (30) e na segunda (2)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Tribunal-nao-tera-expediente-na-sexta--30--e-na-segunda--2-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-26T17:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_Fachada_26.10.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "2843f2a68f79",
+   "titulo": "TJ capacita rede de enfrentamento à violência contra a mulher de Ribeirão Cascalheira",
+   "resumo": "A Coordenadoria Estadual da Mulher em Situação de Violência Doméstica e Familiar do Tribunal de Justiça de Mato Grosso (Cemulher-MT) encerrou uma sema...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tj-capacita-rede-enfrentamento-a-violencia-contra-a-mulher-ribeirao-cascalheira",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T16:18-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "penal"
+   ]
+  },
+  {
+   "id": "393a2dd4c4e1",
+   "titulo": "Fórum de Cuiabá realiza caminhada noturna pelo Outubro Rosa",
+   "resumo": "A união entre mulheres, o incentivo ao autocuidado e a conscientização sobre o câncer de mama marcaram a 2ª Caminhada Noturna para Mulheres “Corra Ros...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/forum-cuiaba-realiza-caminhada-noturna-pelo-outubro-rosa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T16:06-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "92959447e762",
+   "titulo": "Verde Novo integra força-tarefa para ampliar arborização urbana em Cuiabá",
+   "resumo": "Transformar ruas mais quentes em espaços sombreados, melhorar a qualidade do ar e devolver a Cuiabá o verde que faz parte de sua identidade. Esse é o ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/verde-novo-integra-forca-tarefa-para-ampliar-arborizacao-urbana-em-cuiaba",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T15:19-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "02c3d2ecbb41",
+   "titulo": "TJMT reforça segurança digital com nova autenticação para acesso aos sistemas administrativos",
+   "resumo": "A partir da próxima quarta-feira (28), o Tribunal de Justiça de Mato Grosso (TJMT) implantará a autenticação de dois fatores (MFA) para acesso aos sis...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-reforca-seguranca-digital-nova-autenticacao-para-acesso-aos-sistemas-administrativos",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T14:42-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "30496381f594",
+   "titulo": "Além do processo, acompanhamento psicossocial no Jecrim abre caminhos para novas escolhas",
+   "resumo": "Quando uma pessoa chega ao Núcleo Psicossocial (NUPS) do Juizado Especial Criminal de Cuiabá, o olhar da equipe não se restringe ao fato que a levou a...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/alem-processo-acompanhamento-psicossocial-no-jecrim-abre-caminhos-para-novas-escolhas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T11:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "087ed2f3c421",
+   "titulo": "TJMT publica guia com orientações para pagamento de custas por cartão de crédito",
+   "resumo": "Pagar as custas de um processo com poucos cliques, no próprio celular ou computador, e parcelar o valor no cartão de crédito sem precisar esperar uma ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-publica-guia-orientacoes-para-pagamento-custas-por-cartao-credito",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-26T08:03-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "6278587bef40",
+   "titulo": "Reajuste em seguro de vida em grupo e dano por violação de direito autoral são destaques em Informativo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Reajuste-em-seguro-de-vida-em-grupo-e-dano-por-violacao-de-direito-autoral-sao-destaques-em-Informativo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-26T07:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "35a15db8e853",
+   "titulo": "Condenado por crimes da Operação Condor cumprirá pena no Brasil; prisão perpétua é convertida em pena de 30 anos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Condenado-por-crimes-da-Operacao-Condor-cumprira-pena-no-Brasil--prisao-perpetua-e-convertida-em-pena-de-30-anos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-26T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sebasti%c3%a3o_Reis_PORTAL_INTERNA_EGUT_5276.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "3a2891b3a215",
+   "titulo": "Primeira Seção fixa critérios para valor de indenização em desapropriações; colegiado modula efeitos",
+   "resumo": "Sob o rito da relevância, teses buscam atender regra legal de avaliação do imóvel desapropriado e preço justo tanto para o Estado quanto para o particular. Decisão tem impacto em quase 100 mil processos sobre desapropriações em trâmite na Justiça.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-26T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_2218950525.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
   {
    "id": "d006186a961e",
    "titulo": "Advogado vê sabotagem à democracia em falta de transporte de eleitores",
