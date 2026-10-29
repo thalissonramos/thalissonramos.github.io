@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T04:37-04:00",
+ "atualizado": "2026-10-29T04:40-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,14 +23,215 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 5,
+   "itens": 4,
    "ok": true
   }
  },
  "itens": [
   {
+   "id": "56621f8a7878",
+   "titulo": "Audiência pública MP 1.394/2026",
+   "resumo": "Banner na cor azul com o texto \"Audiência pública - Impactos da MP 1.394/2026\".",
+   "link": "https://noticias.stf.jus.br/audiencia-publica-mp-1-394-2026/",
+   "fonte": "STF",
+   "fonte_id": "stf",
+   "data": "2026-10-28T20:18-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "b80ea1dc0239",
+   "titulo": "STJ debate proteção à infância com supremos tribunais de países de língua portuguesa",
+   "resumo": "Presidente da corte, ministro Luis Felipe Salomão, falou sobre as mudanças no regime jurídico brasileiro e as medidas para proteção de crianças e adolescentes no ambiente digital.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-STJ-debate-protecao-a-infancia-com-supremos-tribunais-de-paises-de-lingua-portuguesa.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T18:29-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_Conferencia_Mocambique-2026-10-28.jpg",
+   "editorias": []
+  },
+  {
+   "id": "f36791507bda",
+   "titulo": "Juíza do TJMT é aprovada com louvor em doutorado sobre sustentabilidade empresarial",
+   "resumo": "A juíza Henriqueta Fernanda Chaves Alencar Ferreira Lima, do Tribunal de Justiça de Mato Grosso, foi aprovada com louvor no doutorado do Programa de P...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/juiza-tjmt-e-aprovada-louvor-em-doutorado-sobre-sustentabilidade-empresarial",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T18:29-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "6709a767acbd",
+   "titulo": "Justiça bloqueia R$ 327 mi do CV por venda ilegal de gás de cozinha",
+   "resumo": "O Grupo de Atuação Especial de Combate ao Crime Organizado do Ministério Público do Estado do Rio de Janeiro (Gaeco) denunciou nesta quarta-feira (28), 12 integrantes da facção criminosa Comando Vermelho (CV) acusados de controlar a comercialização de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-bloqueia-r-327-mi-do-cv-por-venda-ilegal-de-gas-de-cozinha",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-28T16:41-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "43057cfd7bf5",
+   "titulo": "Comarca de Sorriso irá credenciar profissional de Fisioterapia",
+   "resumo": "A Comarca de Sorriso torna pública a abertura de processo seletivo para credenciar pessoa física na área de fisioterapia, para atendimento de magistra...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/comarca-sorriso-ira-credenciar-profissional-fisioterapia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T16:37-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "74df837a34ef",
+   "titulo": "Dia do Servidor: presidente do TJMT agradece dedicação de profissionais que fortalecem a Justiça",
+   "resumo": "Neste 28 de outubro, Dia do Servidor Público, o Poder Judiciário de Mato Grosso homenageia os servidores e servidoras que, com dedicação, responsabili...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/dia-servidor-presidente-tjmt-agradece-dedicacao-profissionais-que-fortalecem-a-justica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T16:25-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "98cd807536f4",
+   "titulo": "Justiça de Mato Grosso está entre as primeiras em tempo de tramitação",
+   "resumo": "O Poder Judiciário de Mato Grosso ocupa a quarta posição nacional no tempo de tramitação de processos de feminicídio, a quinta em ações relacionadas à...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/justica-mato-grosso-esta-entre-as-primeiras-em-tempo-tramitacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T15:45-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "6b2c9f5808ff",
+   "titulo": "Kassio pede à PGR parecer sobre revisão da pena de Bolsonaro",
+   "resumo": "O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), concedeu nesta quarta-feira (28) prazo de dez dias para Procuradoria-Geral da República (PGR) se manifestar sobre o pedido de revisão criminal protocolado pela defesa do ex-presidente Jair…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-pede-pgr-parecer-sobre-revisao-da-pena-de-bolsonaro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-28T14:46-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "a5b302113584",
+   "titulo": "Inscrições abertas: curso promoverá análise de recurso especial e precedentes qualificados",
+   "resumo": "Estão abertas as inscrições para o curso “Admissibilidade do Recurso Especial, Relevância da Questão Federal e o Sistema Brasileiro de Precedentes”, o...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/inscricoes-abertas-curso-promovera-analise-recurso-especial-e-precedentes-qualificados",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T14:19-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "bda779d68f88",
+   "titulo": "Compra de carrinho infantil termina em fraude e indenização de R$ 5 mil",
+   "resumo": "Uma consumidora que perdeu R$ 4.312,00 após cair em um golpe em uma compra de carrinho elétrico infantil pela internet deverá ser ressarcida e receber...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/compra-carrinho-infantil-termina-em-fraude-e-indenizacao-r-5-mil",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T11:44-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor",
+    "civel"
+   ]
+  },
+  {
+   "id": "a0d545be09da",
+   "titulo": "Prêmio Acadêmico de Conciliação reúne estudantes de Direito em Rondonópolis",
+   "resumo": "Estudantes de Direito de quatro instituições de ensino superior de Rondonópolis apresentaram propostas para tornar a Justiça mais acessível, ágil e vo...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/premio-academico-conciliacao-reune-estudantes-direito-em-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-28T11:05-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "08a61509d2fd",
+   "titulo": "REJuriSTJ recebe artigos científicos até 10 de novembro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-REJuriSTJ-recebe-artigos-cientificos-ate-10-de-novembro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T09:34-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "42f34e18e69c",
+   "titulo": "Trabalho, estudo, leitura e amamentação: reportagem especial mostra como o STJ aplica a remição de pena",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Trabalho--estudo--leitura-e-amamentacao-reportagem-especial-mostra-como-o-STJ-aplica-a-remicao-de-pena-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "35cfead886ba",
+   "titulo": "Podcast STJ No Seu Dia debate contratos de proteção patrimonial mutualista",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Podcast-STJ-No-Seu-Dia-debate-contratos-de-protecao-patrimonial-mutualista.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T07:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "56aedc4d3094",
+   "titulo": "Falta de análise de provas favoráveis à defesa leva STJ a restabelecer a absolvição de réu condenado por estupro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Falta-de-analise-de-provas-favoraveis-a-defesa-leva-STJ-a-restabelecer-a-absolvicao-de-reu-condenado-por-estupro-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Rogerio_Schietti_PORTAL_INTERNA_MAX_9060.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "1e488c9a4f0c",
+   "titulo": "Exclusão indevida de idosa de plano de saúde é condição suficiente para caracterizar dano moral",
+   "resumo": "Para a Terceira Turma, situação de hipervulnerabilidade da pessoa idosa afasta necessidade de comprovação de que beneficiária excluída do plano tenha sofrido abalos pela falta de custeio de tratamento pela operadora.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Exclusao-indevida-de-idosa-de-plano-de-saude-e-condicao-suficiente-para-caracterizar-dano-moral--define-Terceira.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-28T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_Idosa_plano_saude_AdobeStock_2110050603.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "consumidor",
+    "civel"
+   ]
+  },
+  {
    "id": "4a244c636486",
-   "titulo": "MPSP passa a usar SmartSampa para combate ao crime organizado",
+   "titulo": "MPSP passa a usar Smart Sampa para combate ao crime organizado",
    "resumo": "O Ministério Público de São Paulo formalizou parceria com a Prefeitura de São Paulo para usar o sistema de monitoramento por câmeras em operação na cidade, o Smart Sampa, para investigações de combate ao crime organizado e em ações focadas no combate à…",
    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpsp-passa-usar-smartsampa-para-combate-ao-crime-organizado",
    "fonte": "Agência Brasil",
