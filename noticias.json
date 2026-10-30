@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T04:40-04:00",
+ "atualizado": "2026-10-30T04:41-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,225 @@
   }
  },
  "itens": [
+  {
+   "id": "a441ee89079b",
+   "titulo": "Desembargadores homenageiam servidores públicos durante sessão da Terceira Câmara de Direito Privado",
+   "resumo": "O Dia do Servidor Público, celebrado em 28 de outubro, foi lembrado durante a sessão ordinária da Terceira Câmara de Direito Privado do Tribunal de Ju...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/desembargadores-homenageiam-servidores-publicos-durante-sessao-terceira-camara-direito-privado",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T18:51-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "64830c6c49b1",
+   "titulo": "Dia do Servidor Público: Fórum de Várzea Grande homenageia profissionais do Judiciário",
+   "resumo": "A trajetória de quem dedica décadas ao serviço público foi celebrada nesta quarta-feira (28 de outubro), durante as comemorações pelo Dia do Servidor ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/dia-servidor-publico-forum-varzea-grande-homenageia-profissionais-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T17:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b084da93c799",
+   "titulo": "Lições que não estão nos livros: a importância da experiência compartilhada na preceptoria judicial",
+   "resumo": "A formação necessária para ingressar na magistratura exige anos de estudo e preparação. No entanto, muitos dos desafios enfrentados pelos juízes no ex...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/licoes-que-nao-estao-nos-livros-a-importancia-experiencia-compartilhada-na-preceptoria-judicial",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T17:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "77abd27dac34",
+   "titulo": "Operação Contenção: DPRJ pede R$ 50 milhões em reparação a moradores",
+   "resumo": "A Defensoria Pública do Estado do Rio de Janeiro (DPRJ) entrou com uma ação civil pública na Justiça pedindo que os moradores dos Complexos da Penha e do Alemão atingidos pela Operação Contenção sejam indenizados em R$ 50 milhões. O valor, segundo a DPRJ…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/operacao-contencao-dprj-pede-r-50-milhoes-em-reparacao-moradores",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-29T17:01-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "1065a9d1b443",
+   "titulo": "8ª Expedição Araguaia-Xingu terá atividades educativas, esportivas e ambientais",
+   "resumo": "Crianças e famílias de Bom Jesus do Araguaia (800 km de Cuiabá) e Confresa (1.050 km de Cuiabá) terão acesso a atividades esportivas, culturais, educa...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/8-expedicao-araguaia-xingu-tera-atividades-educativas-esportivas-e-ambientais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T16:52-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "197a6b152802",
+   "titulo": "Semana Nacional da Conciliação começa terça-feira (3) com audiências em todo Mato Grosso",
+   "resumo": "O Poder Judiciário de Mato Grosso inicia na próxima terça-feira (3 de novembro) a 21ª Semana Nacional da Conciliação, uma mobilização que busca incent...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/semana-nacional-conciliacao-comeca-terca-feira-3-audiencias-em-todo-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T16:33-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "9c7d6e930dea",
+   "titulo": "“Meu trabalho, nossa Justiça, minha história”: servidores compartilham trajetórias no Judiciário\u0000",
+   "resumo": "No último dia 28 de outubro, milhares de servidoras e servidores públicos celebraram suas conquistas profissionais, legados construídos e contribuiçõe...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/meu-trabalho-nossa-justica-minha-historia-servidores-compartilham-trajetorias-no-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T15:42-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "807bdb44071a",
+   "titulo": "Corregedoria prevê 197 sessões de julgamento durante o Mês Nacional do Júri em novembro",
+   "resumo": "Em novembro, o Poder Judiciário de Mato Grosso participa do Mês Nacional do Júri com o agendamento de 197 processos para julgamento em 48 comarcas de ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/corregedoria-preve-197-sessoes-julgamento-durante-o-mes-nacional-juri-em-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T15:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "89484edc470a",
+   "titulo": "Clube do Livro incentiva leitura e ressocialização em unidades prisionais de Cáceres",
+   "resumo": "Nas páginas de um livro, a imaginação ultrapassa barreiras físicas, percorre lugares desconhecidos e descobre possibilidades que vão além da realidade...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/clube-livro-incentiva-leitura-e-ressocializacao-em-unidades-prisionais-caceres",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T15:06-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "53573d692596",
+   "titulo": "Judiciário de MT funciona em regime de plantão de 30 de outubro a 2 novembro",
+   "resumo": "Durante o ponto facultativo do Dia do Servidor Público, fim de semana, e feriado nacional de Dia dos Finados (30 de outubro a 2 de novembro),o Poder J...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/judiciario-mt-funciona-em-regime-plantao-30-outubro-a-2-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T14:29-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "3b9e492b2d5a",
+   "titulo": "TJMT celebra Dia do Servidor com reflexão sobre relações humanas",
+   "resumo": "Um olhar atento, uma escuta acolhedora e a disposição para compreender o outro podem transformar as relações no ambiente de trabalho. Foi com essa ref...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-celebra-dia-servidor-reflexao-sobre-relacoes-humanas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-29T14:18-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "62b42b30192a",
+   "titulo": "STJ recebe embaixadoras da Suécia para intercâmbio de boas práticas em direitos humanos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29102026-STJ-recebe-embaixadoras-da-Suecia-para-intercambio-de-boas-praticas-em-direitos-humanos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-29T13:58-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/29102026-STJ-recebe-embaixadoras-da-Suecia-para-intercambio-de-boas-praticas-em-direitos-humanos/PORTAL_RLZ-1315.jpg",
+   "editorias": []
+  },
+  {
+   "id": "eb7170a44cc8",
+   "titulo": "STJ e Tribunal Supremo de Moçambique discutem cooperação institucional",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29102023-STJ-e-Tribunal-Supremo-de-Mocambique-discutem-cooperacao-institucional.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-29T13:41-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/29102023-STJ-e-Tribunal-Supremo-de-Mocambique-discutem-cooperacao-institucional/portal2.jpg",
+   "editorias": []
+  },
+  {
+   "id": "3297744d9671",
+   "titulo": "Fachin arquiva mais cinco investigações do Inquérito das Fake News",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, determinou o arquivamento de mais cinco investigações que integravam o chamado Inquérito das Fake News. As investigações encerradas tinham como alvo o presidente do PCO, Rui Costa Pimenta…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-arquiva-mais-cinco-investigacoes-do-inquerito-das-fake-news",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-29T13:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "11c5c83b843b",
+   "titulo": "Condenado por lesão corporal contra mulher fica inelegível, decide TSE",
+   "resumo": "O plenário do Tribunal Superior Eleitoral (TSE) decidiu, nesta quinta-feira (29), que a condenação colegiada por lesão corporal contra a mulher é razão para inelegibilidade. Por unanimidade, os ministros confirmaram a rejeição do registro de candidatura ao…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/condenado-por-lesao-corporal-contra-mulher-fica-inelegivel-decide-tse",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-29T12:13-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "6f41cc98d16a",
+   "titulo": "STJ realiza Encontro Nacional do Poder Judiciário sobre a Relevância da Questão de Direito Federal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29102026-STJ-realiza-Encontro-Nacional-do-Poder-Judiciario-sobre-a-Relevancia-da-Questao-de-Direito-Federal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-29T07:30-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/29102026-STJ-realiza-Encontro-Nacional-do-Poder-Judiciario-sobre-a-Relevancia-da-Questao-de-Direito-Federal/77717_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "c50f41a21d38",
+   "titulo": "Rádio Decidendi debate direitos de militares transgênero nas Forças Armadas",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29102026-Radio-Decidendi-debate-direitos-de-militares-transgenero-nas-Forcas-Armadas.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-29T07:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "61a79378e253",
+   "titulo": "Novo auxílio pago para atingidos por desastre de Brumadinho ficará suspenso até julgamento de recurso da Vale no STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/29102026-Novo-auxilio-pago-para-atingidos-por-desastre-de-Brumadinho-ficara-suspenso-ate-julgamento-de-recurso-da-Vale.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-29T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/isabel_Gallotti_PORTAL_INTERNA_MAX_5064.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
   {
    "id": "56621f8a7878",
    "titulo": "Audiência pública MP 1.394/2026",
