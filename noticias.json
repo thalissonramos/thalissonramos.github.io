@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T04:41-04:00",
+ "atualizado": "2026-10-31T04:32-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,43 @@
   }
  },
  "itens": [
+  {
+   "id": "0f2ad64eceea",
+   "titulo": "Presidente do STJ encerra agenda institucional a Moçambique neste fim de semana",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/30102026-Presidente-do-STJ-encerra-agenda-institucional-a-Mocambique-neste-fim-de-semana.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-10-30T16:51-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/30102026-Presidente-do-STJ-encerra-agenda-institucional-a-Mocambique-neste-fim-de-semana/Mo%c3%a7ambique.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "339ddb66dc2d",
+   "titulo": "Caseiro explorado e usado como laranja no DF receberá pensão mensal",
+   "resumo": "A Justiça do Trabalho determinou o pagamento de uma pensão mensal de um salário mínimo a um caseiro de 56 anos que passou 28 anos trabalhando para uma família no Distrito Federal em condições análogas à escravidão. O homem também foi usado como laranja em…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/caseiro-explorado-eusado-como-laranja-no-df-recebera-pensao-mensal",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-30T15:49-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "9816b7465380",
+   "titulo": "Cejusc de Rondonópolis terá mobilização e foco educacional na 21ª Semana Nacional da Conciliação",
+   "resumo": "Com uma programação diversificada que une mutirões de audiências e ações voltadas à educação para a cidadania, o Centro Judiciário de Solução de Confl...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/10/cejusc-rondonopolis-tera-mobilizacao-e-foco-educacional-na-21-semana-nacional-conciliacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-10-30T08:02-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
   {
    "id": "a441ee89079b",
    "titulo": "Desembargadores homenageiam servidores públicos durante sessão da Terceira Câmara de Direito Privado",
