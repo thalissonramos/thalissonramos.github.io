@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T04:32-04:00",
+ "atualizado": "2026-11-01T04:36-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,38 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 5,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "9a18b7f944ad",
+   "titulo": "STF determina soltura de desembargador preso na Operação Unha e Carne",
+   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes autorizou a soltura do desembargador federal Macário Júdice. Ele havia sido preso durante a Operação Unha e Carne, da Polícia Federal (PF), em dezembro do ano passado. >> Clique aqui e leia mais…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-determina-soltura-de-desembargador-preso-na-operacao-unha-e-carne",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-31T14:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "466d1f4a2f9c",
+   "titulo": "Justiça intima Jairinho a justificar apelação por morte de Henry Borel",
+   "resumo": "O desembargador Joaquim Domingos de Almeida Neto, da 7ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro (TJRJ), determinou a intimação da defesa do ex-vereador Jairo Souza Santos Júnior, conhecido como Dr. Jairinho, a apresentar as razões que embasam…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-intima-jairinho-justificar-apelacao-por-morte-de-henry-borel",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-10-31T09:04-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
   {
    "id": "0f2ad64eceea",
    "titulo": "Presidente do STJ encerra agenda institucional a Moçambique neste fim de semana",
