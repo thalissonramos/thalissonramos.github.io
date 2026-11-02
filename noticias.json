@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T04:36-04:00",
+ "atualizado": "2026-11-02T04:50-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,19 @@
   }
  },
  "itens": [
+  {
+   "id": "362172f86be3",
+   "titulo": "Fux atende AGU e inclui ministérios e Abras em debate sobre bets",
+   "resumo": "A pedido da Advocacia-Geral da União (AGU), o ministro Luiz Fux, do Supremo Tribunal Federal (STF), decidiu neste domingo (1°) convocar representantes dos ministérios da Saúde e da Justiça e Segurança Pública para a audiência em que vão ser discutidos os…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-01T16:55-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
   {
    "id": "9a18b7f944ad",
    "titulo": "STF determina soltura de desembargador preso na Operação Unha e Carne",
