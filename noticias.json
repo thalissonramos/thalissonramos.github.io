@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-03T04:47-04:00",
+ "atualizado": "2026-11-04T04:45-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,275 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 5,
+   "itens": 8,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "0f6cebc69e2d",
+   "titulo": "CJF abre prazo para envio de enunciados à V Jornada de Direito Processual Civil",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-CJF-abre-prazo-para-envio-de-enunciados-a-V-Jornada-de-Direito-Processual-Civil.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T19:14-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "5ff1aaa5a6d8",
+   "titulo": "TJMT abre Semana da Conciliação com incentivo ao diálogo e à pacificação social",
+   "resumo": "Uma conversa pode evitar um processo, encurtar caminhos e, principalmente, resolver problemas que uma sentença nem sempre consegue solucionar. É com e...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-abre-semana-conciliacao-incentivo-ao-dialogo-e-a-pacificacao-social",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T18:37-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7455791e0014",
+   "titulo": "Ministro aponta ligação entre bets e crime organizado",
+   "resumo": "O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, disse nesta terça-feira (3) que o governo federal constatou uma “proximidade indesejável” entre o setor de bets e o crime organizado. Durante audiência pública convocada pelo Supremo…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ministro-aponta-ligacao-entre-bets-e-crime-organizado",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-03T18:20-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "0906535df6a8",
+   "titulo": "AGU defende medida provisória que proibiu bets no país",
+   "resumo": "O advogado-geral da União, Jorge Messias, defendeu nesta terça-feira (3) a validade da Medida Provisória 1.394 de 2026, que proibiu o funcionamento das empresas que operam sites de apostas online, as bets. A defesa foi em audiência pública convocada pelo…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-medida-provisoria-que-proibiu-bets-no-pais",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-03T17:25-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "1be3eaa0ac09",
+   "titulo": "Mais Júri: Homem é condenado a 30 anos de prisão por homicídio no Shopping Popular de Cuiabá",
+   "resumo": "O Tribunal do Júri de Cuiabá condenou Welinton Gabriel da Silva Lacerda a 30 anos e quatro meses de prisão, em regime inicial fechado, por homicídio q...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/mais-juri-homem-e-condenado-a-30-anos-prisao-por-homicidio-no-shopping-popular-cuiaba",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T17:13-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "3a8c788fe3a6",
+   "titulo": "Comarca de Sorriso incentiva diálogo para solucionar conflitos durante campanha nacional",
+   "resumo": "A Comarca de Sorriso iniciou, nesta terça-feira (3), a 21ª Semana Nacional de Conciliação, uma mobilização que busca reunir esforços para promover aco...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-sorriso-incentiva-dialogo-para-solucionar-conflitos-durante-campanha-nacional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T16:23-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "244f54b1b4d9",
+   "titulo": "Clubes de futebol criticam fim das bets; governo ressalta danos",
+   "resumo": "Representantes de clubes de futebol afirmaram nesta terça-feira (3), em audiência pública no Supremo Tribunal Federal (STF), que a proibição das apostas de quota fixa compromete receitas previstas em contratos firmados sob a legislação então vigente. Em…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/clubes-de-futebol-criticam-fim-das-bets-governo-ressalta-danos",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-03T16:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica",
+    "civel"
+   ]
+  },
+  {
+   "id": "ab81e11320b7",
+   "titulo": "Manual do CNJ orienta Judiciário a fortalecer acessibilidade e inclusão de pessoas com deficiência",
+   "resumo": "O Conselho Nacional de Justiça (CNJ) publicou o Manual Técnico: Atuação e Julgamento à Luz da Convenção sobre os Direitos das Pessoas com Deficiência ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/manual-cnj-orienta-judiciario-a-fortalecer-acessibilidade-e-inclusao-pessoas-deficiencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T15:35-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "56a614d72678",
+   "titulo": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-STJ-Noticias-aborda-decisao-sobre-alteracao-de-paternidade-em-registro-civil-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T14:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "9feed2b38252",
+   "titulo": "Programa Explicando Direito debate os desafios da vida após o acolhimento institucional",
+   "resumo": "Nesta sexta-feira (6 de novembro), vai ao ar mais uma edição do programa Explicando Direito. Desta vez, o juiz Antônio Veloso Peleja Júnior, coordenad...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/programa-explicando-direito-debate-os-desafios-vida-apos-o-acolhimento-institucional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T14:48-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "573a6c997da3",
+   "titulo": "Justiça mais perto da população com novo Ponto de Inclusão Digital em Espigão do Leste",
+   "resumo": "Moradores do Distrito de Espigão do Leste, em São Félix do Araguaia (1.064km de Cuiabá), já contam com um Ponto de Inclusão Digital (PID) do Poder Jud...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-mais-perto-populacao-novo-ponto-inclusao-digital-em-espigao-leste",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T14:12-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "9a69359c6c3b",
+   "titulo": "CNJ abre inscrições para capacitação gratuita sobre sistema de execução penal",
+   "resumo": "Magistrados, servidores e profissionais que atuam na execução penal poderão participar, entre os dias 9 e 17 de novembro, do 8º Ciclo de Capacitações ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cnj-abre-inscricoes-para-capacitacao-gratuita-sobre-sistema-execucao-penal",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T13:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "b9c1c86d97d3",
+   "titulo": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Projeto-do-STJ-e-do-PNUD-para-diversidade-e-fortalecimento-da-Justica-lanca-informativo-mensal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T11:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/03112026-Projeto-do-STJ-e-do-PNUD-para-diversidade-e-fortalecimento-da-Justica-lanca-informativo-mensal/78489_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "d9edb11c6daf",
+   "titulo": "Campanha ReciclaJUD incentiva unidades do TJMT a transformar resíduos em solidariedade",
+   "resumo": "Sabe aquele papel que já não tem utilidade, a garrafa PET vazia ou a latinha de alumínio que seria descartada? Esses materiais podem ganhar um destino...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/campanha-reciclajud-incentiva-unidades-tjmt-a-transformar-residuos-em-solidariedade",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T11:55-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "673dc3853ee4",
+   "titulo": "CNJ: Inscrições abertas para webinário sobre julgamento e direitos das pessoas com deficiência",
+   "resumo": "Estão abertas as inscrições para o webinário “Manual Técnico: Atuação e Julgamento à Luz da Convenção sobre os Direitos das Pessoas com Deficiência no...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cnj-inscricoes-abertas-para-webinario-sobre-julgamento-e-direitos-pessoas-deficiencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T11:16-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "7e94ce7fec5a",
+   "titulo": "Segunda etapa do concurso dos cartórios mobilizou mais de 800 candidatos em Cuiabá",
+   "resumo": "Cuiabá recebeu 863 candidatos oriundos de todas as partes do país para participar da segunda etapa do Concurso Público de Provas e Títulos para Outorg...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/segunda-etapa-concurso-cartorios-mobilizou-mais-800-candidatos-em-cuiaba",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-03T11:02-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "aa1ddf7392f9",
+   "titulo": "Fux rebate críticas e diz ter percepção de que bets devem ser banidas",
+   "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), rebateu nesta terça-feira (3) críticas sobre a escolha de participantes para a audiência pública convocada por ele sobre a proibição das bets no Brasil. Fux destacou que em uma primeira audiência sobre…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-rebate-criticas-e-diz-ter-percepcao-de-que-bets-devem-ser-banidas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-03T10:52-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "5dd77c843fd3",
+   "titulo": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-STJ-lanca-nova-pagina-de-consulta-processual-com-foco-em-acessibilidade-e-eficiencia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T08:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/03112026-STJ-lanca-nova-pagina-de-consulta-processual-com-foco-em-acessibilidade-e-eficiencia/76453_consulta_processual_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "e85e44e8c10f",
+   "titulo": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Consulta-a-pagina-de-jurisprudencia-do-STJ-ajuda-a-evitar-citacoes-falsas-geradas-por-IA.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Pesquisa_jurisprudencia_INTERNA_PORTAL_AdobeStock_2106290741.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "2a1a77bb96a3",
+   "titulo": "Prazo para cobrar prejuízos causados por ex-presidente de associação é de dez anos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Prazo-para-cobrar-prejuizos-causados-por-ex-presidente-de-associacao-e-de-dez-anos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Terceira_turma_PORTAL_INTERNA_RLZ_6943.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "6f4c8eea183a",
+   "titulo": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
+   "resumo": "Entre as teses fixadas, colegiado admitiu o uso da natureza e da quantidade de entorpecentes tanto para aumentar a pena-base quanto para afastar o tráfico privilegiado.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Terceira-Secao-define-cinco-teses-repetitivas-sobre-a-natureza-e-a-quantidade-de-drogas-no-calculo-da-pena-por.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-03T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Drogas_balan%c3%a7a_CAPA_PORTAL_AdobeStock_2205020948.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
   {
    "id": "362172f86be3",
    "titulo": "Fux atende AGU e inclui ministérios e Abras em debate sobre bets",
