@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-04T04:45-04:00",
+ "atualizado": "2026-11-05T04:48-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,237 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 8,
+   "itens": 6,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "85d5dd69cff7",
+   "titulo": "3º Prêmio Acadêmico de Conciliação revela talentos do Direito e soluções inovadoras em Rondonópolis",
+   "resumo": "Estudantes do curso de Direito de quatro universidades de Rondonópolis foram premiados, na terça-feira (3), pela apresentação de projetos inovadores v...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/3-premio-academico-conciliacao-revela-talentos-direito-e-solucoes-inovadoras-em-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T18:23-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d64913549e47",
+   "titulo": "Fachin dá 15 dias para PGR analisar indiciamento de Vorcaro",
+   "resumo": "O ministro Edson Fachin, do Supremo Tribunal Federal (STF), deu prazo de 15 dias para a Procuradoria-Geral da República (PGR) se manifestar sobre o relatório no qual a Polícia Federal (PF) indiciou o ex-banqueiro Daniel Vorcaro e mais 14 investigados pelas…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-da-15-dias-para-pgr-analisar-indiciamento-de-vorcaro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-04T17:27-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "77cc3d6bcb0f",
+   "titulo": "Energisa e Claro são primeiras empresas a integrar programa Selo Amigo dos Juizados Especiais",
+   "resumo": "A Energisa Mato Grosso e a Claro S/A são as primeiras empresas de Mato Grosso a integrarem o programa Selo Amigo dos Juizados Especiais. A iniciativa ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/energisa-e-claro-sao-primeiras-empresas-a-integrar-programa-selo-amigo-juizados-especiais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T17:21-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "71826a3f1270",
+   "titulo": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
+   "resumo": "Desembargadora aposentada Sandra Inês Azevedo foi condenada pela Corte Especial à pena de 14 anos e 20 dias de prisão. Ela é a segunda integrante do TJBA a receber condenação pelo colegiado.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Operacao-Faroeste-STJ-condena-mais-uma-desembargadora-do-TJBA-e-cassa-aposentadoria.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T17:11-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_RLZ_1525.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "718c8cc56c53",
+   "titulo": "Confira o valor da UPF para novembro de 2026",
+   "resumo": "O Departamento de Controle e Arrecadação (DCA) do Tribunal de Justiça de Mato Grosso (TJMT) informa que o valor da Unidade Padrão Fiscal (UPF/MT) para...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/confira-o-valor-upf-para-novembro-2026",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T16:27-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ef70295775a8",
+   "titulo": "Círculo de Paz promove reflexão sobre bullying e convivência respeitosa entre estudantes",
+   "resumo": "Diálogo, escuta e empatia foram os caminhos escolhidos para levar alunos a refletir sobre o respeito às diferenças e a construção de relações mais sau...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/circulo-paz-promove-reflexao-sobre-bullying-e-convivencia-respeitosa-entre-estudantes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T16:07-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f92b66d34c54",
+   "titulo": "Justiça de MT intensifica julgamentos de processos envolvendo violência contra a mulher",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) participará da 34ª Semana da Justiça pela Paz em Casa, entre os dias 23 e 27 de novembro. A mobilização na...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-mt-intensifica-julgamentos-processos-envolvendo-violencia-contra-a-mulher",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T15:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "74eac3b6a3cc",
+   "titulo": "Ministro Og Fernandes participa de sua última sessão na Corte Especial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ministro-Og-Fernandes-participa-de-sua-ultima-sessao-na-Corte-Especial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T15:40-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Og_Fernandes_homenagem_PORTAL_INTERNA_RLZ_1504.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "a4b2e0831051",
+   "titulo": "Anote na Agenda: I Encontro Estadual das Escolas do Sistema de Justiça tem nova data e local",
+   "resumo": "O “I Encontro Estadual das Escolas do Sistema de Justiça de Mato Grosso – Diálogo, conhecimento e integração em favor da sociedade mato-grossense”, te...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/anote-na-agenda-i-encontro-estadual-escolas-sistema-justica-tem-nova-data-e-local",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T15:22-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "1d4d9da397a9",
+   "titulo": "Judcultura: entre Fórum e os corais, servidora encontra na música uma paixão que atravessa gerações",
+   "resumo": "Há heranças que não cabem em caixas ou álbuns de família. São as canções que os pais cantam, os acordes que ecoam pela casa e as melodias que, sem per...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judcultura-entre-forum-e-os-corais-servidora-encontra-na-musica-uma-paixao-que-atravessa-geracoes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T15:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "sucessoes",
+    "familia"
+   ]
+  },
+  {
+   "id": "f54150455854",
+   "titulo": "Banco deve indenizar pessoa sob curatela por empréstimo consignado sem autorização",
+   "resumo": "Descontos realizados no benefício previdenciário de uma pessoa submetida a curatela, sem comprovação de contratação válida de empréstimo consignado, l...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/banco-deve-indenizar-pessoa-sob-curatela-por-emprestimo-consignado-sem-autorizacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T13:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "familia",
+    "consumidor",
+    "civel"
+   ]
+  },
+  {
+   "id": "cb37c6bc6231",
+   "titulo": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ministro-Og-Fernandes-lanca-livro-sobre-a-historia-do-STF-em-10-de-novembro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T13:26-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/04112026-Ministro-Og-Fernandes-lanca-livro-sobre-a-historia-do-STF-em-10-de-novembro/77672_jornal_mural_cdju.jpg",
+   "editorias": []
+  },
+  {
+   "id": "8bfcae6c2a79",
+   "titulo": "Contagem regressiva para a 8ª Corrida do Judiciário; retirada dos kits começa nesta sexta-feira (06)",
+   "resumo": "A contagem regressiva começou! A 8ª Corrida do Judiciário está chegando e os (as) atletas já podem preparar o tênis e entrar no clima da competição. A...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/contagem-regressiva-para-a-8-corrida-judiciario-retirada-kits-comeca-nesta-sexta-feira-06",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T11:21-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0e9bf1a1063b",
+   "titulo": "Nova edição do Ementário Eletrônico reúne entendimentos das câmaras julgadoras do TJMT",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) disponibilizou a 35ª edição do Ementário Eletrônico, referente a outubro de 2026. A publicação reúne decis...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/nova-edicao-ementario-eletronico-reune-entendimentos-camaras-julgadoras-tjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-04T10:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "55ce5f9a764c",
+   "titulo": "Nova edição da Pesquisa Pronta destaca Protocolo para Julgamento com Perspectiva de Gênero",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Nova-edicao-da-Pesquisa-Pronta-destaca-Protocolo-para-Julgamento-com-Perspectiva-de-Genero.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T08:20-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "3d37b631794d",
+   "titulo": "Informativo destaca cláusulas abusivas em operações de proteção patrimonial mutualista",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Informativo-destaca-clausulas-abusivas-em-operacoes-de-protecao-patrimonial-mutualista-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T07:50-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b4107d97d119",
+   "titulo": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-fixa-criterios-para-honorarios-por-habilitacao-e-impugnacao-de-credito-em-recuperacao-ou-falencia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T07:10-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Isabel%20Gallotti%20interna.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "a8a274c7259e",
+   "titulo": "Ex-cônjuge que mora com os filhos no imóvel do outro não precisa pagar aluguel",
+   "resumo": "Para a Terceira Turma, apesar da incomunicabilidade do bem adquirido antes do casamento, a presença dos filhos do casal no imóvel beneficia a ambos os pais e garante moradia digna para a prole.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ex-conjuge-que-mora-com-os-filhos-no-imovel-do-outro-nao-precisa-pagar-aluguel.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-04T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_1971527411.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "familia",
+    "civel"
+   ]
+  },
   {
    "id": "0f6cebc69e2d",
    "titulo": "CJF abre prazo para envio de enunciados à V Jornada de Direito Processual Civil",
@@ -2874,39 +3100,6 @@
    "editorias": [
     "pratica"
    ]
-  },
-  {
-   "id": "517132b37782",
-   "titulo": "Página da Ouvidoria do STF",
-   "resumo": "",
-   "link": "https://noticias.stf.jus.br/pagina-da-ouvidoria-do-stf/",
-   "fonte": "STF",
-   "fonte_id": "stf",
-   "data": "2026-10-05T18:45-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "7b7a0fa0b62f",
-   "titulo": "Série ‘STF Dados”",
-   "resumo": "",
-   "link": "https://noticias.stf.jus.br/serie-stf-dados/",
-   "fonte": "STF",
-   "fonte_id": "stf",
-   "data": "2026-10-05T18:34-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "db490fc8c684",
-   "titulo": "Confira as matérias especiais da série ‘STF Dados’",
-   "resumo": "",
-   "link": "https://noticias.stf.jus.br/confira-as-materias-especiais-da-serie-stf-dados/",
-   "fonte": "STF",
-   "fonte_id": "stf",
-   "data": "2026-10-05T18:32-04:00",
-   "imagem": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/08/14194326/Artes-Portal_Noticia-PORTAL-700x374.jpg.jpeg",
-   "editorias": []
   }
  ]
 }
