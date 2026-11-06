@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-05T04:48-04:00",
+ "atualizado": "2026-11-06T04:45-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,275 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 6,
+   "itens": 4,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "34d71f6e091b",
+   "titulo": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-Tribunais-debatem-desafios-e-expectativas-sobre-o-novo-regime-de-relevancia-do-STJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T20:54-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/05112026-Tribunais-debatem-desafios-e-expectativas-sobre-o-novo-regime-de-relevancia-do-STJ/LUC_8786.jpg",
+   "editorias": []
+  },
+  {
+   "id": "e63f6b06bbd2",
+   "titulo": "Fachin mantém prisão de cunhado de Vorcaro",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, negou nesta quinta-feira (5) pedido para soltar o empresário Fabiano Zettel, um dos investigados na Operação Compliance Zero, que apura fraudes no Banco Master. O ministro também rejeitou…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-cunhado-de-vorcaro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-05T20:43-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "consumidor"
+   ]
+  },
+  {
+   "id": "07281c8dc54a",
+   "titulo": "Mendonça concede prisão domiciliar a investigado por descontos no INSS",
+   "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) conceder prisão domiciliar ao empresário Maurício Camisotti, um dos investigados pelos descontos irregulares nos benefícios do Instituto Nacional do Seguro Social…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mendonca-concede-prisao-domiciliar-investigado-por-descontos-no-inss",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-05T19:59-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "civel"
+   ]
+  },
+  {
+   "id": "c784488eda87",
+   "titulo": "Projetos que modernizam serviços levam TJMT à final de prêmio nacional",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) está entre os finalistas da 7ª edição do Prêmio de Inovação J.Ex, que reconhece iniciativas capazes de tra...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/projetos-que-modernizam-servicos-levam-tjmt-a-final-premio-nacional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T18:05-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "465d902af28e",
+   "titulo": "CNJ promove 4º Fórum Nacional da Infância e da Juventude",
+   "resumo": "O 4º Fórum Nacional da Infância e da Juventude (FONINJ), promovido pelo Conselho Nacional de Justiça (CNJ), será realizado no dia 25 de novembro de 20...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cnj-promove-4-forum-nacional-infancia-e-juventude",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T17:46-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d5184a916c32",
+   "titulo": "Novo espaço do Cejusc de 2º Grau amplia acolhimento e incentivo à conciliação no TJMT",
+   "resumo": "Resolver um conflito nem sempre significa esperar por uma sentença. Muitas vezes, a solução pode nascer do diálogo, da escuta e da disposição das part...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/novo-espaco-cejusc-2-grau-amplia-acolhimento-e-incentivo-a-conciliacao-no-tjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T17:39-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "dc2281c49352",
+   "titulo": "TJMT realizará 10ª edição do Mutirão de Conciliação Ambiental de 23 a 27 de novembro",
+   "resumo": "Tribunal de Justiça de Mato Grosso (TJMT) realizará entre os dias 23 e 27 de novembro a 10ª edição do Mutirão de Conciliação Ambiental de Mato Grosso ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-realizara-10-edicao-mutirao-conciliacao-ambiental-23-a-27-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T16:30-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "9b4dc12c906d",
+   "titulo": "Dino marca audiência de conciliação sobre fim da escala 6x1",
+   "resumo": "O ministro Flávio Dino, Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) convocar uma audiência de conciliação para tratar das ações que contestam o fim da escala de trabalho 6x1 . A audiência foi marcada para 10 de novembro, às 14h, na Primeira…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-05T16:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "c5addef5b944",
+   "titulo": "Representantes do TJMT participam de fórum nacional sobre violência contra a mulher",
+   "resumo": "A troca de experiências, a discussão de estratégias e a construção de respostas mais efetivas para o enfrentamento à violência contra a mulher estarão...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/representantes-tjmt-participam-forum-nacional-sobre-violencia-contra-a-mulher",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T16:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f9e6fb41a8e6",
+   "titulo": "Corregedoria apresenta modelo de governança fundiária em Fórum Fundiário Nacional",
+   "resumo": "A experiência do Poder Judiciário de Mato Grosso na estruturação da governança fundiária no Estado foi apresentada nesta quinta-feira (5), durante o 1...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-apresenta-modelo-governanca-fundiaria-em-forum-fundiario-nacional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T15:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "064e1e71bbc9",
+   "titulo": "Judiciário de MT avança na definição de metas e projetos estratégicos para os próximos seis anos",
+   "resumo": "Transformar os objetivos institucionais em metas e projetos capazes de melhorar a prestação jurisdicional e gerar resultados concretos para a sociedad...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judiciario-mt-avanca-na-definicao-metas-e-projetos-estrategicos-para-os-proximos-seis-anos",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T14:47-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c9d17a7d0ac7",
+   "titulo": "TJMT prepara 8ª edição do Mutirão Interligue Já com 500 audiências de conciliação",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) realizará, de 1º a 5 de dezembro, a 8ª edição do Mutirão de Saneamento do Projeto Interligue Já. Estão pre...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-prepara-8-edicao-mutirao-interligue-ja-500-audiencias-conciliacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T14:34-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "1e839b329597",
+   "titulo": "GDF pede transferência de R$ 2,2 bilhões do pai de Vorcaro para BRB",
+   "resumo": "O governo do Distrito Federal (GDF) pediu nesta quinta-feira (5) ao Supremo Tribunal Federal (STF) que R$ 2,2 bilhões bloqueados nas contas de Henrique Vorcaro, pai do ex-banqueiro Daniel Vorcaro, sejam transferidos imediatamente para Banco de Brasília (BRB)…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gdf-pede-transferencia-de-r-22-bilhoes-do-pai-de-vorcaro-para-brb",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-05T14:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "30b27b41573c",
+   "titulo": "Corrida do Judiciário é neste domingo (08); confira trajetos e esquema de segurança",
+   "resumo": "A 8ª Corrida do Judiciário, que será realizada neste domingo (8) em Cuiabá, contará com um esquema especial de segurança e organização do trânsito par...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corrida-judiciario-e-neste-domingo-08-confira-trajetos-e-esquema-seguranca",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T13:43-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f8a412c4385e",
+   "titulo": "Juíza de Mato Grosso compartilha experiência do Juizado do Torcedor em seminário nacional",
+   "resumo": "A juíza Patrícia Ceni, do 7º Juizado Especial de Cuiabá e do Juizado Especial do Torcedor e dos Grandes Eventos (JET) será uma das palestrantes do 2º ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juiza-mato-grosso-compartilha-experiencia-juizado-torcedor-em-seminario-nacional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-05T13:14-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c8440c961752",
+   "titulo": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-e-CNJ-assinam-acordo-de-cooperacao-para-compartilhamento-de-dados-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T12:49-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/05112026-STJ-e-CNJ-assinam-acordo-de-cooperacao-para-compartilhamento-de-dados-/PORTAL_RLZ-2171.jpg",
+   "editorias": []
+  },
+  {
+   "id": "3390912e952c",
+   "titulo": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-reune-tribunais-para-debater-aplicacao-da-relevancia-nos-recursos-especiais.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T12:24-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/05112026-STJ-reune-tribunais-para-debater-aplicacao-da-relevancia-nos-recursos-especiais/PORTAL_RLZ-1850.jpg",
+   "editorias": []
+  },
+  {
+   "id": "0268aee560ba",
+   "titulo": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-apresenta-novas-ferramentas-e-programas-para-fortalecer-atuacao-como-corte-de-precedentes.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T12:06-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_GUT_8937.jpg",
+   "editorias": []
+  },
+  {
+   "id": "6f289b32a749",
+   "titulo": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-Radio-Decidendi-aborda-relacao-entre-os-repetitivos-e-o-novo-modelo-da-relevancia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T07:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "dba37eea3350",
+   "titulo": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-lanca-tutorial-sobre-nova-pagina-do-calendario-de-sessoes-de-julgamento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T07:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "e0764efb8127",
+   "titulo": "Terceira Seção reconhece relevância sobre exigência de laudo técnico para avaliar personalidade do agente na dosimetria da pena",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-Terceira-Secao-reconhece-relevancia-sobre-exigencia-de-laudo-tecnico-para-avaliar-personalidade-do-agente-na.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sergio%20Kukina%20interna.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "bb779eb1b8a9",
+   "titulo": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-realiza-Encontro-Nacional-sobre-a-Relevancia-da-Questao-de-Direito-Federal--com-transmissao-ao-vivo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-05T06:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
   {
    "id": "85d5dd69cff7",
    "titulo": "3º Prêmio Acadêmico de Conciliação revela talentos do Direito e soluções inovadoras em Rondonópolis",
