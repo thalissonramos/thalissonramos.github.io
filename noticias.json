@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-06T04:45-04:00",
+ "atualizado": "2026-11-07T04:39-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,188 @@
   }
  },
  "itens": [
+  {
+   "id": "c2f6ff5aeb97",
+   "titulo": "Inscrições para servidores em curso sobre recurso especial e precedentes começam hoje na Esmagis-MT",
+   "resumo": "Estão abertas, a partir desta sexta-feira (6 de novembro), as inscrições para servidores(as) da atividade-fim que atuam diretamente no apoio à ativida...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/inscricoes-para-servidores-em-curso-sobre-recurso-especial-e-precedentes-comecam-hoje-na-esmagis-mt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T18:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "75f66b19e9bd",
+   "titulo": "Experiência que ensina: preceptoria aproxima gerações da magistratura mato-grossense",
+   "resumo": "A troca de experiências entre diferentes gerações da magistratura tem se mostrado uma das principais ferramentas de formação dos juízes em estágio pro...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/experiencia-que-ensina-preceptoria-aproxima-geracoes-magistratura-mato-grossense",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T17:50-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c5b2338002bd",
+   "titulo": "Explicando Direito debate os desafios enfrentados por jovens após o acolhimento institucional",
+   "resumo": "A vida de adolescentes e jovens que deixam instituições de acolhimento ao atingirem a maioridade e precisam construir seu caminho para a autonomia é o...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/explicando-direito-debate-os-desafios-enfrentados-por-jovens-apos-o-acolhimento-institucional",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T17:43-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "5050adf72d2d",
+   "titulo": "Ex-funcionários e colaboradores da Oi começam a receber indenizações",
+   "resumo": "Os ex-funcionários e colaboradores da empresa de telefonia Oi começaram a receber o pagamento de verbas rescisórias de natureza indenizatória nesta sexta-feira (6). De acordo com a Justiça, nesta primeira etapa, os valores serão distribuídos por meio de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ex-funcionarios-e-colaboradores-da-oi-comecam-receber-indenizacoes",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-06T17:30-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor",
+    "civel"
+   ]
+  },
+  {
+   "id": "feca5cb55e42",
+   "titulo": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-STJ-lanca-livro-sobre-transformacao-digital-e-protecao-das-criacoes-intelectuais.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-06T15:51-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/06112026-STJ-lanca-livro-sobre-transformacao-digital-e-protecao-das-criacoes-intelectuais/78692_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "495816241d7a",
+   "titulo": "Magistrados do TJMT participam de debates nacionais sobre o direito à saúde",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) participou do V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus), realizado nos dias 5 e 6...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/magistrados-tjmt-participam-debates-nacionais-sobre-o-direito-a-saude",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T15:22-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "31898a875ee3",
+   "titulo": "Corregedoria reúne instituições para alinhar tramitação de Termos Circunstanciados",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso (CGJ-MT) realizou, sexta-feira (06), uma reunião com representantes das instituições de segurança públi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-reune-instituicoes-para-alinhar-tramitacao-termos-circunstanciados",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T15:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ed346c80c46e",
+   "titulo": "Judiciário de MT funciona em regime de plantão neste fim de semana (7 e 8 de novembro)",
+   "resumo": "Neste fim de semana (7 e 8 de novembro), o Poder Judiciário de Mato Grosso atua em regime de plantão para o recebimento dos feitos cíveis de urgência,...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judiciario-mt-funciona-em-regime-plantao-neste-fim-semana-7-e-8-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T14:24-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "5f5e42137439",
+   "titulo": "Araguaia-Xingu: União de instituições garante serviços que impactam a vida de quem mais precisa",
+   "resumo": "O zelador Osvaldo Marques de Oliveira, 62 anos, está há seis anos necessitando de novos óculos de grau. Há dois anos, desde que se acidentou trabalhan...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/araguaia-xingu-uniao-instituicoes-garante-servicos-que-impactam-a-vida-quem-mais-precisa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T14:04-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f1c0f3e08d53",
+   "titulo": "Desembargador apresenta ferramentas de IA desenvolvidas pelo TJMT em evento na Espanha",
+   "resumo": "Ferramentas tecnológicas desenvolvidas pelo Tribunal de Justiça de Mato Grosso, como PJe, LexIA e Hannah, foram apresentadas pelo desembargador Lídio ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/desembargador-apresenta-ferramentas-ia-desenvolvidas-pelo-tjmt-em-evento-na-espanha",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T13:54-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "39f7a96dd1fd",
+   "titulo": "Corregedoria inicia últimas correições para alcançar 100% unidades judiciárias de Mato Grosso",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso (CGJ-TJMT) inicia, na próxima segunda-feira (9), correições ordinárias presenciais nas comarcas de Quer...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-inicia-ultimas-correicoes-para-alcancar-100-unidades-judiciarias-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-06T13:34-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "819ca8e817b3",
+   "titulo": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-STJ-recebe-participantes-do-Caminhos-para-a-Lideranca-de-Mulheres-na-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-06T12:22-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/06112026-STJ-recebe-participantes-do-Caminhos-para-a-Lideranca-de-Mulheres-na-Justica/DanielaMulheres2.png",
+   "editorias": []
+  },
+  {
+   "id": "5006f78bcf5c",
+   "titulo": "Médica é denunciada à Justiça após morte de paciente em lipoescultura",
+   "resumo": "O Ministério Público do Estado do Rio de Janeiro (MPRJ) denunciou à Justiça a médica Geysa Leal Correa pela morte da paciente Aline Heloisa Lima Santos de Oliveira, durante um procedimento estético. A morte ocorreu após uma lipoescultura feita pela médica, em…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/medica-e-denunciada-justica-apos-morte-de-paciente-em-lipoescultura",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-06T07:44-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "f625a5168601",
+   "titulo": "Terceira Turma define forma de pagamento de créditos na falência por trabalho prestado na recuperação judicial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-Terceira-Turma-define-forma-de-pagamento-de-creditos-na-falencia-por-trabalho-prestado-na-recuperacao-judicial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-06T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ricardo%20Villas%20B%c3%b4as%20Cueva%20interna.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "1782e044d428",
+   "titulo": "Condomínio deve indenizar moradores por furto em apartamento após falha da portaria no controle de acesso",
+   "resumo": "Apesar de o furto ser ato de terceiro que, como regra, desobriga o condomínio a ressarcir o morador, a Terceira Turma considerou que eventuais falhas nos meios de segurança para evitar o crime podem levar à responsabilização condominial.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/06112026-Condominio-deve-indenizar-moradores-por-furto-em-apartamento-apos-falha-da-portaria-no-controle-de-acesso.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-06T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_2184676465.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal",
+    "civel"
+   ]
+  },
   {
    "id": "34d71f6e091b",
    "titulo": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
