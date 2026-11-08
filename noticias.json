@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T04:39-04:00",
+ "atualizado": "2026-11-08T04:39-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,24 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 2,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "a195754ad8e6",
+   "titulo": "Trio de irmãos ganha mãe socioafetiva durante Expedição Araguaia-Xingu",
+   "resumo": "Garantir direitos pode parecer algo abstrato, quando fica apenas na palavra. Mas quando registrado em um documento, o direito se concretiza e muda vid...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/trio-irmaos-ganha-mae-socioafetiva-durante-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-07T17:44-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
   {
    "id": "c2f6ff5aeb97",
    "titulo": "Inscrições para servidores em curso sobre recurso especial e precedentes começam hoje na Esmagis-MT",
