@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-08T04:39-04:00",
+ "atualizado": "2026-11-09T04:55-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -8,8 +8,8 @@
   },
   "stj": {
    "nome": "STJ",
-   "itens": 25,
-   "ok": true
+   "itens": 0,
+   "ok": false
   },
   "tjmt": {
    "nome": "TJMT",
@@ -23,11 +23,62 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 2,
+   "itens": 3,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "ee7655cce139",
+   "titulo": "Justiça do RJ mantém prisão de lutador que agrediu vizinhas",
+   "resumo": "A Justiça do Rio transformou em preventiva a prisão temporária do lutador de jiu-jitsu Lucas Portela Fontana Gomes, 32 anos, acusado de tentar matar duas vizinhas após invadir apartamentos e agredir moradores de um edifício na Tijuca, onde também residia…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-do-rj-mantem-prisao-de-lutador-que-agrediu-vizinhas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-08T19:10-04:00",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1708120&amp;o=rss",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "7de26e0d2b62",
+   "titulo": "8ª Corrida do Judiciário transforma manhã chuvosa em encontro de esporte e integração",
+   "resumo": "A chuva que caiu sobre Cuiabá na manhã deste domingo (8) não desanimou os participantes da 8ª Corrida do Judiciário. Ao contrário disso, cerca de 1.30...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/8-corrida-judiciario-transforma-manha-chuvosa-em-encontro-esporte-e-integracao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-08T10:49-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0e43ede3b871",
+   "titulo": "Juízes estaduais e federal visitam aldeia Marãiwatsédé e conhecem realidade de famílias indígenas",
+   "resumo": "Durante a passagem da Expedição Araguaia-Xingu pelo município de Bom Jesus do Araguaia (900 km a nordeste de Cuiabá), uma comitiva de magistrados, ser...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juizes-estaduais-e-federal-visitam-aldeia-maraiwatsede-e-conhecem-realidade-familias-indigenas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-08T09:26-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "fe1ace409e74",
+   "titulo": "Falecido deixou dívidas? Saiba quem deve pagar",
+   "resumo": "Muitos herdeiros ficam preocupados quando o falecido deixa dívidas, por medo de terem de pagá-las com seu patrimônio pessoal. A professora de Direito Civil e procuradora da Universidade Estadual do Rio de Janeiro (UERJ), Rose Meireles, afirma que os herdeiros…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/falecido-deixou-dividas-saiba-quem-deve-pagar",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-08T08:07-04:00",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705940&amp;o=rss",
+   "editorias": [
+    "sucessoes",
+    "civel"
+   ]
+  },
   {
    "id": "a195754ad8e6",
    "titulo": "Trio de irmãos ganha mãe socioafetiva durante Expedição Araguaia-Xingu",
