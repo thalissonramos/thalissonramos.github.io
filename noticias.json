@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T04:55-04:00",
+ "atualizado": "2026-11-10T04:47-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -8,8 +8,8 @@
   },
   "stj": {
    "nome": "STJ",
-   "itens": 0,
-   "ok": false
+   "itens": 25,
+   "ok": true
   },
   "tjmt": {
    "nome": "TJMT",
@@ -23,11 +23,255 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 3,
+   "itens": 6,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "0ad0efcd466a",
+   "titulo": "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos",
+   "resumo": "O Poder Judiciário e o Ministério Público da União (MPU) informaram ao Supremo Tribunal Federal (STF) que precisam de R$ 533 milhões extras para realizar o pagamento das verbas indenizatórias, conhecidas como penduricalhos, que foram validadas pela Corte. A…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/judiciario-e-mpu-querem-r-533-milhoes-para-pagar-penduricalhos",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-09T20:58-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "f60c27b15218",
+   "titulo": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-CJF-assinam-contratos-com-Banco-do-Brasil-e-Caixa-para-cessao-da-folha-de-pagamento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T20:13-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-CJF-assinam-contratos-com-Banco-do-Brasil-e-Caixa-para-cessao-da-folha-de-pagamento/MAX_2131INT.jpg",
+   "editorias": [
+    "consumidor",
+    "civel"
+   ]
+  },
+  {
+   "id": "852bf0afc09a",
+   "titulo": "Operação Faroeste: relator manda prender desembargadora do TJBA que viajou para Portugal e comunica Interpol",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-Operacao-Faroeste-relator-manda-prender-desembargadora-do-TJBA-que-viajou-para-Portugal-e-comunica-Interpol.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T19:54-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_LPO_7295%200611.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "1f2331c94899",
+   "titulo": "Encontro Nacional de Juízas e Juízes Negros e fórum contra o racismo começam nesta quarta-feira (11) no Rio",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-Encontro-Nacional-de-Juizas-e-Juizes-Negros-e-forum-contra-o-racismo-comecam-nesta-quarta-feira--11--no-Rio-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T19:38-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/09112026-Encontro-Nacional-de-Juizas-e-Juizes-Negros-e-forum-contra-o-racismo-comecam-nesta-quarta-feira--11--no-Rio-/76713_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "da3f87cd70b9",
+   "titulo": "STF: ministro Fachin arquiva inquérito das Fake News",
+   "resumo": "O presidente do Supremo Tribunal Federal, ministro Edson Fachin, determinou nesta segunda-feira (9) o arquivamento definitivo do chamado inquérito das Fake News. Fachin atendeu a um pedido feito pela Procuradoria-Geral da República (PGR). Notícias…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-ministro-fachin-arquiva-inquerito-das-fake-news",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-09T19:21-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "0880063af682",
+   "titulo": "Projeto aproxima adolescentes do Judiciário por meio do cinema em Vila Bela da Santíssima Trindade",
+   "resumo": "A arte cinematográfica como ferramenta de reflexão, diálogo e desenvolvimento pessoal. Essa é a proposta do projeto “CineJud: Da Tela ao Debate” lança...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/projeto-aproxima-adolescentes-judiciario-por-meio-cinema-em-vila-bela-santissima-trindade",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T16:53-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "21c33be46fb2",
+   "titulo": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-PNUD-lancam-espaco-multimidia-Cabine-Pontes-durante-Enajun-no-RJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T16:26-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-PNUD-lancam-espaco-multimidia-Cabine-Pontes-durante-Enajun-no-RJ/78813_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "06aa3ef1c4b7",
+   "titulo": "Corredores dão show de disposição na 8ª Corrida do Judiciário",
+   "resumo": "Nem mesmo a chuva foi capaz de frear a disposição de quem acordou cedo para correr e superar os próprios limites. Com pista molhada, poças de água e m...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corredores-dao-show-disposicao-na-8-corrida-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T16:16-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "93231d920aff",
+   "titulo": "Saúde, inclusão e sustentabilidade também marcaram a 8ª Corrida do TJMT",
+   "resumo": "A 8ª Corrida do Tribunal de Justiça de Mato Grosso (TJMT), realizada em parceria com a Associação Mato-grossense de Magistrados (Amam), também foi mar...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/saude-inclusao-e-sustentabilidade-tambem-marcaram-a-8-corrida-tjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T16:13-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "e4df4fdad8e5",
+   "titulo": "Ementário Eletrônico do TJMT é fonte para reportagens da imprensa nacional especializada",
+   "resumo": "Decisões do Tribunal de Justiça de Mato Grosso sobre temas que afetam diretamente os cidadãos, como direito do consumidor, saúde, golpes digitais, ou ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/ementario-eletronico-tjmt-e-fonte-para-reportagens-imprensa-nacional-especializada",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T15:54-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "15504ebe8732",
+   "titulo": "TJMT considera válida prova obtida em celular deixado no local de furto e reduz penas de condenados",
+   "resumo": "A Terceira Câmara Criminal do Tribunal de Justiça de Mato Grosso (TJMT) considerou válida a utilização de informações obtidas em um aparelho celular d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-considera-valida-prova-obtida-em-celular-deixado-no-local-furto-e-reduz-penas-condenados",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T15:14-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "e41f153994b3",
+   "titulo": "PGR pede ao Supremo arquivamento do inquérito das fake news",
+   "resumo": "A Procuradoria-Geral da República (PGR) pediu nesta segunda-feira (9) ao Supremo Tribunal Federal (STF) o arquivamento definitivo do chamado inquérito das fake news. Para a PGR, o inquérito deve ser encerrado porque já cumpriu o objetivo da investigação…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-09T14:46-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "eaf139244723",
+   "titulo": "Justiça Comunitária garante segunda via de certidão de nascimento e de casamento de forma gratuita",
+   "resumo": "Durante a Expedição Araguaia-Xingu, realizada entre os dias 4 e 15 de novembro, a Justiça Comunitária tem oferecido serviços totalmente gratuitos à po...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-comunitaria-garante-segunda-via-certidao-nascimento-e-casamento-forma-gratuita",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T14:17-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "197f352155d7",
+   "titulo": "Verde Novo realiza plantio com crianças em escola que recebeu Expedição Araguaia-Xingu",
+   "resumo": "Crianças entre 4 e 11 anos de idade, alunos da Escola Municipal Professora Lázara Maria, em Bom Jesus do Araguaia (900 km a nordeste de Cuiabá) partic...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/verde-novo-realiza-plantio-criancas-em-escola-que-recebeu-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T13:02-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b30ef542ab54",
+   "titulo": "Fux suspende afastamento de juíza da Lava Jato punida pelo CNJ",
+   "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), suspendeu o afastamento do cargo da juíza federal Gabriela Hardt. Ela foi condenada pelo Conselho Nacional de Justiça (CNJ) a 2 anos de afastamento das funções em razão de irregularidades na condução da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-suspende-afastamento-de-juiza-da-lava-jato-punida-pelo-cnj",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-09T10:44-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "76ec12adfee5",
+   "titulo": "Dia Mundial da Adoção: história de família mato-grossense mostra como a adoção transforma vidas",
+   "resumo": "O desejo de serem pais e formar uma família sempre esteve nos planos da Elisandra Sichieri Fortunato e do marido Alex da Costa Fortunato, moradores de...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/dia-mundial-adocao-historia-familia-mato-grossense-mostra-como-a-adocao-transforma-vidas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T10:24-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "1fd3384c68a2",
+   "titulo": "Expedição se despede de Bom Jesus do Araguaia com plantio de mudas em homenagem à servidora falecida",
+   "resumo": "A comitiva de representantes de diversas instituições públicas e privadas, que integram a Expedição Araguaia-Xingu, se despediu, na manhã desse doming...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/expedicao-se-despede-bom-jesus-araguaia-plantio-mudas-em-homenagem-a-servidora-falecida",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T09:10-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "23c478bc319f",
+   "titulo": "Programe-se: Faltam quatro semanas para o IX Sarau Prosa, Poesia e Justiça",
+   "resumo": "A contagem regressiva começou. Daqui a quatro semanas, a Escola Superior da Magistratura de Mato Grosso (Esmagis-MT) realizará a IX edição do Sarau Pr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/programe-se-faltam-quatro-semanas-para-o-ix-sarau-prosa-poesia-e-justica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-09T08:06-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0afcc65dabec",
+   "titulo": "Conheça o novo portal de precedentes qualificados do STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-Conheca-o-novo-portal-de-precedentes-qualificados-do-STJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T07:15-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Precedentes%20pg%200611.jpg",
+   "editorias": []
+  },
+  {
+   "id": "447b1b171516",
+   "titulo": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-Primeira-Secao-reconhece-relevancia-e-suspende-processos-sobre-revogacao-antecipada-do-beneficio-fiscal-do-Perse-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-09T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sergio%20Kukina%20interna.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
   {
    "id": "ee7655cce139",
    "titulo": "Justiça do RJ mantém prisão de lutador que agrediu vizinhas",
@@ -77,6 +321,19 @@
    "editorias": [
     "sucessoes",
     "civel"
+   ]
+  },
+  {
+   "id": "bbd0a1217578",
+   "titulo": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
+   "resumo": "Perto de completar 75 anos, ministro atuou durante mais de 18 anos no STJ e ficou marcado pela relatoria de julgamentos históricos, pelo perfil conciliador e pela habilidade com a palavra.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/08112026-Og-Fernandes-o-juiz-jornalista-encerra-trajetoria-de-quase-cinco-decadas-dedicadas-a-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-08T06:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_GUT_3363.jpg",
+   "editorias": [
+    "jurisprudencia"
    ]
   },
   {
