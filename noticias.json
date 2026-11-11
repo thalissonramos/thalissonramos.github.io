@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T04:47-04:00",
+ "atualizado": "2026-11-11T04:45-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -13,7 +13,7 @@
   },
   "tjmt": {
    "nome": "TJMT",
-   "itens": 10,
+   "itens": 9,
    "ok": true
   },
   "cnj": {
@@ -23,11 +23,244 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 6,
+   "itens": 5,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "9ec5122a3de4",
+   "titulo": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
+   "resumo": "Colegiado fixou penas dos empresários Elissandro Callegaro Spohr e Mauro Londero Hoffmann em 14 anos e quatro meses de prisão e 13 anos e dois meses de prisão, respectivamente, ambas em regime inicial fechado.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Sexta-Turma-aumenta-pena-dos-socios-pela-tragedia-da-Boate-Kiss.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T20:14-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_LUC_0772.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "cd48b88d9a91",
+   "titulo": "Inscrições abertas para a 9ª Corrida do Fórum de Cáceres",
+   "resumo": "A 9ª Corrida do Fórum de Cáceres está com inscrições abertas. A iniciativa chega a mais uma edição com o propósito de incentivar a prática esportiva e...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/inscricoes-abertas-para-a-9-corrida-forum-caceres",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T17:46-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "529d4b5d16ba",
+   "titulo": "44º Encontro do Gemam reúne magistrados para debates jurídicos e elege nova coordenação",
+   "resumo": "Magistrados e magistradas do Poder Judiciário de Mato Grosso participaram, na sexta-feira (6 de novembro), do 44º Encontro do Grupo de Estudos da Magi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/44-encontro-gemam-reune-magistrados-para-debates-juridicos-e-elege-nova-coordenacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T16:58-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "dcc55cd3e16c",
+   "titulo": "União do sistema de justiça garante casamentos às famílias de Agrovila Lumiar",
+   "resumo": "Já imaginou entrar em uma sala de aula, na escola da sua comunidade, com uma pendência de anos e lá encontrar autoridades da Justiça, Defensoria Públi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/uniao-sistema-justica-garante-casamentos-as-familias-agrovila-lumiar",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T16:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "9cd71a8ca73d",
+   "titulo": "Comarca de Barra do Garças abre edital para credenciamento de entidades sociais",
+   "resumo": "A Comarca de Barra do Garças publicou edital para credenciar entidades públicas e privadas com finalidade social interessadas em receber recursos prov...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-barra-garcas-abre-edital-para-credenciamento-entidades-sociais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T16:34-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ff9f86fba3e4",
+   "titulo": "Audiência pública sobre Lei de Alienação Parental",
+   "resumo": "",
+   "link": "https://noticias.stf.jus.br/audiencia-publica-alienacao-parental/",
+   "fonte": "STF",
+   "fonte_id": "stf",
+   "data": "2026-11-10T16:11-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "e9a4712156ee",
+   "titulo": "Dino: audiência é sobre aplicação de 5x2 e não para questionar medida",
+   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), afirmou nesta terça-feira (10), durante abertura de audiência de conciliação sobre a escala 5x2, que a sessão não tem como objetivo colocar o aumento do repouso semanal em discussão, mas somente…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-audiencia-e-sobre-aplicacao-de-5x2-e-nao-para-questionar-medida",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-10T15:39-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "124aca199d10",
+   "titulo": "Corregedoria inspeciona Cartório do 7º Ofício de Cuiabá",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso realizou inspeção presencial no Cartório do 7º Ofício da Comarca de Cuiabá. A fiscalização teve como ob...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-inspeciona-cartorio-7-oficio-cuiaba",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T15:14-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "f41a95b3890c",
+   "titulo": "Ofertas da Black Friday exigem atenção para evitar fraudes, alerta juiz em podcast",
+   "resumo": "A Black Friday se aproxima e, com ela, a promessa de grandes descontos que atraem milhões de consumidores. Mas, em meio às ofertas, é preciso cuidado ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/ofertas-black-friday-exigem-atencao-para-evitar-fraudes-alerta-juiz-em-podcast",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T15:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "d0694a920801",
+   "titulo": "Estudantes aprendem sobre cidadania e acesso à Justiça em ação educativa do TJMT",
+   "resumo": "O projeto Nosso Judiciário, do Tribunal de Justiça de Mato Grosso (TJMT), levou orientações sobre cidadania, direitos, deveres e combate ao bullying a...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/estudantes-aprendem-sobre-cidadania-e-acesso-a-justica-em-acao-educativa-tjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T15:07-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ab90ded24a41",
+   "titulo": "7ª Jornada da Leitura no Cárcere será realizada dias 25 e 26 de novembro",
+   "resumo": "Magistrados, magistradas, servidores e servidoras do Poder Judiciário de Mato Grosso, com atuação na Execução Penal, estão convidados a participar da ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/7-jornada-leitura-no-carcere-sera-realizada-dias-25-e-26-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T14:47-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "2fe366edda70",
+   "titulo": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Ministros-representam-Enfam-e-STJ-em-conferencia-sobre-formacao-de-juizes-na-Franca-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T13:40-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/10112026-Ministros-representam-Enfam-e-STJ-em-conferencia-sobre-formacao-de-juizes-na-Franca-/STJ-Enfam-Fran%c3%a7a%201.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "35a9b2cb70cd",
+   "titulo": "Expedição Araguaia-Xingu encurta distâncias de tempo e espaço entre o cidadão e seus direitos",
+   "resumo": "Morar em um lugar tão distante, como é Agrovila Lumiar - localizada a 45 km por estrada de chão de Confresa, a 694 km de Barra do Garças e a 1.017 km ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/expedicao-araguaia-xingu-encurta-distancias-tempo-e-espaco-entre-o-cidadao-e-seus-direitos",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-10T11:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "56b75a40f029",
+   "titulo": "Defesa de Vorcaro reforça pedido de soltura no STF",
+   "resumo": "A defesa de Daniel Vorcaro, dono do antigo Banco Master, solicitou ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, que envie novo pedido de soltura do ex-banqueiro, para que seja decidido pelo ministro Gilmar Mendes, por ser o mais antigo da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-de-vorcaro-reforca-pedido-de-soltura-no-stf",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-10T10:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "3539dcdf7a84",
+   "titulo": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-STJ-Noticias-destaca-decisao-sobre-moradia-dos-filhos-apos-a-separacao-dos-pais.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T08:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "38d521b38985",
+   "titulo": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-sedia-lancamento-do-livro-do-ministro-Og-Fernandes-sobre-a-historia-do-STF-nesta-terca--10-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T08:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/09112026-STJ-sedia-lancamento-do-livro-do-ministro-Og-Fernandes-sobre-a-historia-do-STF-nesta-terca--10-/77672_jornal_mural_cdju.jpg",
+   "editorias": []
+  },
+  {
+   "id": "b46ac7235545",
+   "titulo": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Relevancia-STJ-discute-se-empresa-com-atividade-secundaria-de-transporte-de-carga-pode-creditar-ICMS-sobre.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T07:10-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Afr%c3%a2nio%20Vilela%20interna.jpg",
+   "editorias": []
+  },
+  {
+   "id": "25ee9dba160a",
+   "titulo": "Articulação de facções exige resposta coordenada, diz procurador",
+   "resumo": "O procurador-geral de Justiça do Rio de Janeiro, Antonio José Campos Moreira, alertou nesta segunda-feira (9), durante a abertura da XXIV Reunião Plenária da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA), para a crescente…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/articulacao-de-faccoes-exige-resposta-coordenada-diz-procurador",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-10T07:02-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "d5f8fdbc97c3",
+   "titulo": "Coritiba e ex-dirigente devem indenizar Athletico Paranaense por ofensas contra adesão do rival à campanha por paz no futebol",
+   "resumo": "Ao fixar indenização por danos morais, Terceira Turma destacou que ex-presidente do Coritiba deu entrevista comparando ao fascismo a proibição de ingresso de sua torcida no estádio do rival com adereços característicos do time.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Coritiba-e-ex-dirigente-devem-indenizar-Athletico-Paranaense-por-ofensas-contra-adesao-do-rival-a-campanha-por-paz.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-10T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/indeniza%c3%a7%c3%a3o%20athletico%20paranaense%20capa.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
   {
    "id": "0ad0efcd466a",
    "titulo": "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos",
@@ -3854,19 +4087,6 @@
    "data": "2026-10-12T07:00-04:00",
    "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam/PORTALWhatsApp-Image-2026-10-07-at-07.51.jpg",
    "editorias": []
-  },
-  {
-   "id": "9c019ec88a11",
-   "titulo": "STJ e CFJ lamentam partida do advogado Nelson Martins",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11102026-STJ-e-CFJ-lamentam-partida-do-advogado-Nelson-Martins.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-11T19:10-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%2011102026.jpg",
-   "editorias": [
-    "pratica"
-   ]
   }
  ]
 }
