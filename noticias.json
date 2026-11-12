@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T04:45-04:00",
+ "atualizado": "2026-11-12T04:49-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -13,7 +13,7 @@
   },
   "tjmt": {
    "nome": "TJMT",
-   "itens": 9,
+   "itens": 10,
    "ok": true
   },
   "cnj": {
@@ -23,11 +23,286 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 5,
+   "itens": 7,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "17a20a10dbb5",
+   "titulo": "Abertura de encontro de magistrados negros debate igualdade racial e acesso aos espaços de poder no Judiciário",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-de-magistrados-negros-debate-igualdade-racial-e-acesso-aos-espacos-de-poder-no-Judiciario.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T21:07-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-de-magistrados-negros-debate-igualdade-racial-e-acesso-aos-espacos-de-poder-no-Judiciario/Mesa%20de%20abertura.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "37a9b3d94ae0",
+   "titulo": "STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-STJ-e-PNUD-lancam-video-sobre-diversidade-e-importancia-da-ampliacao-do-acesso-a-magistratura.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T20:25-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0b141d47bbee",
+   "titulo": "PGR envia ao Supremo parecer favorável a manter prisão de Vorcaro",
+   "resumo": "O procurador-geral da República, Paulo Gonet, enviou nesta quarta-feira (11) ao Supremo Tribunal Federal (STF) parecer favorável à manutenção da prisão do ex-banqueiro Daniel Vorcaro. A manifestação foi solicitada pelo presidente do STF, ministro Edson…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-envia-ao-supremo-parecer-favoravel-manter-prisao-de-vorcaro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-11T19:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "f462448b084e",
+   "titulo": "Toffoli vota por fim da imunidade para crime patrimonial contra mulher",
+   "resumo": "O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), votou nesta quarta-feira (11) para suspender a regra que impede punição de homens que cometem crimes patrimoniais contra mulheres no contexto de violência doméstica e familiar. A imunidade vigora…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/toffoli-vota-por-fim-da-imunidade-para-crime-patrimonial-contra-mulher",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-11T18:06-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "penal"
+   ]
+  },
+  {
+   "id": "726ecd128f8d",
+   "titulo": "Trilha da Memória abre encontro nacional de juízas e juízes negros no Rio de Janeiro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Trilha-da-Memoria-abre-encontro-nacional-de-juizas-e-juizes-negros-no-Rio-de-Janeiro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T17:48-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Trilha-da-Memoria-abre-encontro-nacional-de-juizas-e-juizes-negros-no-Rio-de-Janeiro/PORTAL_INTERNA_ENAJUN_11-11-2.jpg",
+   "editorias": []
+  },
+  {
+   "id": "1ef02e1f56da",
+   "titulo": "Parceiros da Expedição Araguaia-Xingu promovem conscientização sobre violência contra a mulher",
+   "resumo": "A conscientização sobre o enfrentamento à violência contra a mulher também faz parte da programação da 8ª edição da Expedição Araguaia-Xingu, realizad...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/parceiros-expedicao-araguaia-xingu-promovem-conscientizacao-sobre-violencia-contra-a-mulher",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T17:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f77e9b7f03b5",
+   "titulo": "Feira no Fórum de Cuiabá ajuda mulheres vítimas de violência a reconstruir suas vidas",
+   "resumo": "Uma vez por mês, o corredor principal do Fórum de Cuiabá ganha um movimento diferente. Entre alimentos, acessórios, roupas íntimas e cosméticos, mulhe...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/feira-no-forum-cuiaba-ajuda-mulheres-vitimas-violencia-a-reconstruir-suas-vidas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T17:03-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "3a0f362266af",
+   "titulo": "Ministro Teodoro Silva Santos recebe Ordem do Mérito Aeronáutico no grau de Grande-Oficial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Ministro-Teodoro-Silva-Santos-recebe-Ordem-do-Merito-Aeronautico-no-grau-de-Grande-Oficial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T17:01-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Ministro-Teodoro-Silva-Santos-recebe-Ordem-do-Merito-Aeronautico-no-grau-de-Grande-Oficial/teodoro-1_interna_850x565.jpg",
+   "editorias": []
+  },
+  {
+   "id": "e5baae3859ec",
+   "titulo": "Comarca de Cáceres abre inscrições para a 9ª Corrida do Fórum",
+   "resumo": "Atletas profissionais, corredores amadores e todos que gostam de colocar o corpo em movimento já podem anotar na agenda o dia 29 de novembro, dia de c...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-caceres-abre-inscricoes-para-a-9-corrida-forum",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T16:27-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8a43b8cda808",
+   "titulo": "Parcerias e gestão de recursos são destaques de fórum sobre direitos da pessoa idosa",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) sediou, nesta quarta-feira (11 de novembro), a abertura do 2º Fórum Cidadania em Movimento, que reúne gest...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/parcerias-e-gestao-recursos-sao-destaques-forum-sobre-direitos-pessoa-idosa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T16:05-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "132424a96d9a",
+   "titulo": "Ministro Salomão destaca transparência e controle humano como pressupostos para confiança nos sistemas de IA",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Ministro-Salomao-destaca-transparencia-e-controle-humano-como-pressupostos-para-confianca-nos-sistemas-de-IA.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T15:56-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Ministro-Salomao-destaca-transparencia-e-controle-humano-como-pressupostos-para-confianca-nos-sistemas-de-IA/PORTAL_INTERNA_EGUT_0099.jpg",
+   "editorias": []
+  },
+  {
+   "id": "6c2d610ecc35",
+   "titulo": "TJMT abre inscrições para seminário sobre gerenciamento de precedentes judiciais",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) está com inscrições abertas para o seminário “O Gerenciamento de Precedentes no Sistema de Justiça”, que s...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-abre-inscricoes-para-seminario-sobre-gerenciamento-precedentes-judiciais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T15:42-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "e8027b79172b",
+   "titulo": "Judcultura: da TV Jus aos palcos, repórter do TJMT divide o microfone entre o jornalismo e o rock",
+   "resumo": "Durante a semana, Luiz Vieira aparece na TV Jus, do Tribunal de Justiça de Mato Grosso (TJMT), como repórter. Fora do expediente, troca o texto pela g...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judcultura-tv-jus-aos-palcos-reporter-tjmt-divide-o-microfone-entre-o-jornalismo-e-o-rock",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T15:03-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "b970a4c959d5",
+   "titulo": "Desembargador José Lindote fala sobre prioridades e desafios para a gestão 2027-2028",
+   "resumo": "Reorganizar comarcas, valorizar os servidores e ampliar o uso da tecnologia estão entre as prioridades do presidente eleito do Tribunal de Justiça de ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/desembargador-jose-lindote-fala-sobre-prioridades-e-desafios-para-a-gestao-2027-2028",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T14:38-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "cf742356fc62",
+   "titulo": "Raízes da Justiça transforma histórias de dedicação em um legado que permanece em Pontes e Lacerda",
+   "resumo": "Algumas histórias não cabem em processos, relatórios ou registros funcionais. São construídas ao longo de décadas, nos corredores do Fórum, no atendim...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/raizes-justica-transforma-historias-dedicacao-em-um-legado-que-permanece-em-pontes-e-lacerda",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T14:21-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "80547c8e4ffe",
+   "titulo": "Justiça Restaurativa prepara novos facilitadores para atuar no sistema prisional de Rondonópolis",
+   "resumo": "Quando se fala em humanização do sistema prisional, é preciso olhar para todas as pessoas que fazem parte desse ambiente. Não apenas para quem cumpre ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-restaurativa-prepara-novos-facilitadores-para-atuar-no-sistema-prisional-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T13:57-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c495a3d49fba",
+   "titulo": "Encontro Nacional de Juízas e Juízes Negros e Fórum contra o Racismo começam nesta quarta (11) no Rio",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-Nacional-de-Juizas-e-Juizes-Negros-e-Forum-contra-o-Racismo-comecam-nesta-quarta--11--no-Rio.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T10:12-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-Nacional-de-Juizas-e-Juizes-Negros-e-Forum-contra-o-Racismo-comecam-nesta-quarta--11--no-Rio/76713_portal_interna_700x467%201.jpg",
+   "editorias": []
+  },
+  {
+   "id": "a9aaa9c5b4a8",
+   "titulo": "Natal Solidário 2026 do TJMT já recebe doações de brinquedos para crianças e adolescentes",
+   "resumo": "Que tal ser ajudante do Papai Noel neste Natal e fazer a alegria de crianças e adolescentes? O Tribunal de Justiça de Mato Grosso (TJMT) já iniciou a ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/natal-solidario-2026-tjmt-ja-recebe-doacoes-brinquedos-para-criancas-e-adolescentes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-11T09:50-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "43db0a3fd222",
+   "titulo": "MP mira empresários ligados à Refit por fraude fiscal de R$ 5,5 bi",
+   "resumo": "O Ministério Público do Rio de Janeiro (MPRJ) cumpriu, na manhã desta quarta-feira (11), 17 mandados de prisão contra suspeitos de envolvimento com uma fraude fiscal da ordem de R$ 5,5 bilhões no estado. Os alvos são empresários ligados à Refinaria de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-mira-empresarios-ligados-refit-por-fraude-fiscal-de-r-55",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-11T08:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "9ab73c879cc0",
+   "titulo": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/1111STJ-lanca--nesta-quarta-feira--11---obra-sobre-transformacao-digital-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T08:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/1111STJ-lanca--nesta-quarta-feira--11---obra-sobre-transformacao-digital-/78692_portal_interna_700x467.jpg",
+   "editorias": []
+  },
+  {
+   "id": "779e33bd4ef7",
+   "titulo": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Podcast-STJ-No-Seu-Dia-debate-direitos-difusos-e-indenizacao-por-venda-irregular-de-agrotoxicos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T07:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "ceb8bf36b99d",
+   "titulo": "Indícios de fraude em contrato impedem desbloqueio de bens para pagamento de honorários",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Indicios-de-fraude-em-contrato-impedem-desbloqueio-de-bens-para-pagamento-de-honorarios.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-11T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Segunda%20turma%20interna.jpg",
+   "editorias": [
+    "pratica",
+    "civel"
+   ]
+  },
+  {
+   "id": "d9befad4cdea",
+   "titulo": "Apartamento de lutador de jiu-jítsu tem 15 dias para ser desocupado",
+   "resumo": "A Justiça do Rio deu prazo de 15 dias para que o apartamento alugado pelo lutador de jiu-jítsu Lucas Portela Fontana Gomes, de 32 anos, seja desocupado, sob pena de despejo compulsório. O imóvel fica na Avenida Maracanã, na capital fluminense. O lutador está…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-da-15-dias-para-lutador-de-jiu-jitsu-desocupar-apartamento",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-11T06:57-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica",
+    "civel"
+   ]
+  },
   {
    "id": "9ec5122a3de4",
    "titulo": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
@@ -4075,17 +4350,6 @@
    "fonte_id": "stj",
    "data": "2026-10-13T06:50-04:00",
    "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Daniela%20Teixeira.jpg",
-   "editorias": []
-  },
-  {
-   "id": "15a1f905b6c5",
-   "titulo": "Arruda e Thereza Alvim são homenageados e acervo pessoal do casal é incorporado à Biblioteca STJ-Enfam",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-12T07:00-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Arruda-e-Thereza-Alvim-sao-homenageados-e-acervo-pessoal-do-casal-e-incorporado-a-Biblioteca-STJ-Enfam/PORTALWhatsApp-Image-2026-10-07-at-07.51.jpg",
    "editorias": []
   }
  ]
