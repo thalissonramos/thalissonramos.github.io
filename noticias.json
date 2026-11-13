@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T04:49-04:00",
+ "atualizado": "2026-11-13T04:46-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -29,13 +29,297 @@
  },
  "itens": [
   {
+   "id": "2897a4f80b49",
+   "titulo": "PGR é contra revisar condenação de Jair Bolsonaro",
+   "resumo": "O procurador-geral da República, Paulo Gonet, enviou nesta quinta-feira (12) ao Supremo Tribunal Federal (STF) parecer contra o pedido de revisão criminal protocolado pela defesa do ex-presidente Jair Bolsonaro. Na petição, protocolada no mês passado no…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T20:26-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "e0f2b2e59f6a",
+   "titulo": "MP apura desvio de R$ 21 milhões em eventos esportivos na cidade de SP",
+   "resumo": "O Ministério Público de São Paulo investiga denúncia de desvios da ordem de R$ 21 milhões em eventos esportivos na capital paulista. O órgão pediu a abertura de inquérito policial e oficiou a prefeitura, buscando informações para apurar se houve…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-apura-desvio-de-r-21-milhoes-em-eventos-esportivos-na-cidade-de-sp",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T20:13-04:00",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1708649&amp;o=rss",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "bd40aad6151b",
+   "titulo": "Fórum de Cuiabá suspende expediente nesta sexta-feira (13) para reparos emergenciais",
+   "resumo": "O expediente no prédio do Fórum da Comarca de Cuiabá estará suspenso nesta sexta-feira (13), em razão de reparos emergenciais na tubulação de água do ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/forum-cuiaba-suspende-expediente-nesta-sexta-feira-13-para-reparos-emergenciais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T19:04-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "725975d33976",
+   "titulo": "Municípios compartilham experiências de cuidado e proteção à pessoa idosa em Fórum no TJMT",
+   "resumo": "A mobilização de empresas para destinar recursos do Imposto de Renda aos Fundos da Pessoa Idosa e a oferta de alimentação e serviços de cuidado domici...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/municipios-compartilham-experiencias-cuidado-e-protecao-a-pessoa-idosa-em-forum-no-tjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T18:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "da17e94679ce",
+   "titulo": "Respeito e amizade são fortalecidos por círculos de paz durante Expedição Araguaia-Xingu",
+   "resumo": "“A partir do momento em que tem-se a amizade e o respeito juntos, o bullying fica mais distante”. Com esse entendimento, é que a facilitadora e instru...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/respeito-e-amizade-sao-fortalecidos-por-circulos-paz-durante-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T17:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "d328bb3122fe",
+   "titulo": "TJMT conquista Selo Diamante de Transparência com maior índice de sua história",
+   "resumo": "A transparência das ações e dos serviços públicos é um dos caminhos para aproximar as instituições da sociedade e fortalecer a confiança da população....",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-conquista-selo-diamante-transparencia-maior-indice-sua-historia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T17:18-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "33542afcc39e",
+   "titulo": "TRE-MT celebra 94 anos de história com homenagens e reconhecimento à parceria com o Poder Judiciário",
+   "resumo": "O Tribunal Regional Eleitoral de Mato Grosso (TRE-MT) celebrou, nesta quarta-feira (11), 94 anos de instalação no estado, com uma solenidade marcada p...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tre-mt-celebra-94-anos-historia-homenagens-e-reconhecimento-a-parceria-o-poder-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T16:29-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d2faeb3ad975",
+   "titulo": "Curso sobre memória e testemunho em neurodivergentes segue com inscrições abertas",
+   "resumo": "A Escola Superior da Magistratura de Mato Grosso (Esmagis-MT) segue com inscrições abertas para o curso “Memória, inquirição e avaliação da credibilid...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/curso-sobre-memoria-e-testemunho-em-neurodivergentes-segue-inscricoes-abertas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T16:27-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "16f4d245d24a",
+   "titulo": "Og Fernandes é homenageado em suas últimas sessões na Sexta Turma e na Terceira Seção",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Og-Fernandes-e-homenageado-em-suas-ultimas-sessoes-na-Sexta-Turma-e-na-Terceira-Secao.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T16:17-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/INTERNA_PORTAL_LUC_1166.jpg.jpeg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "96396ee83391",
+   "titulo": "STF derruba imunidade para punir violência patrimonial contra mulheres",
+   "resumo": "Por unanimidade, o Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (12) suspender a regra que impede punição de homens que cometem crimes patrimoniais contra mulheres no contexto de violência doméstica e familiar. A imunidade vigorava desde 1940…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-derruba-imunidade-para-punir-violencia-patrimonial-contra-mulheres",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T15:59-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "penal"
+   ]
+  },
+  {
+   "id": "87fd5542ed49",
+   "titulo": "STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-STJ-lanca-Programa-Confianca-Digital-para-unir-seguranca-da-informacao-e-governanca-de-tecnologia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T15:29-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/12112026-STJ-lanca-Programa-Confianca-Digital-para-unir-seguranca-da-informacao-e-governanca-de-tecnologia/78525_jornal_mural_cimp.jpg",
+   "editorias": []
+  },
+  {
+   "id": "907ae9c93fb9",
+   "titulo": "Fórum Cidadania em Movimento debate destinação do Imposto de Renda e gestão de fundos municipais",
+   "resumo": "O planejamento dos Fundos Municipais, a destinação do Imposto de Renda e a articulação entre poder público e sociedade civil estiveram entre os temas ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/forum-cidadania-em-movimento-debate-destinacao-imposto-renda-e-gestao-fundos-municipais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T15:28-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "fcf6d9685a17",
+   "titulo": "Dino mantém prazo inicial da 5x2, mas flexibiliza regra de transição",
+   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu nesta quinta-feira (12) uma liminar (decisão provisória) para permitir jornadas de trabalho superiores a 8h diárias durante a fase de transição da escala 5x2, que prevê a jornada semanal de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T14:56-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "73930b48a3b8",
+   "titulo": "Inscrições abertas para seminário sobre grupos reflexivos e enfrentamento à violência",
+   "resumo": "Estão abertas as inscrições para o seminário “Força que Transforma: Grupos Reflexivos com Homens como Estratégia de Enfrentamento à Violência”, que se...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/inscricoes-abertas-para-seminario-sobre-grupos-reflexivos-e-enfrentamento-a-violencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T14:54-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "bfb7027d01f2",
+   "titulo": "Revista científica da Esmagis-MT será destaque na IX edição do Sarau Prosa, Poesia e Justiça",
+   "resumo": "A nova edição da Revista Interface Direito e Sociedade, publicação científica da Escola Superior da Magistratura de Mato Grosso (Esmagis-MT), será lan...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/revista-cientifica-esmagis-mt-sera-destaque-na-ix-edicao-sarau-prosa-poesia-e-justica",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T14:48-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a456d87b9c71",
+   "titulo": "AGU institui exame prévio para ingresso em carreiras jurídicas",
+   "resumo": "Advogados interessados em disputar uma vaga no serviço público como advogado da União, procurador da Fazenda Nacional, procurador federal ou procurador do Banco Central do Brasil vão ter que se submeter a uma etapa prévia de habilitação, o Exame Nacional da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-institui-exame-previo-para-ingresso-em-carreiras-juridicas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T10:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "68249a320a7c",
+   "titulo": "Justiça determina que valor do triplex em Guarujá deve ir para OAS",
+   "resumo": "O juiz Marcelo Gentil Monteiro, da 12ª Vara Federal Criminal de Brasília, determinou que todo o dinheiro obtido com o leilão de um tríplex em Guarujá (SP) seja entregue ao grupo da empreiteira OAS. O imóvel havia sido atribuído ao presidente Luiz Inácio Lula…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-determina-que-valor-do-triplex-em-guaruja-deve-ir-para-oas",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-12T10:38-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "civel"
+   ]
+  },
+  {
+   "id": "7773892db3f7",
+   "titulo": "Fania Davis defende transformação do Judiciário e enfrentamento das desigualdades raciais no Enajun",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Fania-Davis-defende-transformacao-do-Judiciario-e-enfrentamento-das-desigualdades-raciais-no-Enajun.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T09:48-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/12112026-Fania-Davis-defende-transformacao-do-Judiciario-e-enfrentamento-das-desigualdades-raciais-no-Enajun/PORTAL_LUC_4013.jpg",
+   "editorias": []
+  },
+  {
+   "id": "7d9cc520292b",
+   "titulo": "Rádio Decidendi debate precedente sobre revisão de benefícios por incapacidade concedidos pela Justiça",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Radio-Decidendi-debate-precedente-sobre-revisao-de-beneficios-por-incapacidade-concedidos-pela-Justica.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T08:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "adbd1c94f5c9",
+   "titulo": "Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Livro-Liber-Amicorum-homenageia-18-anos-do-ministro-Benedito-Goncalves-no-STJ.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T08:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "baa72bc37b80",
+   "titulo": "Após 44 anos de violência, mulher encontra apoio para reescrever a própria história",
+   "resumo": "Foram 44 anos de um casamento marcado por palavras ofensivas, controle e agressões físicas. Durante mais de quatro décadas, E.S.Q., de 62 anos, conviv...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/apos-44-anos-violencia-mulher-encontra-apoio-para-reescrever-a-propria-historia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-12T07:57-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "456338082b7c",
+   "titulo": "Primeira Seção discute se exposição à eletricidade ainda garante direito à aposentadoria especial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Primeira-Secao-discute-se-exposicao-a-eletricidade-ainda-garante-direito-a-aposentadoria-especial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sergio%20Kukina%20interna.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "f5e3ee8481b0",
+   "titulo": "Terceira Turma afasta fixação de honorários sucumbenciais em plano compulsório por superendividamento",
+   "resumo": "De acordo com o colegiado, como regra, plano compulsório de pagamento de dívidas do consumidor não gera situação de derrota para o credor e, por consequência, não justifica imposição de verba de sucumbência.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Terceira-Turma-afasta-fixacao-de-honorarios-sucumbenciais-em-plano-compulsorio-por-superendividamento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-12T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/INTERNA_PORTAL_AdobeStock_2057226039.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
    "id": "17a20a10dbb5",
    "titulo": "Abertura de encontro de magistrados negros debate igualdade racial e acesso aos espaços de poder no Judiciário",
    "resumo": "",
    "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-de-magistrados-negros-debate-igualdade-racial-e-acesso-aos-espacos-de-poder-no-Judiciario.aspx",
    "fonte": "STJ",
    "fonte_id": "stj",
-   "data": "2026-11-11T21:07-04:00",
+   "data": "2026-11-11T21:05-04:00",
    "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/11112026-Encontro-de-magistrados-negros-debate-igualdade-racial-e-acesso-aos-espacos-de-poder-no-Judiciario/Mesa%20de%20abertura.jpeg",
    "editorias": []
   },
@@ -4279,78 +4563,6 @@
    "editorias": [
     "civel"
    ]
-  },
-  {
-   "id": "a043f1f3fc2a",
-   "titulo": "Seminário homenageia Manoel e Thereza Arruda Alvim; Biblioteca STJ-Enfam incorpora coleção particular dos professores",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T15:54-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/131020Seminario-homenageia-Manoel-e-Thereza-Arruda-Alvim--Biblioteca-STJ-Enfam-incorpora-colecao-particular-dos-professores/PORTAL_EGUT_8885.jpg",
-   "editorias": []
-  },
-  {
-   "id": "40235fdf9f38",
-   "titulo": "Ministra Nancy Andrighi será coordenadora-geral do Cejusc até 2028",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T14:17-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13102026-Ministra-Nancy-Andrighi-sera-coordenadora-geral-do-Cejusc-ate-2028/Nancy_PORTAL_INTERNA_MAX_1828.jpg",
-   "editorias": []
-  },
-  {
-   "id": "10e4f5ad241f",
-   "titulo": "Competência funcional em ação civil pública e preparo recursal na cobrança de honorários são destaques em Informativo",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Competencia-funcional-em-acao-civil-publica-e-preparo-recursal-na-cobranca-de-honorarios-sao-destaques.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T08:00-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica",
-    "civel"
-   ]
-  },
-  {
-   "id": "7bde2b4b1206",
-   "titulo": "STJ Notícias destaca decisão sobre motivação econômica em atos preparatórios de terrorismo",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-STJ-Noticias-destaca-decisao-sobre-motivacao-economica-em-atos-preparatorios-de-terrorismo-.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T07:50-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "7c0644ddf159",
-   "titulo": "Corte Especial antecipa sessão do dia 4 de novembro para as 9h",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Corte-Especial-antecipa-sessao-do-dia-4-de-novembro-para-as-9h.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T07:10-04:00",
-   "imagem": null,
-   "editorias": [
-    "jurisprudencia",
-    "pratica"
-   ]
-  },
-  {
-   "id": "7e9ba7605a24",
-   "titulo": "Idosa que teve marido assassinado pelos irmãos recebe autorização do STJ para excluir sobrenome paterno",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13102026-Idosa-que-teve-marido-assassinado-pelos-irmaos-recebe-autorizacao-do-STJ-para-excluir-sobrenome-paterno.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-13T06:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Daniela%20Teixeira.jpg",
-   "editorias": []
   }
  ]
 }
