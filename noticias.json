@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T04:46-04:00",
+ "atualizado": "2026-11-14T04:39-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,268 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 7,
+   "itens": 5,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "1ca5e28eb489",
+   "titulo": "Da redação ao STJ: reportagem especial relembra trajetória do ministro Og Fernandes",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Da-redacao-ao-STJ-reportagem-especial-relembra-trajetoria-do-ministro-Og-Fernandes.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T19:15-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f7b02bc33f7e",
+   "titulo": "Encontro de juízes negros propõe política nacional de equidade racial no Judiciário até 2036",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Encontro-de-juizes-negros-propoe-politica-nacional-de-equidade-racial-no-Judiciario-ate-2036.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T19:09-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13112026-Encontro-de-juizes-negros-propoe-politica-nacional-de-equidade-racial-no-Judiciario-ate-2036/enajun%20encerramento.jfif",
+   "editorias": []
+  },
+  {
+   "id": "ac4615daca17",
+   "titulo": "População recebe atendimentos de saúde em mutirões da Expedição Araguaia-Xingu",
+   "resumo": "A saúde, enquanto necessidade básica, é um dos serviços mais procurados nos mutirões da Expedição Araguaia-Xingu, cuja oitava edição ocorre entre os d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/populacao-recebe-atendimentos-saude-em-mutiroes-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T17:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "6518d326fba5",
+   "titulo": "Nosso Judiciário leva saberes sobre cidadania a estudantes de escola estadual em Várzea Grande",
+   "resumo": "O que significa fazer justiça? Ela está presente apenas nos tribunais ou também nas relações do dia a dia? Para mostrar que o exercício da cidadania c...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/nosso-judiciario-leva-saberes-sobre-cidadania-a-estudantes-escola-estadual-em-varzea-grande",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T17:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a2c229216f6f",
+   "titulo": "Cesima Explica apresenta ciclo de conteúdos sobre biodiversidade e educação ambiental",
+   "resumo": "O Centro de Estudos Integrados em Meio Ambiente (Cesima) está promovendo a campanha educativa “Cesima Explica”, uma série de conteúdos semanais divulg...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cesima-explica-apresenta-ciclo-conteudos-sobre-biodiversidade-e-educacao-ambiental",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T16:28-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "9d669144c0c7",
+   "titulo": "Audiência pública debaterá funcionamento do cartão de crédito consignado; inscrições vão até dia 19 de novembro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Audiencia-publica-debatera-funcionamento-do-cartao-de-credito-consignado--inscricoes-vao-ate-dia-19-de-novembro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T16:13-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_MAX_7311.jpg",
+   "editorias": [
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "92381161cf97",
+   "titulo": "Audiência pública apresenta método APAC de ressocialização em Rondonópolis",
+   "resumo": "Uma forma mais humanizada de cumprir a pena, com foco na recuperação da pessoa e na redução da reincidência criminal. Essa é a proposta do método APAC...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/audiencia-publica-apresenta-metodo-apac-ressocializacao-em-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T16:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "acf12662ec6f",
+   "titulo": "Desembargadora realiza visitas de acompanhamento a magistrados em estágio probatório no Araguaia",
+   "resumo": "A desembargadora Vandymara Galvão Ramos Paiva Zanolo esteve, de 21 a 23 de outubro, nas comarcas de São Félix do Araguaia, Vila Rica e Ribeirão Cascal...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/desembargadora-realiza-visitas-acompanhamento-a-magistrados-em-estagio-probatorio-no-araguaia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T16:05-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "12af09695a94",
+   "titulo": "Judiciário de MT funciona em regime de plantão neste fim de semana (14 e 15 de novembro)",
+   "resumo": "Neste fim de semana (14 e 15 de novembro), o Poder Judiciário de Mato Grosso atua em regime de plantão para o recebimento dos feitos cíveis de urgênci...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judiciario-mt-funciona-em-regime-plantao-neste-fim-semana-14-e-15-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T15:13-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "2f7fdb729120",
+   "titulo": "Fórum de Várzea Grande realiza entrega de materiais arrecadados na 2ª edição do ReciclaJud",
+   "resumo": "A entrega dos materiais arrecadados durante a 2ª edição do ReciclaJud ocorreu entre latidos e miados, na sede da Associação Lunaar, em Cuiabá. Foram d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/forum-varzea-grande-realiza-entrega-materiais-arrecadados-na-2-edicao-reciclajud",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T15:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f03d09866098",
+   "titulo": "Fachin suspende prazos processuais após instabilidade da Microsoft",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, decidiu nesta sexta-feira (13) suspender os prazos processuais no sistema judiciário de todo o país em razão das falhas ocorridas nos sistemas da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-13T14:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "646244688a78",
+   "titulo": "Aposentadoria aprovada na Expedição Araguaia-Xingu garante dignidade a trabalhador rural de Confresa",
+   "resumo": "O trabalhador rural Antônio Vieira da Silva completou 60 anos de idade no último dia 10 de novembro e seu presente de aniversário - a aposentadoria - ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/aposentadoria-aprovada-na-expedicao-araguaia-xingu-garante-dignidade-a-trabalhador-rural-confresa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T14:43-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "6e6a67d8283d",
+   "titulo": "9º Enajun e 6º Fonajurd debatem equidade racial, violência institucional e representatividade",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-9o-Enajun-e-6o-Fonajurd-debatem-equidade-racial--violencia-institucional-e-representatividade.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T14:12-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13112026-9o-Enajun-e-6o-Fonajurd-debatem-equidade-racial--violencia-institucional-e-representatividade/PORTAL_LUC_5324.jpg",
+   "editorias": []
+  },
+  {
+   "id": "80177de39299",
+   "titulo": "Plano de saúde deve custear cirurgia cardíaca e despesas de viagem de criança de um ano",
+   "resumo": "Uma criança de apenas um ano de idade, diagnosticada com uma cardiopatia congênita que exige cirurgia urgente, teve garantido pela Justiça o direito a...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/plano-saude-deve-custear-cirurgia-cardiaca-e-despesas-viagem-crianca-um-ano",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T14:12-04:00",
+   "imagem": null,
+   "editorias": [
+    "consumidor"
+   ]
+  },
+  {
+   "id": "8240ed24a467",
+   "titulo": "Ministro da Justiça defende enfraquecimento econômico de facções",
+   "resumo": "O ministro da Justiça e Segurança Pública, Wellington César e Silva, defendeu como estratégia para combater o crime organizado o enfraquecimento econômico de facções criminosas. O ministro se pronunciou durante o encerramento da 24ª Reunião Plenária da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ministro-da-justica-defende-enfraquecimento-economico-de-faccoes",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-13T12:08-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "466d607953b9",
+   "titulo": "Atividades recreativas divertem crianças enquanto pais resolvem demandas na Expedição Araguaia-Xingu",
+   "resumo": "Pensada para beneficiar toda a família, a Expedição Araguaia-Xingu, iniciativa do Poder Judiciário, por meio da Justiça Comunitária, em parceria com d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/atividades-recreativas-divertem-criancas-enquanto-pais-resolvem-demandas-na-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-13T11:23-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "48f5cb7e9f9a",
+   "titulo": "STJ participa de fórum da Ajufe sobre Reforma Tributária e a Justiça Federal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-STJ-participa-de-forum-da-Ajufe-sobre-Reforma-Tributaria-e-a-Justica-Federal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T10:34-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/13112026-STJ-participa-de-forum-da-Ajufe-sobre-Reforma-Tributaria-e-a-Justica-Federal/Ajufe_EME_7398%20%281%29.jpg",
+   "editorias": []
+  },
+  {
+   "id": "e286f0341f50",
+   "titulo": "Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Podcast-STJ-No-Seu-Dia-aborda-pensao-alimenticia-em-casos-de-desemprego-ou-trabalho-informal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T08:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "24145c33bde7",
+   "titulo": "Corte Especial zera pauta acumulada e acelera julgamento de repetitivos",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Corte-Especial-zera-pauta-acumulada-e-acelera-julgamento-de-repetitivos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T08:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/INTERNA_PORTAL_EGUT_6972.jpg.jpeg",
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "e38818437a52",
+   "titulo": "CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-CPRB-compoe-a-base-de-calculo-do-PISPasep-e-da-Cofins--define-STJ-em-tese-vinculante.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T07:20-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Bellizze%20interna.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "b121b1b5d351",
+   "titulo": "Farmácias e drogarias devem manter farmacêutico presente durante todo o horário de funcionamento",
+   "resumo": "O relator, ministro Marco Aurélio Bellizze, ressaltou que a obrigação de manter um farmacêutico deve ser cumprida individualmente em cada loja, independentemente da possibilidade de prestar assistência remota.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Farmacias-e-drogarias-devem-manter-farmaceutico-presente-durante-todo-o-horario-de-funcionamento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-13T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_AdobeStock_20548245701311.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
   {
    "id": "2897a4f80b49",
    "titulo": "PGR é contra revisar condenação de Jair Bolsonaro",
@@ -4450,118 +4707,6 @@
    "editorias": [
     "jurisprudencia",
     "penal"
-   ]
-  },
-  {
-   "id": "9885e752f12e",
-   "titulo": "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA",
-   "resumo": "A Ordem dos Advogados do Brasil, seccional do Rio de Janeiro (OABRJ) obteve na Justiça Federal uma vitória no caso envolvendo a plataforma Resolve Juizado, que oferece a elaboração automatizada de petições por meio de inteligência artificial, mediante…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/oab-rio-ganha-acao-que-proibe-plataforma-de-oferecer-peticoes-com-ia",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-14T20:02-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "8a6c8af240d4",
-   "titulo": "Tribunal tem primeiro reconhecimento da relevância com reafirmação de jurisprudência e fixação de tese",
-   "resumo": "Em julgamento inédito sob o novo regime da relevância, Segunda Seção estabeleceu que planos de saúde não são obrigados, como regra, a custear remédios à base de canabidiol para uso domiciliar.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-Tribunal-tem-primeiro-reconhecimento-da-relevancia-com-reafirmacao-de-jurisprudencia-e-fixacao-de-tese.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-14T18:29-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_STJ_14.10.jpg",
-   "editorias": [
-    "jurisprudencia"
-   ]
-  },
-  {
-   "id": "442de6834fe0",
-   "titulo": "Justiça condena 3º réu acusado do assassinato de Mãe Bernadete",
-   "resumo": "O tribunal do Júri condenou nesta terça-feira (13) Josevan Dionísio dos Santos, conhecido como BZ ou Buzuin, a 28 anos de reclusão pelo assassinato da líder quilombola e ialorixá Maria Bernadete Pacífico Moreira, a Mãe Bernadete . Ele é o terceiro condenado…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-condena-3o-reu-acusado-do-assassinato-de-mae-bernadete",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-14T17:27-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "55af30eceab2",
-   "titulo": "Judcultura: servidora do TJMT reencontra no teatro a paixão que nasceu na adolescência",
-   "resumo": "A paixão pela arte pode até dividir espaço com as responsabilidades do dia a dia, mas não precisa ficar em segundo plano. Para Maeve Laura de Campos, ...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/judcultura-servidora-tjmt-reencontra-no-teatro-a-paixao-que-nasceu-na-adolescencia",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-14T16:42-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "7779a1c89952",
-   "titulo": "STJ e CJF lamentam o falecimento do ministro aposentado Demócrito Ramos Reinaldo",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-14T14:54-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-e-CJF-lamentam-o-falecimento-do-ministro-aposentado-Democrito-Ramos-Reinaldo/PORTAL_INTERNA_Min.-Dem%c3%b3crito-Reinaldo-01-Restaurada-copiar.jpg.jpeg",
-   "editorias": []
-  },
-  {
-   "id": "a8bc0e5feabd",
-   "titulo": "STJ sedia XXIII Cúpula Judicial Ibero-Americana sobre inteligência artificial e Justiça",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-14T14:35-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/14102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana-sobre-inteligencia-artificial-e-Justica/76650_portal_interna_700x467.jpg",
-   "editorias": []
-  },
-  {
-   "id": "f8fc1eb5d43e",
-   "titulo": "Justiça do Rio condena homens por estupro coletivo de jovem de 17 anos",
-   "resumo": "A Justiça do Rio de Janeiro condenou quatro homens a 15 anos de prisão, em regime fechado, pela participação no dia 31 de janeiro deste ano no estupro coletivo de uma adolescente de 17 anos de idade, em um apartamento em Copacabana, na zona sul da cidade. Os…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-do-rio-condena-homens-por-estupro-coletivo-de-jovem-de-17-anos",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-14T11:25-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "4b937c9aed2b",
-   "titulo": "Repetitivo: redução de multa por dificultar fiscalização de cargas não atinge infrações anteriores à nova norma da ANTT",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-Repetitivo-reducao-de-multa-por-dificultar-fiscalizacao-de-cargas-nao-atinge-infracoes-anteriores-a-nova-norma-da.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-14T07:10-04:00",
-   "imagem": null,
-   "editorias": [
-    "jurisprudencia",
-    "pratica"
-   ]
-  },
-  {
-   "id": "41b8e3628b24",
-   "titulo": "STJ vê abusividade em perda automática de proteção ao veículo se sinistro não for comunicado em até 30 minutos",
-   "resumo": "Colegiado também considerou abusiva cláusula que previa a perda da proteção se o associado abandonasse o local do acidente. Caso envolveu cobertura garantida por associação de proteção veicular, não contrato tradicional de seguro.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/14102026-STJ-ve-abusividade-em-perda-automatica-de-protecao-ao-veiculo-se-sinistro-nao-for-comunicado-em-ate-30-minutos-.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-14T07:00-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_602894851.jpg",
-   "editorias": [
-    "civel"
    ]
   }
  ]
