@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T06:09-04:00",
+ "atualizado": "2026-11-17T13:16-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,238 @@
   }
  },
  "itens": [
+  {
+   "id": "3e5977997cda",
+   "titulo": "Levantamento busca mapear pessoas com deficiência e demandas de acessibilidade no PJMT",
+   "resumo": "O Poder Judiciário de Mato Grosso (PJMT) realiza, a partir desta terça-feira (17 de novembro), um levantamento para atualizar informações instituciona...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/levantamento-busca-mapear-pessoas-deficiencia-e-demandas-acessibilidade-no-pjmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T12:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "e5b91faaa854",
+   "titulo": "TJMT vence Prêmio de Inovação com Assistente de Comunicação de Atos Judiciais por WhatsApp",
+   "resumo": "O Poder Judiciário de Mato Grosso venceu a 7ª edição do Prêmio de Inovação J.Ex na categoria Laboratórios de Inovação, com o Assistente de Comunicação...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-vence-premio-inovacao-assistente-comunicacao-atos-judiciais-por-whatsapp",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T11:47-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8e9b683ec8dd",
+   "titulo": "TJMT mantém condenação de homem que atingiu criança ao tentar agredir ex-companheira",
+   "resumo": "A Terceira Câmara Criminal do Tribunal de Justiça de Mato Grosso (TJMT) manteve a condenação de um homem que atingiu uma criança de 11 anos ao tentar ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-mantem-condenacao-homem-que-atingiu-crianca-ao-tentar-agredir-ex-companheira",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T11:08-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "15c21fa8174a",
+   "titulo": "Informativo de Jurisprudência destaca uso de prompt injection em petições e cobertura de sensor de glicose",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Informativo-de-Jurisprudencia-destaca-uso-de-prompt-injection-em-peticoes-e-cobertura-de-sensor-de-glicose-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T08:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "e8787b246361",
+   "titulo": "STJ Notícias aborda responsabilização de preso por tráfico de drogas dentro de presídio",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-STJ-Noticias-aborda-responsabilizacao-de-preso-por-trafico-de-drogas-dentro-de-presidio.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T08:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "c63b1820b84a",
+   "titulo": "Tribunal promove simpósio nacional sobre a relevância da questão federal no dia 14 de dezembro",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Tribunal-promove-simposio-nacional-sobre-a-relevancia-da-questao-federal-no-dia-14-de-dezembro.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T07:15-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/interna%20simp%c3%b3sio%20da%20relevancia.jpg",
+   "editorias": []
+  },
+  {
+   "id": "a47df1a53b30",
+   "titulo": "Poupança usada como conta-corrente não afasta impenhorabilidade, define Corte Especial em repetitivo",
+   "resumo": "Colegiado também confirmou impenhorabilidade de outros investimentos de até 40 salários mínimos usados para subsistência individual e da família, mas reiterou possibilidade de penhora de aplicações de alto risco.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade--define-Corte-Especial-em-repetitivo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_2192953461.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "familia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "7472c06cbb2a",
+   "titulo": "Missões da Justiça e Cidadania chega ao interior do RS nesta terça-feira (17)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Missoes-da-Justica-e-Cidadania-chega-ao-interior-do-RS-nesta-terca-feira--17-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T19:22-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/17112026-Missoes-da-Justica-e-Cidadania-chega-ao-interior-do-RS-nesta-terca-feira--17-/Miss%c3%b5es_EME_1802.jpg",
+   "editorias": []
+  },
+  {
+   "id": "11d8f2d54f54",
+   "titulo": "Advogados podem se cadastrar para atuar como defensores dativos em Campinápolis",
+   "resumo": "A Comarca de Campinápolis (513 km distante de Cuiabá) torna pública a abertura de edital para cadastramento de advogados que tenham interesse em atuar...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/advogados-podem-se-cadastrar-para-atuar-como-defensores-dativos-em-campinapolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T17:19-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "662d055eb6dc",
+   "titulo": "Sexta Turma afasta importunação sexual e confirma estupro de vulnerável contra vítima adulta incapaz de resistir à violência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16112026-Sexta-Turma-afasta-importunacao-sexual-e-confirma-estupro-de-vulneravel-contra-vitima-adulta-incapaz.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T16:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "6d0be8022034",
+   "titulo": "Força-tarefa da Justiça garante cirurgia de catarata para bebê prestes a perder visão total",
+   "resumo": "Abner Yohan Silva de Azevedo é um bebê de 1 ano e 10 meses, que nasceu com catarata congênita. A mãe dele, Antônia Inaura da Silva Azevedo, 29, morado...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/forca-tarefa-justica-garante-cirurgia-catarata-para-bebe-prestes-a-perder-visao-total",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T16:25-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "41b46015dd07",
+   "titulo": "De dentro da prisão, revista criada por mulher privada de liberdade é finalista de prêmio do CNJ",
+   "resumo": "Uma história que começou dentro de uma unidade prisional feminina, a partir do olhar de quem conhece de perto a realidade do cárcere, agora ganha reco...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/dentro-prisao-revista-criada-por-mulher-privada-liberdade-e-finalista-premio-cnj",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T16:21-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "69bbcb563339",
+   "titulo": "II Jornada pela Equidade Racial está com inscrições abertas",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16112026-II-Jornada-pela-Equidade-Racial-esta-com-inscricoes-abertas-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T16:07-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/16112026-II-Jornada-pela-Equidade-Racial-esta-com-inscricoes-abertas-/79080_jornal_mural_cdju.jpg",
+   "editorias": []
+  },
+  {
+   "id": "8a9772fe118c",
+   "titulo": "Projeto Antes da Escolha vai premiar adolescentes em desafio de redação em Cáceres",
+   "resumo": "A reflexão sobre escolhas, amizades e futuro vai ganhar reconhecimento especial em Cáceres. No dia 19 de novembro, às 14h, 258 adolescentes de escolas...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/projeto-antes-escolha-vai-premiar-adolescentes-em-desafio-redacao-em-caceres",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T15:49-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "21732c6abe88",
+   "titulo": "Poder Judiciário e Justiça Restaurativa reconhecem professores facilitadores da Comarca de Sinop",
+   "resumo": "O trabalho de professores que atuam como facilitadores de Círculos de Construção de Paz nas escolas de Sinop (498 km de Cuiabá) foi reconhecido pelo P...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/poder-judiciario-e-justica-restaurativa-reconhecem-professores-facilitadores-comarca-sinop",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T15:08-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "eb7256986de1",
+   "titulo": "Novo Portal de Jurisprudência do TJMT facilita a consulta a decisões judiciais; confira como acessar",
+   "resumo": "O Tribunal de Justiça do Estado de Mato Grosso (TJMT) lançou o novo Portal de Jurisprudência, uma ferramenta desenvolvida para tornar a consulta às de...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/novo-portal-jurisprudencia-tjmt-facilita-a-consulta-a-decisoes-judiciais-confira-como-acessar",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-16T14:26-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "7a5981e1a993",
+   "titulo": "Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Calendario-2027-do-STJ-e-CJF-destaca-decisoes-marcantes-que-mudaram-a-vida-de-brasileiros.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T08:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a0c0f428dda9",
+   "titulo": "Informativo destaca legitimidade do MP em ação civil pública e exigência de farmacêutico em drogarias",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16112026-Informativo-destaca-legitimidade-do-MP-em-acao-civil-publica-e-exigencia-de-farmaceutico-em-drogarias.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T08:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0d56598607d3",
+   "titulo": "Em repetitivo, STJ afasta restituição de PIS e Cofins a varejistas de cigarros e cigarrilhas",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/16112026-Em-repetitivo--STJ-afasta-restituicao-de-PIS-e-Cofins-a-varejistas-de-cigarros-e-cigarrilhas.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-16T07:10-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Maria%20Thereza%20interna.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
   {
    "id": "46862e39919c",
    "titulo": "Primeira Turma reconhece dano moral coletivo presumido por degradação de patrimônio tombado até tutela de urgência",
@@ -4285,17 +4517,6 @@
     "consumidor",
     "pratica"
    ]
-  },
-  {
-   "id": "d43a86028baa",
-   "titulo": "Quando a inteligência artificial vira questão de Justiça: as primeiras decisões do STJ sobre o uso de IA",
-   "resumo": "Na mesma velocidade em que transformou a vida digital da sociedade, a IA chegou à Justiça não apenas como tema discutido nos processos, mas como desafio na gestão dos tribunais.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18102026-Quando-a-inteligencia-artificial-vira-questao-de-Justica-as-primeiras-decisoes-do-STJ-sobre-o-uso-de-IA.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-18T06:55-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/76989_portal_capa_489x326.jpg.jpeg",
-   "editorias": []
   }
  ]
 }
