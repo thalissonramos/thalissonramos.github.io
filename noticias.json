@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T13:16-04:00",
+ "atualizado": "2026-11-18T12:52-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,279 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 2,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "be8a8b5e60ef",
+   "titulo": "Pequenas escolhas, grandes resultados: Cesima Explica fala sobre sustentabilidade",
+   "resumo": "O Centro de Estudos Integrados em Meio Ambiente (Cesima) divulga nesta semana mais uma edição da campanha educativa “Cesima Explica”, trazendo ao públ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/pequenas-escolhas-grandes-resultados-cesima-explica-fala-sobre-sustentabilidade",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T11:59-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "3302577c935e",
+   "titulo": "Podcast STJ No Seu Dia discute importação de animais mortos sem licença ambiental",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Podcast-STJ-No-Seu-Dia-discute-importacao-de-animais-mortos-sem-licenca-ambiental.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T09:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "441fbac1e680",
+   "titulo": "Entender Direito aborda evolução da jurisprudência do STJ sobre agravo de instrumento",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Entender-Direito-aborda-evolucao-da-jurisprudencia-do-STJ-sobre-agravo-de-instrumento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T08:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "6f1dd5f87159",
+   "titulo": "STJ avança na aplicação do Protocolo para Julgamento com Perspectiva de Gênero",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-STJ-avanca-na-aplicacao-do-Protocolo-para-Julgamento-com-Perspectiva-de-Genero.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T08:15-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Protocolo_perspectiva_genero_79132_portal_interna_700x467.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "4f850980ef34",
+   "titulo": "Dia da Consciência Negra: tribunal não terá expediente na próxima sexta-feira (20)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Dia-da-Consciencia-Negra-tribunal-nao-tera-expediente-na-proxima-sexta-feira--20-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T08:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%20fachada.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "00a7a5a7734e",
+   "titulo": "Nosso Judiciário encerra calendário de visitas de 2026 com estudantes de Campo Verde",
+   "resumo": "A reta final do ano também marca o encerramento do calendário de visitas do Programa Nosso Judiciário em 2026. Nesta terça-feira (17), 25 acadêmicos d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/nosso-judiciario-encerra-calendario-visitas-2026-estudantes-campo-verde",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T08:01-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "539da2cbf88a",
+   "titulo": "Nesta quarta-feira (18), STJ sedia lançamento de livro em homenagem ao ministro Benedito Gonçalves",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Nesta-quarta-feira--18---STJ-sedia-lancamento-de-livro-em-homenagem-ao-ministro-Benedito-Goncalves-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T08:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/18112026-Nesta-quarta-feira--18---STJ-sedia-lancamento-de-livro-em-homenagem-ao-ministro-Benedito-Goncalves-/76591_jornal_mural_cimp%201.jpg",
+   "editorias": []
+  },
+  {
+   "id": "cab554044b58",
+   "titulo": "Presidente do STJ e do CJF lamenta morte e destaca legado de Paulo Gallotti",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Presidente-do-STJ-e-do-CJF-lamenta-morte-e-destaca-legado-de-Paulo-Gallotti.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T07:49-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Portal%20interna%2018102026.jpg",
+   "editorias": []
+  },
+  {
+   "id": "c7074e5360b4",
+   "titulo": "STJ promove, nesta quinta-feira (19), audiência pública sobre prescrição em ações envolvendo pessoas com deficiência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-STJ-promove--nesta-quinta-feira--19---audiencia-publica-sobre-prescricao-em-acoes-envolvendo-pessoas-com.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T07:40-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/arte%20audi%c3%aancia%20p%c3%bablica%20interna.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "d4f6d09abe37",
+   "titulo": "Relevância: STJ não é competente para julgar controvérsia sobre comprovação de escolaridade em concurso da PMRN",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Relevancia-STJ-nao-e-competente-para-julgar-controversia-sobre-comprovacao-de-escolaridade-em-concurso-da-PMRN.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministra%20Maria%20Thereza%20interna.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "912ecd675de8",
+   "titulo": "Primeira Seção fixa tese e define que salário-educação não pode ser exigido de titulares de cartório",
+   "resumo": "Para o relator dos recursos, ministro Teodoro Silva Santos, embora a atividade desempenhada por notários e registradores seja semelhante à empresarial, sua natureza típica estatal impede a caracterização como empresa.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Primeira-Secao-fixa-tese-e-define-que-salario-educacao-nao-pode-ser-exigido-de-titulares-de-cartorio.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Portal-CAPA%201811.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
+  {
+   "id": "78f50f690166",
+   "titulo": "Primeiro dia do Missões da Justiça e Cidadania leva serviços à população do interior gaúcho",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Primeiro-dia-do-Missoes-da-Justica-e-Cidadania-leva-servicos-a-populacao-do-interior-gaucho.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T19:08-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/17112026-Primeiro-dia-do-Missoes-da-Justica-e-Cidadania-leva-servicos-a-populacao-do-interior-gaucho/Missoes_Liza%20e%20Luciana.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "7872b070ab57",
+   "titulo": "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta terça-feira (17) que a Corte pode julgar, ainda neste ano, a validade da lei que diminui as penas de condenados pelos atos golpistas de 8 de janeiro de 2023 (Lei da Dosimetria)…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-neste-ano",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-17T19:01-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "2dd53827b67a",
+   "titulo": "2ª Vara Criminal vence competição ReciclaJud no Fórum de Várzea Grande",
+   "resumo": "Uma competição em que todos saem ganhando, especialmente o meio ambiente e a sociedade. Assim foi a segunda edição do ReciclaJud no Fórum de Várzea Gr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/2-vara-criminal-vence-competicao-reciclajud-no-forum-varzea-grande",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T18:48-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "e3b2c41d0e31",
+   "titulo": "PGR é a favor de prorrogação de investigação do caso Dark Horse",
+   "resumo": "O procurador-Geral da República, Paulo Gonet, enviou nesta terça-feira (17) ao Supremo Tribunal Federal (STF) parecer favorável à prorrogação, por 90 dias, do inquérito que investiga os pagamentos do ex-banqueiro Daniel Vorcaro para o filme Dark Horse, a…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-a-favor-de-prorrogacao-de-investigacao-do-caso-dark-horse",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-17T17:24-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "b4d22e51786a",
+   "titulo": "Justiça concede Benefício de Prestação Continuada a pessoas hipervulneráveis durante Expedição",
+   "resumo": "A oitava edição da Expedição Araguaia-Xingu, iniciativa da Justiça Comunitária do Poder Judiciário de Mato Grosso, realizada entre os dias 4 e 15 de n...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-concede-beneficio-prestacao-continuada-a-pessoas-hipervulneraveis-durante-expedicao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T17:13-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "84b0fee6a956",
+   "titulo": "Desembargadora convocada Fátima Maranhão inicia trabalhos na Sexta Turma",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Desembargadora-convocada-Fatima-Maranhao-inicia-trabalhos-na-Sexta-Turma.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T16:45-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Fatima_Maranhao_sexta_turma_eLUC_8332.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "131ff8929d44",
+   "titulo": "Comitiva de magistrados de Mato Grosso participa do 58º Fórum Nacional de Juizados Especiais",
+   "resumo": "Magistrados de Mato Grosso participam de 17 a 19 de novembro, do 58º Fórum Nacional de Juizados Especiais (Fonaje), realizado em João Pessoa (PB), pel...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comitiva-magistrados-mato-grosso-participa-58-forum-nacional-juizados-especiais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T16:40-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "e565e64ef63a",
+   "titulo": "Último dia de inscrições para curso sobre credibilidade do testemunho e neurodivergência",
+   "resumo": "Termina amanhã o prazo de inscrições para o curso “Memória, inquirição e avaliação da credibilidade do testemunho em neurodivergentes”, promovido pela...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/ultimo-dia-inscricoes-para-curso-sobre-credibilidade-testemunho-e-neurodivergencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T16:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "5f94be1abc09",
+   "titulo": "CNJ e MJSP promovem o evento 5 Anos do Protocolo para Julgamento com Perspectiva de Gênero",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-CNJ-e-MJSP-promovem-o-evento-5-Anos-do-Protocolo-para-Julgamento-com-Perspectiva-de-Genero.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T16:11-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/17112026-CNJ-e-MJSP-promovem-o-evento-5-Anos-do-Protocolo-para-Julgamento-com-Perspectiva-de-Genero/encontro-protocolo-genero-768x420-1-2048x1120.png",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "602f71394432",
+   "titulo": "Durante Enajun e Fonajurd, Cabine Pontes debateu caminhos para uma Justiça mais diversa e inclusiva",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Durante-Enajun-e-Fonajurd--Cabine-Pontes-debateu-caminhos-para-uma-Justica-mais-diversa-e-inclusiva.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-17T15:40-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8b36462a46c5",
+   "titulo": "Desembargador Jones Gattass avalia atuação de juízes e destaca resultados positivos da preceptoria",
+   "resumo": "A preceptoria no Poder Judiciário de Mato Grosso vai além de encontros on-line e das orientações à distância. Como parte do acompanhamento dos juízes ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/desembargador-jones-gattass-avalia-atuacao-juizes-e-destaca-resultados-positivos-preceptoria",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-17T15:40-04:00",
+   "imagem": null,
+   "editorias": []
+  },
   {
    "id": "3e5977997cda",
    "titulo": "Levantamento busca mapear pessoas com deficiência e demandas de acessibilidade no PJMT",
@@ -227,12 +495,12 @@
   {
    "id": "7a5981e1a993",
    "titulo": "Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros",
-   "resumo": "",
+   "resumo": "Calendário traz decisões históricas e datas das sessões colegiadas",
    "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Calendario-2027-do-STJ-e-CJF-destaca-decisoes-marcantes-que-mudaram-a-vida-de-brasileiros.aspx",
    "fonte": "STJ",
    "fonte_id": "stj",
    "data": "2026-11-16T08:20-04:00",
-   "imagem": null,
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/veja_tambem/vt_calendario-stj-2027.png",
    "editorias": []
   },
   {
@@ -4423,98 +4691,6 @@
    "data": "2026-10-19T14:12-04:00",
    "imagem": null,
    "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "fa80008a562e",
-   "titulo": "TJMT anula júri que considerou suposta traição para reduzir pena por tentativa de feminicídio",
-   "resumo": "A alegação de traição ou humilhação em um relacionamento não pode ser utilizada para justificar a violência contra a mulher ou fundamentar a redução d...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-anula-juri-que-considerou-suposta-traicao-para-reduzir-pena-por-tentativa-feminicidio",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T11:30-04:00",
-   "imagem": null,
-   "editorias": [
-    "jurisprudencia",
-    "penal"
-   ]
-  },
-  {
-   "id": "261bea838c9c",
-   "titulo": "Resolver antes que o conflito aumente também é papel do Juizado Especial Criminal",
-   "resumo": "Encerrar um procedimento judicial nem sempre significa colocar fim ao problema que levou duas pessoas à Justiça. Por trás de uma ocorrência podem exis...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/resolver-antes-que-o-conflito-aumente-tambem-e-papel-juizado-especial-criminal",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T11:22-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "cf2b1d530d2d",
-   "titulo": "TSE dá 24 horas para Meta dar informações sobre igualdade de campanhas",
-   "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), deu 24 horas para que a empresa Meta - responsável por plataformas como Facebook, Instagram e WhatsApp - comprove a adoção de medidas de isonomia na distribuição de posts políticos e na…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-da-24-horas-para-meta-dar-informacoes-sobre-igualdade-de-campanhas",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-19T10:05-04:00",
-   "imagem": null,
-   "editorias": [
-    "familia"
-   ]
-  },
-  {
-   "id": "982c6eb51613",
-   "titulo": "STJ sedia XXIII Cúpula Judicial Ibero-Americana; acompanhe transmissão da abertura",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana--acompanhe-transmissao-da-abertura.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T08:04-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-XXIII-Cupula-Judicial-Ibero-Americana--acompanhe-transmissao-da-abertura/76650_portal_interna_700x467.jpg",
-   "editorias": []
-  },
-  {
-   "id": "a22e52cec230",
-   "titulo": "Informativo destaca responsabilidade de clube visitante por danos ao patrimônio e apreensão de munição isolada",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Informativo-destaca-responsabilidade-de-clube-visitante-por-danos-ao-patrimonio-e-apreensao-de-municao-isolada.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T07:40-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "d89de7662a7c",
-   "titulo": "Repetitivo vai definir exigência de previsão expressa da taxa diária de juros em contrato bancário",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Repetitivo-vai-definir-exigencia-de-previsao-expressa-da-taxa-diaria-de-juros-em-contrato-bancario.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T07:00-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Vilas_boas_cueva_INTERNA_MAX_2019.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "consumidor",
-    "pratica",
-    "civel"
-   ]
-  },
-  {
-   "id": "d306fb2b8435",
-   "titulo": "Estado deve pagar honorários no período em que consumidor foi dispensado de recolher Tust e Tusd no ICMS",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Estado-deve-pagar-honorarios-no-periodo-em-que-consumidor-foi-dispensado-de-recolher-Tust-e-Tusd-no-ICMS.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T06:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_LUC_6918.jpg",
-   "editorias": [
-    "consumidor",
     "pratica"
    ]
   }
