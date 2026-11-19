@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T12:52-04:00",
+ "atualizado": "2026-11-19T12:58-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,210 @@
   }
  },
  "itens": [
+  {
+   "id": "d22213a8ee4f",
+   "titulo": "Missões da Justiça e Cidadania reúne mais de 40 instituições para ampliar acesso a serviços públicos no RS",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Missoes-da-Justica-e-Cidadania-reune-mais-de-40-instituicoes-para-ampliar-acesso-a-servicos-publicos-no-RS.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T12:31-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19112026-Missoes-da-Justica-e-Cidadania-reune-mais-de-40-instituicoes-para-ampliar-acesso-a-servicos-publicos-no-RS/Missoes_18nov_EME_3140.jpg",
+   "editorias": []
+  },
+  {
+   "id": "5e21d6c1857c",
+   "titulo": "Dia da Consciência Negra: o que o STJ tem feito para transformar a pauta racial em prática diária",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Dia-da-Consciencia-Negra-o-que-o-STJ-tem-feito-para-transformar-a-pauta-racial-em-pratica-diaria-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T12:25-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19112026-Dia-da-Consciencia-Negra-o-que-o-STJ-tem-feito-para-transformar-a-pauta-racial-em-pratica-diaria-/interna_850x565_consci%c3%aancia.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "6d4030d8f220",
+   "titulo": "Do banco dos réus à sentença: júri simulado reproduz julgamento por homicídio",
+   "resumo": "Um acusado de homicídio no banco dos réus. À frente da sessão, o juiz. De um lado, a acusação. Do outro, a defesa. No plenário, sete jurados responsáv...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/banco-reus-a-sentenca-juri-simulado-reproduz-julgamento-por-homicidio",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T09:43-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal",
+    "consumidor",
+    "pratica"
+   ]
+  },
+  {
+   "id": "d2e06c0e7529",
+   "titulo": "Autoridades reconhecem importância da Expedição Araguaia-Xingu em Confresa",
+   "resumo": "A Expedição Araguaia-Xingu - iniciativa do Poder Judiciário, por meio da Justiça Comunitária, juntamente com diversos órgãos federais, estaduais, muni...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/autoridades-reconhecem-importancia-expedicao-araguaia-xingu-em-confresa",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T07:56-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "0d3a42776bfc",
+   "titulo": "Rádio Decidendi: precedente sobre tributação de benefícios fiscais de ICMS é tema do podcast",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Radio-Decidendi-precedente-sobre-tributacao-de-beneficios-fiscais-de-ICMS-e-tema-do-podcast.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T07:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "891611eb574c",
+   "titulo": "Terceira Turma mantém separação obrigatória em união estável de maior de 70 anos extinta antes de tese do STF",
+   "resumo": "Para o colegiado, a falta de inventário e partilha de bens de um casamento anterior, quando o viúvo ou a viúva tem filhos do cônjuge falecido, justifica a aplicação à nova união do regime da separação obrigatória de bens enquanto essa situação persistir",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Terceira-Turma-mantem-separacao-obrigatoria-em-uniao-estavel-de-maior-de-70-anos-extinta-antes-de-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_1734419428.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "sucessoes",
+    "familia"
+   ]
+  },
+  {
+   "id": "0ae19860856c",
+   "titulo": "Ministro Marco Aurélio Bellizze passa a compor a Corte Especial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Ministro-Marco-Aurelio-Bellizze-passa-a-compor-a-Corte-Especial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T19:30-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_GUT_2039.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "86ee084c7ad1",
+   "titulo": "STJ recebe reconhecimento do CNJ pelo incentivo ao uso da linguagem simples",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-STJ-recebe-reconhecimento-do-CNJ-pelo-incentivo-ao-uso-da-linguagem-simples.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T18:32-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/18112026-STJ-recebe-reconhecimento-do-CNJ-pelo-incentivo-ao-uso-da-linguagem-simples/PORTAL_INTERNA_LUC_9279.jpg",
+   "editorias": []
+  },
+  {
+   "id": "3c6214338d33",
+   "titulo": "Comarca de Pedra Preta publica edital de reabertura de seletivo para credenciamento de psicólogo",
+   "resumo": "A Comarca de Pedra Preta publicou o edital N. 6/2026-DF de reabertura de processo seletivo para credenciamento de profissional da área de psicologia. ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-pedra-preta-publica-edital-reabertura-seletivo-para-credenciamento-psicologo",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T17:53-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "41bc4b27098b",
+   "titulo": "Semana Nacional da Regularização Tributária registra R$ 64,4 milhões em negociações em Mato Grosso",
+   "resumo": "A III Semana Nacional da Regularização Tributária movimentou R$ 64,4 milhões em negociações de débitos fiscais em Mato Grosso. Desse montante, R$ 25,3...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/semana-nacional-regularizacao-tributaria-registra-r-644-milhoes-em-negociacoes-em-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T17:39-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "fc5e1e3b32a4",
+   "titulo": "Armário Solidário arrecada R$ 8 mil para apoiar mulheres vítimas de violência em Várzea Grande",
+   "resumo": "Roupas, calçados, bolsas e acessórios que ganharam uma nova oportunidade de uso também se transformaram em esperança para mulheres, crianças e adolesc...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/armario-solidario-arrecada-r-8-mil-para-apoiar-mulheres-vitimas-violencia-em-varzea-grande",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T17:06-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d707d418f576",
+   "titulo": "Relator suspende decisões judiciais sobre programa para motoristas da Uber até definição de competência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Relator-suspende-decisoes-judiciais-sobre-programa-para-motoristas-da-Uber-ate-definicao-de-competencia.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-18T16:36-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Raul_Araujo_PORTAL_INTERNA_RLZ_9474.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "55cb6cb8334e",
+   "titulo": "Com especialista do STJ, curso discute admissibilidade recursal e sistema brasileiro de precedentes",
+   "resumo": "Realizado nos dias 16 e 17 de novembro, na sede da Escola Superior da Magistratura de Mato Grosso (Esmagis-MT), o curso “Admissibilidade do Recurso Es...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/especialista-stj-curso-discute-admissibilidade-recursal-e-sistema-brasileiro-precedentes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T16:14-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "64bb07e7bc1b",
+   "titulo": "Verde Novo promove plantios em escolas e comunidades de Confresa, durante Expedição Araguaia-Xingu",
+   "resumo": "A passagem da Expedição Araguaia-Xingu pelo município de Confresa (1.124 km a nordeste de Cuiabá), na semana passada, deixou um legado de consciência ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/verde-novo-promove-plantios-em-escolas-e-comunidades-confresa-durante-expedicao-araguaia-xingu",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T15:55-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "af89b35f22f9",
+   "titulo": "IX Sarau Prosa, Poesia e Justiça da Esmagis-MT reúne lançamento de obras jurídicas de destaque",
+   "resumo": "A produção literária e científica no campo jurídico ganhará protagonismo no próximo dia 3 de dezembro, a partir das 16h, durante a IX edição do Sarau ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/ix-sarau-prosa-poesia-e-justica-esmagis-mt-reune-lancamento-obras-juridicas-destaque",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T15:07-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "7d6dcd55b8f4",
+   "titulo": "Corregedoria alcança 100% das comarcas correcionadas em Mato Grosso no biênio 2025-2026",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso (CGJ-TJMT) alcançou a marca de 100% das 79 comarcas do Estado correcionadas na gestão do biênio 2025-20...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-alcanca-100-comarcas-correcionadas-em-mato-grosso-no-bienio-2025-2026",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T14:39-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b1ea5cf3f487",
+   "titulo": "Reciclagem no Fórum de VG ajuda a preservar 451 árvores e economizar 960 mil litros de água",
+   "resumo": "Mais de 27 toneladas de materiais que poderiam ter como destino o lixo ganharam uma nova oportunidade de aproveitamento e contribuíram diretamente par...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/reciclagem-no-forum-vg-ajuda-a-preservar-451-arvores-e-economizar-960-mil-litros-agua",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-18T13:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
   {
    "id": "be8a8b5e60ef",
    "titulo": "Pequenas escolhas, grandes resultados: Cesima Explica fala sobre sustentabilidade",
@@ -4518,180 +4722,6 @@
    "imagem": null,
    "editorias": [
     "penal"
-   ]
-  },
-  {
-   "id": "52585c8fa2b5",
-   "titulo": "Telefones fixos da Comarca de Rosário Oeste estão inoperantes",
-   "resumo": "Os telefones fixos da Comarca de Rosário Oeste estão temporariamente inoperantes. Para garantir a continuidade do atendimento ao público, a unidade di...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/telefones-fixos-comarca-rosario-oeste-estao-inoperantes",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T10:38-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "d868f06dcc69",
-   "titulo": "Segundo turno das eleições é tema do podcast Explicando Direito",
-   "resumo": "O podcast Explicando Direito recebeu a juíza de Direito Ana Flávia Martins François, da Vara Única da Comarca de Araputanga e juíza eleitoral da 41ª Z...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/segundo-turno-eleicoes-e-tema-podcast-explicando-direito",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T09:43-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "da9fc09fa123",
-   "titulo": "STJ Notícias explica se carro furtado com chave na ignição perde cobertura de seguro",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-Noticias-explica-se-carro-furtado-com-chave-na-ignicao-perde-cobertura-de-seguro.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T07:05-04:00",
-   "imagem": null,
-   "editorias": [
-    "civel"
-   ]
-  },
-  {
-   "id": "64be1cf9bccd",
-   "titulo": "Ministério Público do Rio renova acordo para enfrentar criminalidade",
-   "resumo": "O acordo de cooperação técnica para a integração de informações estratégicas e o aprimoramento das ações de enfrentamento à criminalidade no estado do Rio foi renovado pelo Ministério Público (MP) e o Instituto de Segurança Pública (ISP). O termo, assinado…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministerio-publico-do-rio-renova-acordo-para-enfrentar-criminalidade",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-20T07:02-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "01e7788a19f9",
-   "titulo": "Juízo do júri deve analisar medidas urgentes em feminicídio de militar em MG; IPM pode apurar outros pontos da investigação",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Juizo-do-juri-deve-analisar-medidas-urgentes-em-feminicidio-de-militar-em-MG--IPM-pode-apurar-outros-pontos.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T07:00-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Nilsoni_de_freitas_PORTAL_INTERNA_LUC_2278.jpg",
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "22b4cbe8d1bd",
-   "titulo": "Ecad não pode trocar taxa de ocupação informada por hotel por dado de pesquisa de mercado sem justificativa válida",
-   "resumo": "Para a Terceira Turma, substituição injustificada de informação prestada por hotel para cobrança de direitos autorais configura prática ilegal e abusiva.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Ecad-nao-pode-trocar-taxa-de-ocupacao-informada-por-hotel-por-dado-extraido-de-pesquisa-de-mercado-sem.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T06:55-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_923649628.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "civel"
-   ]
-  },
-  {
-   "id": "a6c19c02686b",
-   "titulo": "Entenda como funciona o primeiro Cejusc do país especializado no agronegócio",
-   "resumo": "Resolver conflitos sem depender, necessariamente, de uma longa disputa judicial é a proposta do Centro Judiciário de Solução de Conflitos e Cidadania ...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/entenda-como-funciona-o-primeiro-cejusc-pais-especializado-no-agronegocio",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T17:47-04:00",
-   "imagem": null,
-   "editorias": [
-    "jurisprudencia"
-   ]
-  },
-  {
-   "id": "6d0a27c79042",
-   "titulo": "Mais empatia: curso sobre direitos das pessoas com deficiência fortalece atuação do Judiciário",
-   "resumo": "“A grande questão, de fato, é a inclusão dessas pessoas. Como elas estão sendo incluídas? Como estão sendo respeitadas diante de suas necessidades? Co...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/mais-empatia-curso-sobre-direitos-pessoas-deficiencia-fortalece-atuacao-judiciario",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T17:38-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "a902d2a26fd8",
-   "titulo": "Custas processuais poderão ser parceladas no cartão de crédito a partir de 26 de outubro",
-   "resumo": "Uma nova opção de pagamento promete facilitar a vida de quem precisa ingressar com uma ação judicial em Mato Grosso. A partir do dia 26 de outubro, o ...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/custas-processuais-poderao-ser-parceladas-no-cartao-credito-a-partir-26-outubro",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T16:41-04:00",
-   "imagem": null,
-   "editorias": [
-    "consumidor",
-    "pratica"
-   ]
-  },
-  {
-   "id": "68b1e26654a6",
-   "titulo": "STJ sedia lançamento do livro Por uma Livre Iniciativa Fraterna, nesta terça (20)",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-lancamento-do-livro-Por-uma-Livre-Iniciativa-Fraterna-nesta-terca.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T16:20-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-sedia-lancamento-do-livro-Por-uma-Livre-Iniciativa-Fraterna-nesta-terca/fraterno.png",
-   "editorias": []
-  },
-  {
-   "id": "5cad78f7517c",
-   "titulo": "Podcast Prosa Legal: juíza explica o que é sextorsão e como pedir ajuda; ouça",
-   "resumo": "Chantagear uma pessoa utilizando conteúdo íntimo, como fotos ou vídeos, é crime que pode se concretizar de diferentes formas e que, em geral, tem sido...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/podcast-prosa-legal-juiza-explica-o-que-e-sextorsao-e-como-pedir-ajuda-ouca",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-19T16:03-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "7b797de06a80",
-   "titulo": "STJ afasta servidores suspeitos de irregularidades e terá programa de confiança digital para mitigar novos riscos",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-STJ-afasta-servidores-suspeitos-de-irregularidades-e-tera-programa-de-confianca-digital-para-mitigar-novos-riscos.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T14:49-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-STJ-afasta-servidores-suspeitos-de-irregularidades-e-tera-programa-de-confianca-digital-para-mitigar-novos-riscos/76610_portal_interna_700x467.jpg",
-   "editorias": [
-    "jurisprudencia"
-   ]
-  },
-  {
-   "id": "ddc10af7307c",
-   "titulo": "Cooperação do Judiciário e uso da IA são temas em destaque na abertura da XXIII Cúpula Judicial Ibero-Americana",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19102026-Cooperacao-do-Judiciario-e-uso-da-IA-sao-temas-em-destaque-na-abertura-da-XXIII-Cupula-Judicial-Ibero-American.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-19T14:13-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19102026-Cooperacao-do-Judiciario-e-uso-da-IA-sao-temas-em-destaque-na-abertura-da-XXIII-Cupula-Judicial-Ibero-American/C%c3%bapula_PORTAL_GUT_1963.jpg",
-   "editorias": []
-  },
-  {
-   "id": "ab4f71e43c3c",
-   "titulo": "Zanin pede parecer da PGR e AGU sobre ação do PSD por 2º turno no Rio",
-   "resumo": "O ministro do Supremo Tribunal Federal Cristiano Zanin pediu nesta segunda-feira (19) a manifestação da Procuradoria-Geral da República (PGR) e da Advocacia-Geral da União (AGU) sobre a ação que pede a realização de segundo turno para governador do estado do…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/zanin-pede-parecer-da-pgr-e-agu-sobre-acao-do-psd-por-2-turno-no-rio",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-19T14:12-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
    ]
   }
  ]
