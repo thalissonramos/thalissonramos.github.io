@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T12:58-04:00",
+ "atualizado": "2026-11-20T12:34-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,199 @@
   }
  },
  "itens": [
+  {
+   "id": "4372ddb1c48f",
+   "titulo": "Consciência Negra: Justiça e equidade racial exigem reconhecimento das desigualdades históricas",
+   "resumo": "Mais da metade da população brasileira é negra. Em Mato Grosso, essa proporção chega a quase 66% dos habitantes. Os números do Censo Demográfico 2022,...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/consciencia-negra-justica-e-equidade-racial-exigem-reconhecimento-desigualdades-historicas",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-20T08:04-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b96319be4828",
+   "titulo": "Campanha “Nossos passos, Novas togas” destaca representatividade negra na magistratura",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20112026-Campanha-“Nossos-passos--Novas-togas”-destaca-representatividade-negra-na-magistratura.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-20T08:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "4445b29c8c81",
+   "titulo": "Tribunal do Júri condena Inês Gemilaki a 26 anos de prisão e absolve outros dois réus",
+   "resumo": "Inês Gemilaki foi condenada a 26 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, pelo Tribunal do Júri realizado em Sinop. Bruno Gemil...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tribunal-juri-condena-ines-gemilaki-a-26-anos-prisao-e-absolve-outros-dois-reus",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-20T07:56-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "e2cdb40249fd",
+   "titulo": "Audiência pública recebe sugestões de entidades e especialistas sobre prescrição e decadência em ações envolvendo pessoas com deficiência",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Audiencia-publica-recebe-sugestoes-de-entidades-e-especialistas-sobre-prescricao-e-decadencia-em-acoes-envolvendo-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T19:46-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Audi%c3%aancia_publica_2_prescri%c3%a7%c3%a3o_PORTAL_INTERNA_LUC_0972.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "b052c0590239",
+   "titulo": "Crime da 113 Sul: Sexta Turma mantém anulação do júri que condenou Adriana Villela",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Crime-da-113-Sul-Sexta-Turma-mantem-anulacao-do-juri-que-condenou-Adriana-Villela.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T17:55-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sebasti%c3%a3o_Reis_PORTAL_INTERNA_EGUT_5276%20%281%29.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "c2601d2138bd",
+   "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-19T17:34-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "e0221c1a1dbf",
+   "titulo": "Podcast do TJMT debate racismo velado e o papel do Judiciário na igualdade racial",
+   "resumo": "A nova edição do podcast Explicando Direito, disponível no Spotify do Tribunal de Justiça de Mato Grosso (TJMT), traz como tema a Consciência Negra e ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/podcast-tjmt-debate-racismo-velado-e-o-papel-judiciario-na-igualdade-racial",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T17:23-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8458149c9e06",
+   "titulo": "Enfam celebra formatura da quinta turma do Mestrado Profissional",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Enfam-celebra-formatura-da-quinta-turma-do-Mestrado-Profissional.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T17:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "98c8d9b8eee5",
+   "titulo": "TJMT leva Programa de Integridade à formação de novos magistrados",
+   "resumo": "A integridade como compromisso que começa desde os primeiros passos na magistratura. Essa foi uma das mensagens do encontro realizado em 13 de novembr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-leva-programa-integridade-a-formacao-novos-magistrados",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T17:02-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a81f41749926",
+   "titulo": "‘Formar magistrados é semear o futuro da Justiça’, afirma desembargadora Anglizey Solivan",
+   "resumo": "Investir na formação de magistrados é investir diretamente na qualidade da prestação jurisdicional. Mais do que um instrumento de capacitação, a prece...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/formar-magistrados-e-semear-o-futuro-justica-afirma-desembargadora-anglizey-solivan",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T16:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "956f86bc0557",
+   "titulo": "Judiciário articula com Executivo projeto de combate à violência contra meninas e mulheres",
+   "resumo": "A cooperação entre os Poderes Judiciário e Executivo de Mato Grosso e a startup New School pretende levar para crianças e adolescentes da rede estadua...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judiciario-articula-executivo-projeto-combate-a-violencia-contra-meninas-e-mulheres",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T16:09-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "da0f3f5ead2a",
+   "titulo": "Comarca de Jauru abre processo seletivo para credenciamento de psicólogo",
+   "resumo": "A Comarca de Jauru publicou o Edital nº 5/2026/DF, que abre processo seletivo para o credenciamento de profissional da área de Psicologia. A contrataç...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-jauru-abre-processo-seletivo-para-credenciamento-psicologo",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T16:08-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "19478a1715c2",
+   "titulo": "Ministro Mauro Campbell recebe a medalha Ordem do Mérito Grão-Colar",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/19112026-Ministro-Mauro-Campbell-recebe-a-medalha-Ordem-do-Merito-Grao-Colar.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-19T16:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/19112026-Ministro-Mauro-Campbell-recebe-a-medalha-Ordem-do-Merito-Grao-Colar/DSC4143_PORTAL.jpg",
+   "editorias": []
+  },
+  {
+   "id": "5db04438f5ba",
+   "titulo": "Judiciário de MT funciona em regime de plantão neste feriado e fim de semana (20 a 22 de novembro)",
+   "resumo": "Neste feriado nacional do Dia da Consciência Negra e fim de semana (20 a 22 de novembro), o Poder Judiciário de Mato Grosso atua em regime de plantão ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/judiciario-mt-funciona-em-regime-plantao-neste-feriado-e-fim-semana-20-a-22-novembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T15:26-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "a67b924b3506",
+   "titulo": "Com meta de seis mil árvores, Verde Novo e Verde em Ação intensificam manutenção de mudas na capital",
+   "resumo": "O trabalho de arborização de Cuiabá vai além do plantio de árvores. Nesta quarta e quinta-feira (18 e 19 de novembro), equipes do Programa Verde Novo,...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/meta-seis-mil-arvores-verde-novo-e-verde-em-acao-intensificam-manutencao-mudas-na-capital",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T14:52-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "ebe46b427f3d",
+   "titulo": "Adoção tardia transforma a vida de dois irmãos e de seus novos pais",
+   "resumo": "Uma casa, uma família, uma rotina de estudos, esportes e, principalmente, a segurança de ter com quem contar. Essa é a realidade dos irmãos Gabriel Gr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/adocao-tardia-transforma-a-vida-dois-irmaos-e-seus-novos-pais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-19T14:46-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
   {
    "id": "d22213a8ee4f",
    "titulo": "Missões da Justiça e Cidadania reúne mais de 40 instituições para ampliar acesso a serviços públicos no RS",
@@ -4490,239 +4683,6 @@
    "data": "2026-10-21T14:01-04:00",
    "imagem": null,
    "editorias": []
-  },
-  {
-   "id": "81bbf332d890",
-   "titulo": "Comarca de Sorriso abre seleção para profissional de Psicologia",
-   "resumo": "A Comarca de Sorriso abre inscrições para o processo seletivo destinado ao credenciamento de profissionais de Psicologia, conforme o Edital nº 12/2026...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/comarca-sorriso-abre-selecao-para-profissional-psicologia",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-21T11:50-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "fecf7d6f8479",
-   "titulo": "TJMT publica 34ª edição do Ementário Eletrônico com decisões das áreas cível, pública e criminal",
-   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) disponibiliza a 34ª edição do Ementário Eletrônico, publicação que reúne decisões judiciais sobre temas re...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-publica-34-edicao-ementario-eletronico-decisoes-areas-civel-publica-e-criminal",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-21T09:27-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal",
-    "civel"
-   ]
-  },
-  {
-   "id": "6544d9ba6f20",
-   "titulo": "TRE-RJ define urnas que serão auditadas no segundo turno",
-   "resumo": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) realiza sábado (24), véspera do segundo turno das eleições para presidente da República, audiência pública para definir as 43 seções eleitorais cujas urnas eletrônicas passarão por procedimentos de…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-define-urnas-que-serao-auditadas-no-segundo-turno",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-21T07:28-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "9238c61425c4",
-   "titulo": "Podcast STJ No Seu Dia discute direito de regresso nas obrigações solidárias e pagamento parcial da dívida",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Podcast-STJ-No-Seu-Dia-discute-direito-de-regresso-nas-obrigacoes-solidarias-e-pagamento-parcial-da-divida.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-21T07:05-04:00",
-   "imagem": null,
-   "editorias": [
-    "civel"
-   ]
-  },
-  {
-   "id": "b732cf89e5e6",
-   "titulo": "União não paga honorários de sucumbência se for vencida em ação civil pública, confirma STJ em repetitivo",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Uniao-nao-paga-honorarios-de-sucumbencia-se-for-vencida-em-acao-civil-publica--confirma-STJ-em-repetitivo.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-21T07:00-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Benedito_Goncalves_PORTAL_INTERNA_IMG_6042.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "pratica"
-   ]
-  },
-  {
-   "id": "934da827288e",
-   "titulo": "Filho e noivado não bastam para comprovar união estável pós-morte, decide Terceira Turma",
-   "resumo": "Colegiado estabeleceu diferenças entre o namoro qualificado e a união estável, reforçando a necessidade, na união estável, da comprovação de intenção atual de constituir família.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/21102026-Filho-e-noivado-nao-bastam-para-comprovar-uniao-estavel-pos-morte--decide-Terceira-Turma.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-21T06:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/Terceira_Turma_PORTAL_CAPA_LUC_8249.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "familia"
-   ]
-  },
-  {
-   "id": "e0a0cdb25b80",
-   "titulo": "Visita de crianças ao STJ valoriza a renovação e a liberdade",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Visita-de-criancas-ao-STJ-valoriza-a-renovacao-e-a-liberdade-.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T20:01-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Carrossel_CNX_DSC_0654.jpg",
-   "editorias": []
-  },
-  {
-   "id": "071ee4bbd896",
-   "titulo": "Novo caso de prompt injection: STJ multa advogados em R$ 20 mil por ato contra a dignidade da Justiça",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-Novo-caso-de-prompt-injection-STJ-multa-advogados-em-R--20-mil-por-ato-contra-a-dignidade-da-Justica.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T19:25-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/PORTAL_INTERNA_LUC_7100.jpg",
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "991896822d00",
-   "titulo": "AGU busca recuperar R$ 190 milhões de integrantes do PCC e do CV",
-   "resumo": "A Advocacia-Geral da União (AGU) ajuizou quatro ações civis, nesta terça-feira (20), para recuperar bens, no valor de R$ 190,3 milhões, de integrantes do Primeiro Comando da Capital (PCC) e do Comando Vermelho. As ações são baseadas na nova lei 15.358 de 2026…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/agu-busca-recuperar-r-190-milhoes-de-integrantes-do-pcc-e-do-cv",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-20T19:07-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "4129ca633e45",
-   "titulo": "STJ encerra Primeira Rodada de Oficinas da XXIII Cúpula Judicial Ibero-Americana com foco em IA e Justiça",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-encerra-Primeira-Rodada-de-Oficinas-da-XXIII-Cupula-Judicial-Ibero-Americana-com-foco-em-IA-e-Justica.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T17:55-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/20102026-STJ-encerra-Primeira-Rodada-de-Oficinas-da-XXIII-Cupula-Judicial-Ibero-Americana-com-foco-em-IA-e-Justica/CUmbre_PORTAL_INTERNA_LUC_1907.jpg",
-   "editorias": []
-  },
-  {
-   "id": "2313ceabfb59",
-   "titulo": "Direitos Humanos: TJMT integra articulação regional para cumprimento de decisões internacionais",
-   "resumo": "Os dias 15 e 16 de outubro marcaram o 1º Encontro das Unidades de Monitoramento e Fiscalização de Decisões do Sistema Interamericano de Direitos Human...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/direitos-humanos-tjmt-integra-articulacao-regional-para-cumprimento-decisoes-internacionais",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T17:40-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "601e4fdb2053",
-   "titulo": "Justiça Eleitoral nega transporte, água e alimentação para indígenas",
-   "resumo": "A Justiça Eleitoral do Amazonas negou a gratuidade de transporte fluvial, água e alimentação para indígenas de 43 aldeias da Terra Indígena Vale do Javari, no Amazonas, no dia da votação do segundo turno das eleições. O pedido foi feito pela União dos Povos…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-eleitoral-nega-transporte-agua-e-alimentacao-para-indigenas",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-20T16:30-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "72d03f90f0c4",
-   "titulo": "Vai participar da 8ª Corrida do Judiciário? Confira dicas para cuidar do corpo",
-   "resumo": "Quem vai participar da 8ª Corrida do Judiciário precisa preparar o corpo antes mesmo de calçar o tênis. Com as altas temperaturas de Cuiabá, cuidar da...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/vai-participar-8-corrida-judiciario-confira-dicas-para-cuidar-corpo",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T16:20-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "65905320686b",
-   "titulo": "Projeto aproxima a Justiça de comunidade e mobiliza padrinhos para presentear 100 crianças",
-   "resumo": "Cem crianças atendidas pela Associação Águia Ajudando Vidas, que atua em uma comunidade em situação de vulnerabilidade social em Cuiabá, tiveram um sá...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/projeto-aproxima-a-justica-comunidade-e-mobiliza-padrinhos-para-presentear-100-criancas",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T16:00-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "7dc19001788b",
-   "titulo": "STJ moderniza serviço de emissão de certidões com nova plataforma digital",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/20102026-STJ-moderniza-servico-de-emissao-de-certidoes-com-nova-plataforma-digital.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-20T15:27-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/20102026-STJ-moderniza-servico-de-emissao-de-certidoes-com-nova-plataforma-digital/76265_portal_interna_700x467%20%281%29.jpg",
-   "editorias": []
-  },
-  {
-   "id": "22cf0e06e60c",
-   "titulo": "Justiça Restaurativa promove diálogo entre estudantes e fortalece combate ao bullying nas escolas",
-   "resumo": "Ofensas disfarçadas de brincadeiras, apelidos constrangedores e situações de exclusão fazem parte da realidade de muitos adolescentes no ambiente esco...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/justica-restaurativa-promove-dialogo-entre-estudantes-e-fortalece-combate-ao-bullying-nas-escolas",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T15:27-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "7e8e9976b3a9",
-   "titulo": "Cemulher capacita rede de enfrentamento à violência contra a mulher de Querência",
-   "resumo": "Mais de 50 profissionais de diversas instituições públicas e da sociedade civil, que integram a Rede de Enfrentamento à Violência Doméstica e Familiar...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-rede-enfrentamento-a-violencia-contra-a-mulher-querencia",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T14:39-04:00",
-   "imagem": null,
-   "editorias": [
-    "familia",
-    "penal"
-   ]
-  },
-  {
-   "id": "8aadff50ad5c",
-   "titulo": "TJMT leva experiência em recuperação ambiental a encontro nacional do Tribunal Superior do Trabalho",
-   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) apresentou o Projeto CompensaJUD no 11º Encontro Nacional de Sustentabilidade da Justiça do Trabalho, real...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-leva-experiencia-em-recuperacao-ambiental-a-encontro-nacional-tribunal-superior-trabalho",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-20T14:29-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "419deb7917d5",
-   "titulo": "Justiça torna ré PM por homicídio de mulher na zona leste de SP",
-   "resumo": "A Justiça de São Paulo reconheceu, nesta terça-feira (20), a policial militar Yasmin Ferreira como responsável pelo homicídio de Thawanna da Silva Salmázio . A agente da polícia é acusada de disparar uma arma de fogo contra a vítima, que estava desarmada, no…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-re-pm-por-homicidio-de-mulher-na-zona-leste-de-sp",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-20T13:40-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
   }
  ]
 }
