@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T11:50-04:00",
+ "atualizado": "2026-11-23T15:43-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,161 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 2,
+   "itens": 4,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "d40cda5b8dfe",
+   "titulo": "STJ promove II Jornada pela Equidade Racial nos dias 26 e 27",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-STJ-promove-II-Jornada-pela-Equidade-Racial-nos-dias-26-e-27.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T15:41-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23112026-STJ-promove-II-Jornada-pela-Equidade-Racial-nos-dias-26-e-27/79079_conexao_cdju_destaque.jpg",
+   "editorias": []
+  },
+  {
+   "id": "ccfa2d053619",
+   "titulo": "Comarca de São José dos Quatro Marcos leva círculos de paz à escola para prevenir o bullying",
+   "resumo": "A Comarca de São José dos Quatro Marcos encerra na próxima segunda-feira (30 de novembro), com uma turma do 8º ano, as atividades de 2026 dos círculos...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-sao-jose-quatro-marcos-leva-circulos-paz-a-escola-para-prevenir-o-bullying",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T15:34-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "31e7ccc718c4",
+   "titulo": "Corregedoria orienta interinos de cartórios sobre fundo trabalhista em Webinário nesta terça (24)",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso, por meio do Departamento do Foro Extrajudicial (DFE), promove terça-feira (24), às 14h, Webinário orie...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-orienta-interinos-cartorios-sobre-fundo-trabalhista-em-webinario-nesta-terca-24",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T14:54-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "eec940787887",
+   "titulo": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
+   "resumo": "A Advocacia-Geral da União (AGU) defendeu nesta segunda-feira (23) a dispensa da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que estabeleceu regras de transição para a implantação da escala 5x2 de trabalho. Na manifestação, a AGU…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-23T14:45-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "1bbb76d4e410",
+   "titulo": "Moraes determina citação de Flávio sobre calúnia contra Lula",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta segunda-feira (23) que o senador Flávio Bolsonaro (PL-RJ) seja citado por edital para apresentar defesa sobre a acusação de calúnia contra o presidente Luiz Inácio Lula da…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-determina-citacao-de-flavio-sobre-calunia-contra-lula",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-23T14:18-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "01b92b314a6d",
+   "titulo": "TJMT inicia mutirão para acelerar solução de conflitos e promover regularização ambiental",
+   "resumo": "Com aproximadamente 233 procedimentos relacionados a infrações ambientais, o Tribunal de Justiça de Mato Grosso (TJMT) abriu, nesta segunda-feira (23 ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-inicia-mutirao-para-acelerar-solucao-conflitos-e-promover-regularizacao-ambiental",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T13:44-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a30249997f53",
+   "titulo": "Prêmio promovido pelo Ministério Público reconhece contribuição do TJMT para a ressocialização em MT",
+   "resumo": "Acreditar que uma nova oportunidade pode mudar uma história é o que move instituições e profissionais que atuam pela ressocialização de pessoas privad...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/premio-promovido-pelo-ministerio-publico-reconhece-contribuicao-tjmt-para-a-ressocializacao-em-mt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T13:14-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "2955dce7420a",
+   "titulo": "Juízes de Mato Grosso endossam Carta de João Pessoa durante 58º Fórum Nacional de Juizados Especiais",
+   "resumo": "A necessidade de especialização das unidades dos Juizados Especiais, o fortalecimento da cultura de conciliação, a organização administrativa das Turm...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juizes-mato-grosso-endossam-carta-joao-pessoa-durante-58-forum-nacional-juizados-especiais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T13:06-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8284b6f7dac3",
+   "titulo": "CNJ abre Consulta Pública para revisão da regulamentação dos Centros de Inteligência do Judiciario",
+   "resumo": "Com o objetivo de fortalecer o tratamento adequado de demandas estratégicas, repetitivas e de massa, o Conselho Nacional de Justiça (CNJ) abriu Consul...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cnj-abre-consulta-publica-para-revisao-regulamentacao-centros-inteligencia-judiciario",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T11:12-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "762fb38574a1",
+   "titulo": "Sessão da Terceira Turma no dia 1º de dezembro terá início às 13h",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Sessao-da-Terceira-Turma-no-dia-1o-de-dezembro-tera-inicio-as-13h.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T08:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "32a39683be52",
+   "titulo": "Quarta Turma antecipa sessão do dia 1º de dezembro para 10h",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Quarta-Turma-antecipa-sessao-do-dia-1o-de-dezembro-para-10h.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T07:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "4321ad39e574",
+   "titulo": "Proteção de bem cultural inventariado pelo poder público independe de lei ou tombamento",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Protecao-de-bem-cultural-inventariado-pelo-poder-publico-independe-de-lei-ou-tombamento.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Ministro%20Paulo%20S%c3%a9rgio%20Domingues.jpg",
+   "editorias": [
+    "sucessoes"
+   ]
+  },
   {
    "id": "edebe73d3733",
    "titulo": "Daniela Teixeira, Teodoro Silva Santos e Afrânio Vilela completam três anos no STJ",
@@ -4169,182 +4319,6 @@
    "editorias": [
     "pratica"
    ]
-  },
-  {
-   "id": "d8fdbeac3001",
-   "titulo": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz. O ministro também ordenou quebra dos sigilos bancário, fiscal e cambial, além da suspensão dos…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-23T20:56-04:00",
-   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1706383&amp;o=rss",
-   "editorias": [
-    "consumidor",
-    "pratica"
-   ]
-  },
-  {
-   "id": "82d805f8d1d7",
-   "titulo": "Ministra rejeita ação que pedia transporte interestadual na eleição",
-   "resumo": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), negou nesta sexta-feira (23) pedido protocolado pela campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) para estender a gratuidade de transporte público no segundo turno para viagens…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-23T20:12-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "312b97ce9d41",
-   "titulo": "STJ e PNUD unem esforços por uma Justiça mais diversa e inclusiva",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-e-PNUD-unem-esforcos-por-uma-Justica-mais-diversa-e-inclusiva.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-23T19:04-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "270241e4698b",
-   "titulo": "Educação judicial fortalece qualidade da prestação jurisdicional, afirma ministro Benedito Gonçalves",
-   "resumo": "A educação judicial deve acompanhar toda a trajetória da magistratura e é um dos principais instrumentos para aperfeiçoar a qualidade da prestação jur...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/educacao-judicial-fortalece-qualidade-prestacao-jurisdicional-afirma-ministro-benedito-goncalves",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T18:13-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "b94070c67288",
-   "titulo": "Cemulher capacita profissionais da rede de enfrentamento à violência contra a mulher de Vila Rica",
-   "resumo": "Quase 50 profissionais que atuam no atendimento a mulheres em situação de violência de gênero em Vila Rica (1.259 km ao nordeste de Cuiabá) participar...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/cemulher-capacita-profissionais-rede-enfrentamento-a-violencia-contra-a-mulher-vila-rica",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T17:37-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "953e71b67850",
-   "titulo": "Educação ambiental mobiliza estudantes em Chapada dos Guimarães em ação do Cesima",
-   "resumo": "Reciclagem, preservação ambiental, sustentabilidade e cidadania foram temas que marcaram a manhã desta sexta-feira (23 de outubro) dos estudantes da E...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/educacao-ambiental-mobiliza-estudantes-em-chapada-guimaraes-em-acao-cesima",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T17:17-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "a46419b94f43",
-   "titulo": "Integração e troca de experiências marcarão o I Encontro das Escolas do Sistema de Justiça de MT",
-   "resumo": "Promover a aproximação entre as instituições responsáveis pela formação e aperfeiçoamento dos profissionais que atuam no Sistema de Justiça é um dos p...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/integracao-e-troca-experiencias-marcarao-o-i-encontro-escolas-sistema-justica-mt",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T17:09-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "03b001080761",
-   "titulo": "STJ recebe prêmio do CNJ por projeto de gestão de pessoas; veja como foi a homenagem",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-recebe-premio-do-CNJ-por-projeto-de-gestao-de-pessoas--veja-como-foi-a-homenagem.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-23T16:46-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23102026-STJ-recebe-premio-do-CNJ-por-projeto-de-gestao-de-pessoas--veja-como-foi-a-homenagem/PORTAL_LUC_4910.gif",
-   "editorias": []
-  },
-  {
-   "id": "5265bdc1b123",
-   "titulo": "Obras literárias contribuem para atividades educacionais e reintegração social no sistema prisional",
-   "resumo": "O Centro de Detenção Provisória de Cáceres (220km de Cuiabá) recebeu a doação de 40 livros do advogado e escritor José de Castro Júnior. Os exemplares...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/obras-literarias-contribuem-para-atividades-educacionais-e-reintegracao-social-no-sistema-prisional",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T16:32-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "aa28a470040b",
-   "titulo": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
-   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), reiterou nesta sexta-feira (23) a decisão em que liberou as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) a divulgarem, por conta própria, seus sigilos bancários, fiscal e…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-23T15:19-04:00",
-   "imagem": null,
-   "editorias": [
-    "consumidor"
-   ]
-  },
-  {
-   "id": "1247fa665d47",
-   "titulo": "Judiciário de MT funciona em regime de plantão neste fim de semana (24 e 25 de outubro)",
-   "resumo": "Neste fim de semana (24 e 25 de outubro), o Poder Judiciário de Mato Grosso atua em regime de plantão para o recebimento dos feitos cíveis de urgência...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/judiciario-mt-funciona-em-regime-plantao-neste-fim-semana-24-e-25-outubro",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T15:18-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
-  },
-  {
-   "id": "7f8f770cff88",
-   "titulo": "STJ define novas diretrizes para lançamento de livros no espaço físico da corte",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23102026-STJ-define-novas-diretrizes-para-lancamento-de-livros-no-espaco-fisico-da-corte.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-23T15:11-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23102026-STJ-define-novas-diretrizes-para-lancamento-de-livros-no-espaco-fisico-da-corte/LUC_2267.jpg",
-   "editorias": []
-  },
-  {
-   "id": "37adc5a0aaa7",
-   "titulo": "Órgão Especial aprova Código de Conduta e fortalece integridade no Judiciário de MT",
-   "resumo": "O Órgão Especial do Tribunal de Justiça de Mato Grosso (TJMT) aprovou, nesta quinta-feira (22 de outubro), o Código de Conduta dos Agentes Públicos do...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/orgao-especial-aprova-codigo-conduta-e-fortalece-integridade-no-judiciario-mt",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T15:00-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "22d37155dde9",
-   "titulo": "Método CIS estimula reflexão e novos projetos de vida no sistema prisional de Rondonópolis",
-   "resumo": "Uma nova maneira de enxergar a própria história, reconhecer os erros e acreditar que é possível recomeçar. Essa foi a experiência relatada por uma pes...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/metodo-cis-estimula-reflexao-e-novos-projetos-vida-no-sistema-prisional-rondonopolis",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T14:49-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "394e8335878e",
-   "titulo": "Araguaia-Xingu levará serviços jurídicos e de cidadania a Bom Jesus do Araguaia e Confresa",
-   "resumo": "Moradores de Bom Jesus do Araguaia (800 km de Cuiabá) e de Confresa (1.050 km de Cuiabá) terão acesso a serviços jurídicos, orientações sobre benefíci...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/araguaia-xingu-levara-servicos-juridicos-e-cidadania-a-bom-jesus-araguaia-e-confresa",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-23T13:19-04:00",
-   "imagem": null,
-   "editorias": []
   }
  ]
 }
