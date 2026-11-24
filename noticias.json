@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T15:43-04:00",
+ "atualizado": "2026-11-24T15:15-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -23,11 +23,308 @@
   },
   "agbrasil": {
    "nome": "Agência Brasil",
-   "itens": 4,
+   "itens": 5,
    "ok": true
   }
  },
  "itens": [
+  {
+   "id": "5b5aca8cf7d9",
+   "titulo": "Comarca de Peixoto de Azevedo não terá expediente na segunda-feira (30)",
+   "resumo": "O feriado municipal do Dia do Evangélico, celebrado na segunda-feira, 30 de novembro, altera o funcionamento da Comarca de Peixoto de Azevedo. Na da...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-peixoto-azevedo-nao-tera-expediente-na-segunda-feira-30",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T14:57-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "234ed86ebdb3",
+   "titulo": "Família será indenizada em R$ 100 mil após mulher morrer por falta de soro antiofídico em Nobres",
+   "resumo": "O Município de Nobres e uma administradora hospitalar deverão pagar, solidariamente, R$ 100 mil de indenização por danos morais à família de uma mulhe...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/familia-sera-indenizada-em-r-100-mil-apos-mulher-morrer-por-falta-soro-antiofidico-em-nobres",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T14:22-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "civel"
+   ]
+  },
+  {
+   "id": "5b84b96447bf",
+   "titulo": "Mauro Campbell profere palestra e participa do lançamento de livro sobre a relevância da questão federal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Mauro-Campbell-profere-palestra-e-participa-do-lancamento-de-livro-sobre-a-relevancia-da-questao-federal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T14:21-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/24112026-Mauro-Campbell-profere-palestra-e-participa-do-lancamento-de-livro-sobre-a-relevancia-da-questao-federal/PORTAL_WhatsApp-Image-2026-11-24-at-12.20.jpg",
+   "editorias": []
+  },
+  {
+   "id": "a838df42e4a6",
+   "titulo": "41 anos após a formatura, ministro Afrânio Vilela volta à UFU como doutor honoris causa",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-41-anos-apos-a-formatura--ministro-Afranio-Vilela-volta-a-UFU-como-doutor-honoris-causa.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T13:56-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/24112026-41-anos-apos-a-formatura--ministro-Afranio-Vilela-volta-a-UFU-como-doutor-honoris-causa/PORTAL_INTERNA_VERTICAL.jpg",
+   "editorias": []
+  },
+  {
+   "id": "30f1543d6511",
+   "titulo": "Em artigo, ministro Teodoro Santos analisa competência para julgar homicídios cometidos por organizações criminosas",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Ministro-Teodoro-Santos-analisa-competencia-para-julgar-homicidios-cometidos-por-organizacoes-criminosas-em-artigo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T13:42-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/24112026-Ministro-Teodoro-Santos-analisa-competencia-para-julgar-homicidios-cometidos-por-organizacoes-criminosas-em-artigo/PORTAL_INTERNA_LPO_2036.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "86d57e7d799b",
+   "titulo": "STJ abre inscrições para o seminário internacional sobre crédito público e crise empresarial",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-STJ-abre-inscricoes-para-o-seminario-internacional-sobre-credito-publico-e-crise-empresarial.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T12:19-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/24112026-STJ-abre-inscricoes-para-o-seminario-internacional-sobre-credito-publico-e-crise-empresarial/Interna_credito.png",
+   "editorias": []
+  },
+  {
+   "id": "5c44e3b573a7",
+   "titulo": "Corregedoria inspeciona oito cartórios em Alto Garças e Rondonópolis",
+   "resumo": "A Corregedoria-Geral da Justiça de Mato Grosso (CGJ-MT) realizou, nessa segunda-feira (23), inspeções presenciais nos Cartórios do 1º e do 2º Ofícios ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/corregedoria-inspeciona-oito-cartorios-em-alto-garcas-e-rondonopolis",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T09:53-04:00",
+   "imagem": null,
+   "editorias": [
+    "civel"
+   ]
+  },
+  {
+   "id": "650999f7515c",
+   "titulo": "Justiça marca audiência sobre morte de médicos em quiosque no Rio",
+   "resumo": "A Justiça do Rio marcou para 14 de dezembro, às 13h, a continuação da audiência de instrução e julgamento do processo que apura o assassinato de três médicos em um quiosque na praia da Barra da Tijuca, em outubro de 2023. A sessão será no 2º Tribunal do Júri…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justi%C3%A7a-marca-audiencia-sobre-morte-de-medicos-em-quiosque-no-rio",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T09:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "7aecef4cb1ac",
+   "titulo": "Presidente do STJ e do CJF lamenta partida do jurista Fábio Konder Comparato",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Presidente-do-STJ-e-do-CJF-lamenta-partida-do-jurista-Fabio-Konder-Comparato.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T09:21-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/24112026-Presidente-do-STJ-e-do-CJF-lamenta-partida-do-jurista-Fabio-Konder-Comparato/WhatsApp%20Image%202026-11-24%20at%2009.33.38.jpeg",
+   "editorias": []
+  },
+  {
+   "id": "264aebad487f",
+   "titulo": "STJ realiza, nesta quarta-feira (25), audiência pública sobre cessão de precatórios previdenciários",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-STJ-realiza--nesta-quarta-feira--25---audiencia-publica-sobre-cessao-de-precatorios-previdenciarios.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T09:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/arte%20audi%c3%aancia%20p%c3%bablica%20interna.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "ff257c4ed8f0",
+   "titulo": "Duplicidade de intimações e vale-transporte em dinheiro na base de cálculo do FGTS são destaques do Informativo",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Duplicidade-de-intimacoes-e-vale-transporte-em-dinheiro-na-base-de-calculo-do-FGTS-sao-destaques-do-Informativo.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T09:00-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "94874164a336",
+   "titulo": "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência",
+   "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), revogou na noite dessa segunda-feira (24) a prisão preventiva de Adroaldo Portal, ex-secretário executivo do Ministério da Previdência Social. Ele foi preso em dezembro, no âmbito da Operação Sem…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fraudes-no-inss-mendonca-manda-soltar-ex-numero-2-da-previdencia",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T08:35-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "ff0a260997c0",
+   "titulo": "STJ Notícias destaca decisão sobre a exigência de presença obrigatória de farmacêutico em farmácias",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-STJ-Noticias-destaca-decisao-sobre-a-exigencia-de-presenca-obrigatoria-de-farmaceutico-em-farmacias-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T08:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "4aa80d3ff921",
+   "titulo": "Justiça pela Paz em Casa oferece atendimentos gratuitos para mulheres no Fórum de Cuiabá",
+   "resumo": "Mulheres que precisam de orientação jurídica, atendimento psicológico, cuidados com a saúde ou até mesmo serviços de beleza e bem-estar terão acesso a...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/justica-pela-paz-em-casa-oferece-atendimentos-gratuitos-para-mulheres-no-forum-cuiaba",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T08:04-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "8ad284a17cf5",
+   "titulo": "Pesquisa Pronta destaca tese sobre retratação da vítima e absolvição em revisão criminal",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Pesquisa-Pronta-destaca-tese-sobre-retratacao-da-vitima-e-absolvicao-em-revisao-criminal.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T07:40-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "9e240d68ef0e",
+   "titulo": "MPRJ quer reverter absolvição de acusados por mortes no Ninho do Urubu",
+   "resumo": "O Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do Ministério Público (MP), sustenta, nesta terça-feira (24), na Terceira Câmara Criminal do Tribunal de Justiça, o parecer que pede a condenação definitiva de sete réus pelas mortes…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mprj-tent-reverter-absolvicao-de-acusados-por-mortes-no-ninho-do-urubu",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T07:28-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "cc63277e996a",
+   "titulo": "Ministro Ribeiro Dantas lança livro sobre a prova no processo penal nesta terça (24)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Ministro-Ribeiro-Dantas-lanca-livro-sobre-a-prova-no-processo-penal-nesta-terca--24-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T07:15-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23112026-Ministro-Ribeiro-Dantas-lanca-livro-sobre-a-prova-no-processo-penal-nesta-terca--24-/79289_portal_interna_700x467.jpg",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "8893812b7a80",
+   "titulo": "Justiça estadual pode julgar disputa sobre imóvel ocupado pelo poder público mesmo após adjudicação trabalhista",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Justica-estadual-pode-julgar-disputa-sobre-imovel-ocupado-pelo-poder-publico-mesmo-apos-adjudicacao-trabalhista.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T07:05-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Segunda%20turma%20interna2.jpg",
+   "editorias": [
+    "jurisprudencia",
+    "civel"
+   ]
+  },
+  {
+   "id": "c43ac15f0bb8",
+   "titulo": "STJ recebe nova denúncia contra desembargadora do TJBA no âmbito da Operação Faroeste",
+   "resumo": "Colegiado tornou desembargadora ré após analisar denúncia sobre o recebimento de vantagem indevida para favorecer empresa agrícola. O caso envolve uma ação judicial com valores de aproximadamente R$ 10 milhões.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-STJ-recebe-nova-denuncia-contra-desembargadora-do-TJBA-no-ambito-da-Operacao-Faroeste.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-24T06:50-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_3471.jpg",
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "143edf63fb49",
+   "titulo": "Ribeiro Dantas assume como novo ouvidor; confira balanço da gestão de Reynaldo Soares da Fonseca",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-Ribeiro-Dantas-assume-como-novo-ouvidor--confira-balanco-da-gestao-de-Reynaldo-Soares-da-Fonseca.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T19:07-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23112026-Ribeiro-Dantas-assume-como-novo-ouvidor--confira-balanco-da-gestao-de-Reynaldo-Soares-da-Fonseca/PORTAL_INTERNA_MAX_5065.jpg",
+   "editorias": []
+  },
+  {
+   "id": "fe29fed0979f",
+   "titulo": "STJ participa da 25ª Conferência Nacional da Advocacia Brasileira, na Bahia",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/23112026-STJ-participa-da-25a-Conferencia-Nacional-da-Advocacia-Brasileira--na-Bahia-.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-23T18:03-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/23112026-STJ-participa-da-25a-Conferencia-Nacional-da-Advocacia-Brasileira--na-Bahia-/PORTAL_INTERNA_OAB-BA-03.jpg",
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "bc33f59a4e22",
+   "titulo": "Estudantes de Cáceres assumem protagonismo e são premiados em desafio de redação",
+   "resumo": "A prevenção também se constrói dando espaço para que os adolescentes se expressem e sejam ouvidos. Foi com essa proposta que o Poder Judiciário de Mat...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/estudantes-caceres-assumem-protagonismo-e-sao-premiados-em-desafio-redacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T17:32-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a16705e8e2b4",
+   "titulo": "Ampara divulga data dos últimos encontros do ano para candidatos à adoção ou adotantes",
+   "resumo": "Famílias que já adotaram e as que estão passando pelo processo de adoção poderão trocar experiências e informações nos dois últimos encontros deste an...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/ampara-divulga-data-ultimos-encontros-ano-para-candidatos-a-adocao-ou-adotantes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T16:51-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia"
+   ]
+  },
+  {
+   "id": "b1d844b44024",
+   "titulo": "Tribunal forma novos facilitadores de Círculo de Construção de Paz nos níveis inicial e avançado",
+   "resumo": "Dando início à Semana Internacional da Justiça Restaurativa, o Poder Judiciário de Mato Grosso, por meio do Núcleo Gestor da Justiça Restaurativa (Nug...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tribunal-forma-novos-facilitadores-circulo-construcao-paz-nos-niveis-inicial-e-avancado",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-23T16:20-04:00",
+   "imagem": null,
+   "editorias": []
+  },
   {
    "id": "d40cda5b8dfe",
    "titulo": "STJ promove II Jornada pela Equidade Racial nos dias 26 e 27",
