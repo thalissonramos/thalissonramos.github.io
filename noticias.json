@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T15:15-04:00",
+ "atualizado": "2026-11-25T14:20-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,226 @@
   }
  },
  "itens": [
+  {
+   "id": "bdb7b9727836",
+   "titulo": "Colniza não terá expediente dia 27 em razão do aniversário da cidade",
+   "resumo": "A Comarca de Colniza não terá expediente nesta sexta-feira (27/11). A decisão do juiz substituto e diretor do Foro da comarca, José dos Santos Ramalho...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/colniza-nao-tera-expediente-dia-27-em-razao-aniversario-cidade",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T14:10-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "f1b99692aa52",
+   "titulo": "Magistrados de MT aprimoram técnicas de inquirição e testemunho de pessoas neurodivergentes",
+   "resumo": "Magistrados e magistradas do Poder Judiciário de Mato Grosso iniciaram, nesta terça-feira (24 de novembro), o curso “Memória, inquirição e avaliação d...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/magistrados-mt-aprimoram-tecnicas-inquiricao-e-testemunho-pessoas-neurodivergentes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T12:31-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c560284680cf",
+   "titulo": "Desembargadores do TJMT abraçam Programa Padrinhos e auxiliam crianças e adolescentes",
+   "resumo": "O incentivo à prática esportiva, a participação em competições e a melhoria das condições de acolhimento de crianças e adolescentes são alguns dos res...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/desembargadores-tjmt-abracam-programa-padrinhos-e-auxiliam-criancas-e-adolescentes",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T12:10-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "de3ccfe8cc11",
+   "titulo": "Estudantes de Psicologia podem se inscrever em seminário sobre enfrentamento à violência",
+   "resumo": "Estudantes de Psicologia já podem se inscrever para o seminário “Força que Transforma: Grupos Reflexivos com Homens como Estratégia de Enfrentamento à...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/estudantes-psicologia-podem-se-inscrever-em-seminario-sobre-enfrentamento-a-violencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T11:07-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "f3076c7da093",
+   "titulo": "Júri de Mirassol d’Oeste condena quatro réus pela morte de gerente de supermercado",
+   "resumo": "O Tribunal do Júri de Mirassol d’Oeste condenou quatro réus pela morte de Walison Vinicius Vieira de Queiroz, de 25 anos. As penas variam de 21 anos, ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juri-mirassol-doeste-condena-quatro-reus-pela-morte-gerente-supermercado",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T11:04-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "41ba601cbc3d",
+   "titulo": "Escola Superior da Magistratura consolida cultura editorial com lançamento de três novos livros",
+   "resumo": "A produção literária e científica no campo jurídico ganha destaque no dia 3 de dezembro, a partir das 16h, durante a IX edição do Sarau Prosa, Poesia ...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/escola-superior-magistratura-consolida-cultura-editorial-lancamento-tres-novos-livros",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-25T11:03-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "a35cfee8ed0c",
+   "titulo": "STJ No Seu Dia aborda importunação sexual praticada por meios digitais",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25112026-STJ-No-Seu-Dia-aborda-importunacao-sexual-praticada-por-meios-digitais.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-25T08:25-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "5af7e04df8be",
+   "titulo": "DPU questiona decisão que suspende reparação à família de João Cândido",
+   "resumo": "A Defensoria Pública da União (DPU) apresentou embargos de declaração contra decisão da 7ª Turma Especializada do Tribunal Regional Federal da 2ª Região (TRF2) que reformou uma sentença na ação civil pública sobre a reparação à memória de João Cândido, líder…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dpu-questiona-decisao-que-suspende-reparacao-familia-de-joao-candido",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-25T08:04-04:00",
+   "imagem": null,
+   "editorias": [
+    "familia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "223b9ecab5c3",
+   "titulo": "Novas custas no STJ começam a valer em 2027; entenda as novas regras",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25112026-Novas-custas-no-STJ-comecam-a-valer-em-2027--entenda-as-novas-regras.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-25T07:50-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "pratica"
+   ]
+  },
+  {
+   "id": "4145786b285e",
+   "titulo": "Acompanhe a transmissão da audiência pública sobre cessão de precatórios previdenciários promovida nesta quarta-feira (25)",
+   "resumo": "",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25112026-Acompanhe-a-transmissao-da-audiencia-publica-sobre-cessao-de-precatorios-previdenciarios-promovida-nesta-quarta.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-25T07:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "6fa6a189ab51",
+   "titulo": "Entidade que recebe patrimônio de fundação extinta responde por suas dívidas até o limite dos bens transferidos",
+   "resumo": "Para a Segunda Turma, a extinção da fundação não equivale à extinção automática das relações jurídicas patrimoniais existentes. A entidade beneficiada com a transferência dos bens deve arcar com os encargos correspondentes.",
+   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/25112026-Entidade-que-recebe-patrimonio-de-fundacao-extinta-responde-por-suas-dividas-ate-o-limite-dos-bens-transferidos.aspx",
+   "fonte": "STJ",
+   "fonte_id": "stj",
+   "data": "2026-11-25T07:00-04:00",
+   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/PORTAL_capa_LPO_2048.jpg",
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "f7ad089608eb",
+   "titulo": "Flamengo: engenheiros são condenados em 2ª instância por incêndio",
+   "resumo": "A Terceira Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) condenou, por unanimidade, nesta terça-feira (24), dois engenheiros da empresa NHJ pelo incêndio no Ninho do Urubu , Centro de Treinamento do Flamengo, em Vargem Grande, zona…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ninho-do-urubu-engenheiros-sao-condenados-em-2a-instancia-por-incendio",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T18:00-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "4ca076e9e19b",
+   "titulo": "Comarca de Marcelândia abre seleção para profissionais de Psicologia",
+   "resumo": "A Comarca de Marcelândia (710 km de Cuiabá) está com processo seletivo aberto para o credenciamento de pessoas físicas da área de Psicologia. As inscr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/comarca-marcelandia-abre-selecao-para-profissionais-psicologia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T17:25-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "37aee15611a4",
+   "titulo": "Moraes nega diminuir pena de Carla Zambelli",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou nesta terça-feira (24) pedido para diminuir a pena da ex-deputada federal Carla Zambelli no caso da invasão ao sistema eletrônico do Conselho Nacional de Justiça (CNJ), ocorrida em…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-nega-diminuir-pena-de-carla-zambelli",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T17:12-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "pratica"
+   ]
+  },
+  {
+   "id": "f8d68bcad4a9",
+   "titulo": "Encontro Estadual das Escolas do Sistema de Justiça de Mato Grosso será em 10 e 11 dezembro",
+   "resumo": "Os interessados ainda podem se inscrever para participar do “I Encontro Estadual das Escolas do Sistema de Justiça de Mato Grosso – Diálogo, conhecime...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/encontro-estadual-escolas-sistema-justica-mato-grosso-sera-em-10-e-11-dezembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T17:11-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "e520687e61f2",
+   "titulo": "Juiz de Poxoréu publica artigos sobre cooperação judiciária e isenções fiscais",
+   "resumo": "A produção acadêmica tem sido uma importante ferramenta para o aperfeiçoamento da prestação jurisdicional e para o debate de temas relevantes do Direi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juiz-poxoreu-publica-artigos-sobre-cooperacao-judiciaria-e-isencoes-fiscais",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T16:47-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "986c56d97899",
+   "titulo": "TJMT reúne instituições públicas em formação voltada à inovação e ao trabalho colaborativo",
+   "resumo": "Reuniões mais produtivas, ideias que saem do papel e equipes capazes de construir soluções em conjunto. Transformar esses objetivos em realidade é a p...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-reune-instituicoes-publicas-em-formacao-voltada-a-inovacao-e-ao-trabalho-colaborativo",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-24T16:18-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "46991c573430",
+   "titulo": "Julgamento de extradição de Zambelli é adiado novamente na Itália",
+   "resumo": "A Justiça da Itália adiou nesta terça-feira (24) o julgamento do novo pedido do governo brasileiro para extraditar a ex-deputada federal Carla Zambelli. O julgamento estava previsto para ser realizado na Corte de Apelação de Roma, mas foi adiado para 2 de…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/julgamento-de-extraditcao-de-zambelli-e-adiado-novamente-na-italia",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-24T16:02-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
   {
    "id": "5b5aca8cf7d9",
    "titulo": "Comarca de Peixoto de Azevedo não terá expediente na segunda-feira (30)",
@@ -4535,87 +4755,6 @@
    "data": "2026-10-26T14:42-04:00",
    "imagem": null,
    "editorias": []
-  },
-  {
-   "id": "30496381f594",
-   "titulo": "Além do processo, acompanhamento psicossocial no Jecrim abre caminhos para novas escolhas",
-   "resumo": "Quando uma pessoa chega ao Núcleo Psicossocial (NUPS) do Juizado Especial Criminal de Cuiabá, o olhar da equipe não se restringe ao fato que a levou a...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/alem-processo-acompanhamento-psicossocial-no-jecrim-abre-caminhos-para-novas-escolhas",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-26T11:40-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "087ed2f3c421",
-   "titulo": "TJMT publica guia com orientações para pagamento de custas por cartão de crédito",
-   "resumo": "Pagar as custas de um processo com poucos cliques, no próprio celular ou computador, e parcelar o valor no cartão de crédito sem precisar esperar uma ...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/tjmt-publica-guia-orientacoes-para-pagamento-custas-por-cartao-credito",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-26T08:03-04:00",
-   "imagem": null,
-   "editorias": [
-    "consumidor",
-    "pratica"
-   ]
-  },
-  {
-   "id": "6278587bef40",
-   "titulo": "Reajuste em seguro de vida em grupo e dano por violação de direito autoral são destaques em Informativo",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Reajuste-em-seguro-de-vida-em-grupo-e-dano-por-violacao-de-direito-autoral-sao-destaques-em-Informativo.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-26T07:00-04:00",
-   "imagem": null,
-   "editorias": [
-    "civel"
-   ]
-  },
-  {
-   "id": "35a15db8e853",
-   "titulo": "Condenado por crimes da Operação Condor cumprirá pena no Brasil; prisão perpétua é convertida em pena de 30 anos",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Condenado-por-crimes-da-Operacao-Condor-cumprira-pena-no-Brasil--prisao-perpetua-e-convertida-em-pena-de-30-anos.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-26T06:55-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Sebasti%c3%a3o_Reis_PORTAL_INTERNA_EGUT_5276.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "penal"
-   ]
-  },
-  {
-   "id": "3a2891b3a215",
-   "titulo": "Primeira Seção fixa critérios para valor de indenização em desapropriações; colegiado modula efeitos",
-   "resumo": "Sob o rito da relevância, teses buscam atender regra legal de avaliação do imóvel desapropriado e preço justo tanto para o Estado quanto para o particular. Decisão tem impacto em quase 100 mil processos sobre desapropriações em trâmite na Justiça.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/26102026-Primeira-Secao-fixa-criterios-para-valor-de-indenizacao-em-desapropriacoes--colegiado-modula-efeitos.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-26T06:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_AdobeStock_2218950525.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "civel"
-   ]
-  },
-  {
-   "id": "d006186a961e",
-   "titulo": "Advogado vê sabotagem à democracia em falta de transporte de eleitores",
-   "resumo": "A falta de transporte público para eleitores durante o segundo turno, neste domingo (25), representa uma sabotagem ao processo democrático. Esta é a avaliação do advogado e professor de direito eleitoral Guilherme Gonçalves, integrante da Academia Brasileira…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/advogado-ve-sabotagem-democracia-em-falta-de-transporte-de-eleitores",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-25T18:22-04:00",
-   "imagem": null,
-   "editorias": [
-    "pratica"
-   ]
   }
  ]
 }
