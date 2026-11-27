@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T14:02-04:00",
+ "atualizado": "2026-11-27T13:48-04:00",
  "fontes": {
   "stf": {
    "nome": "STF",
@@ -28,6 +28,163 @@
   }
  },
  "itens": [
+  {
+   "id": "eb7ec35b32fe",
+   "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-paulo-henrique-costa-ex-presidente-do-brb",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-27T12:52-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal",
+    "consumidor"
+   ]
+  },
+  {
+   "id": "56b3c96b1cf9",
+   "titulo": "Autores de violência contra a mulher concluem participação nos grupos reflexivos de Sorriso",
+   "resumo": "\"O grupo reflexivo me trouxe isso. E hoje eu saio daqui outra pessoa, saio um pai diferente, um pai transformado. Também saio tendo em mente que eu pr...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/autores-violencia-contra-a-mulher-concluem-participacao-nos-grupos-reflexivos-sorriso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-27T12:42-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "12f579616ebe",
+   "titulo": "TJMT debate papel dos grupos reflexivos na prevenção da violência contra a mulher",
+   "resumo": "A transformação de uma realidade marcada pela violência contra a mulher também passa pela mudança de comportamento dos homens. Essa foi uma das princi...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-debate-papel-grupos-reflexivos-na-prevencao-violencia-contra-a-mulher",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-27T12:36-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "99024f544d46",
+   "titulo": "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, concedeu mais 60 dias de prazo à Polícia Federal (PF) para que conclua a investigação sobre a produção do filme Dark Horse , cinebiografia do ex-presidente Jair Bolsonaro. A prorrogação…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-prorroga-por-60-dias-investigacao-da-pf-sobre-filme-dark-horse",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-27T11:49-04:00",
+   "imagem": null,
+   "editorias": [
+    "pratica"
+   ]
+  },
+  {
+   "id": "30248993af10",
+   "titulo": "TSE prepara medida contra infiltração do crime organizado nas eleições",
+   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, criou grupo de trabalho para propor medidas de prevenção ao envolvimento do crime organizado no processo eleitoral. A portaria que criou o colegiado foi publicada na…",
+   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-prepara-medida-contra-infiltracao-do-crime-organizado-nas-eleicoes",
+   "fonte": "Agência Brasil",
+   "fonte_id": "agbrasil",
+   "data": "2026-11-27T09:15-04:00",
+   "imagem": null,
+   "editorias": [
+    "penal"
+   ]
+  },
+  {
+   "id": "de8c9137bd3e",
+   "titulo": "Júri de Cuiabá condena réu a mais de 50 anos por feminicídio e estupro na UFMT",
+   "resumo": "O Tribunal do Júri de Cuiabá condenou Reyvan da Silva Carvalho a 50 anos e 4 meses de prisão pelo feminicídio e pelo estupro de vulnerável de S. A. S....",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/juri-cuiaba-condena-reu-a-mais-50-anos-por-feminicidio-e-estupro-na-ufmt",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-27T08:19-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia",
+    "penal"
+   ]
+  },
+  {
+   "id": "74abad22a32a",
+   "titulo": "CEJUSC de 2º Grau viabiliza acordo e libera nomeação de 15 novos defensores públicos em Mato Grosso",
+   "resumo": "A construção de um acordo na Justiça abriu caminho para que 15 novos defensores públicos sejam nomeados em Mato Grosso. O entendimento foi possível po...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/cejusc-2-grau-viabiliza-acordo-e-libera-nomeacao-15-novos-defensores-publicos-em-mato-grosso",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-27T07:59-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "c208e0e2a2da",
+   "titulo": "Manifestações à Ouvidoria do Poder Judiciário passam a contar com assistente virtual",
+   "resumo": "Quem acessa a página da Ouvidoria do Poder Judiciário de Mato Grosso agora conta com mais facilidade para registrar suas manifestações. Por meio do as...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/manifestacoes-a-ouvidoria-poder-judiciario-passam-a-contar-assistente-virtual",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T19:05-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "c932ea1b6d60",
+   "titulo": "Seminário capacita profissionais para atuarem em grupos reflexivos com homens autores de violência",
+   "resumo": "O seminário “Força que Transforma: Grupos Reflexivos com Homens como Estratégia de Enfrentamento à Violência”, teve início na manhã desta quinta-feira...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/seminario-capacita-profissionais-para-atuarem-em-grupos-reflexivos-homens-autores-violencia",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T18:44-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "d37e0862c0da",
+   "titulo": "Nova edição da Revista Interface Direito e Sociedade será lançada em dezembro",
+   "resumo": "A Escola Superior da Magistratura de Mato Grosso (Esmagis-MT) lançará, no dia 3 de dezembro, a quarta edição da Revista Interface Direito e Sociedade,...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/nova-edicao-revista-interface-direito-e-sociedade-sera-lancada-em-dezembro",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T17:56-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "994dbf6ff42e",
+   "titulo": "Grupo de estudos aprimora trabalho desenvolvido no gabinete do desembargador Agamenon Alcântara",
+   "resumo": "Buscando fomentar o estudo, alinhar os entendimentos a respeito de temas recorrentes em processos criminais entre a equipe e entregar decisões judicia...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/grupo-estudos-aprimora-trabalho-desenvolvido-no-gabinete-desembargador-agamenon-alcantara",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T17:01-04:00",
+   "imagem": null,
+   "editorias": [
+    "jurisprudencia"
+   ]
+  },
+  {
+   "id": "99b045e1a8ac",
+   "titulo": "Oficinas da Semana Internacional da Justiça Restaurativa fortalecem práticas na Educação",
+   "resumo": "Identificar sinais de violência, compreender as causas dos conflitos e promover relações mais saudáveis no ambiente escolar foram alguns dos temas tra...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/oficinas-semana-internacional-justica-restaurativa-fortalecem-praticas-na-educacao",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T16:35-04:00",
+   "imagem": null,
+   "editorias": []
+  },
+  {
+   "id": "b3d0fdc26e74",
+   "titulo": "TJMT participa de encontro sobre integridade e fortalece articulação institucional com a CGE",
+   "resumo": "O Tribunal de Justiça de Mato Grosso (TJMT) participou, nesta quarta-feira (25) do 2º Encontro Mato-grossense de Integridade. Promovido pela Controlad...",
+   "link": "https://www.tjmt.jus.br/noticias/2026/11/tjmt-participa-encontro-sobre-integridade-e-fortalece-articulacao-institucional-a-cge",
+   "fonte": "TJMT",
+   "fonte_id": "tjmt",
+   "data": "2026-11-26T15:54-04:00",
+   "imagem": null,
+   "editorias": []
+  },
   {
    "id": "dc28ec8d547b",
    "titulo": "Atuação do Judiciário de MT contribui para construção da nova sede da Polícia Civil em Mato Grosso",
@@ -4603,182 +4760,6 @@
    "editorias": [
     "pratica"
    ]
-  },
-  {
-   "id": "bda779d68f88",
-   "titulo": "Compra de carrinho infantil termina em fraude e indenização de R$ 5 mil",
-   "resumo": "Uma consumidora que perdeu R$ 4.312,00 após cair em um golpe em uma compra de carrinho elétrico infantil pela internet deverá ser ressarcida e receber...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/compra-carrinho-infantil-termina-em-fraude-e-indenizacao-r-5-mil",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-28T11:44-04:00",
-   "imagem": null,
-   "editorias": [
-    "consumidor",
-    "civel"
-   ]
-  },
-  {
-   "id": "a0d545be09da",
-   "titulo": "Prêmio Acadêmico de Conciliação reúne estudantes de Direito em Rondonópolis",
-   "resumo": "Estudantes de Direito de quatro instituições de ensino superior de Rondonópolis apresentaram propostas para tornar a Justiça mais acessível, ágil e vo...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/premio-academico-conciliacao-reune-estudantes-direito-em-rondonopolis",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-28T11:05-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "08a61509d2fd",
-   "titulo": "REJuriSTJ recebe artigos científicos até 10 de novembro",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-REJuriSTJ-recebe-artigos-cientificos-ate-10-de-novembro.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-28T09:34-04:00",
-   "imagem": null,
-   "editorias": []
-  },
-  {
-   "id": "42f34e18e69c",
-   "titulo": "Trabalho, estudo, leitura e amamentação: reportagem especial mostra como o STJ aplica a remição de pena",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Trabalho--estudo--leitura-e-amamentacao-reportagem-especial-mostra-como-o-STJ-aplica-a-remicao-de-pena-.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-28T07:10-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "35cfead886ba",
-   "titulo": "Podcast STJ No Seu Dia debate contratos de proteção patrimonial mutualista",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Podcast-STJ-No-Seu-Dia-debate-contratos-de-protecao-patrimonial-mutualista.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-28T07:05-04:00",
-   "imagem": null,
-   "editorias": [
-    "civel"
-   ]
-  },
-  {
-   "id": "56aedc4d3094",
-   "titulo": "Falta de análise de provas favoráveis à defesa leva STJ a restabelecer a absolvição de réu condenado por estupro",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Falta-de-analise-de-provas-favoraveis-a-defesa-leva-STJ-a-restabelecer-a-absolvicao-de-reu-condenado-por-estupro-.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-28T06:55-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/internas_noticias/Rogerio_Schietti_PORTAL_INTERNA_MAX_9060.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "penal"
-   ]
-  },
-  {
-   "id": "1e488c9a4f0c",
-   "titulo": "Exclusão indevida de idosa de plano de saúde é condição suficiente para caracterizar dano moral",
-   "resumo": "Para a Terceira Turma, situação de hipervulnerabilidade da pessoa idosa afasta necessidade de comprovação de que beneficiária excluída do plano tenha sofrido abalos pela falta de custeio de tratamento pela operadora.",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/28102026-Exclusao-indevida-de-idosa-de-plano-de-saude-e-condicao-suficiente-para-caracterizar-dano-moral--define-Terceira.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-28T06:50-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/SiteAssets/imagens/destaques/CAPA_PORTAL_Idosa_plano_saude_AdobeStock_2110050603.jpg",
-   "editorias": [
-    "jurisprudencia",
-    "consumidor",
-    "civel"
-   ]
-  },
-  {
-   "id": "4a244c636486",
-   "titulo": "MPSP passa a usar Smart Sampa para combate ao crime organizado",
-   "resumo": "O Ministério Público de São Paulo formalizou parceria com a Prefeitura de São Paulo para usar o sistema de monitoramento por câmeras em operação na cidade, o Smart Sampa, para investigações de combate ao crime organizado e em ações focadas no combate à…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpsp-passa-usar-smartsampa-para-combate-ao-crime-organizado",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-27T19:49-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "ddb991eb0c61",
-   "titulo": "Fachin arquiva três investigações do inquérito das Fake News",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, determinou nesta terça-feira (27) o arquivamento de três investigações oriundas dos chamado inquérito das Fake News. A decisão determinou o encerramento de investigações contra o…",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-arquiva-tres-investigacoes-do-inquerito-das-fake-news",
-   "fonte": "Agência Brasil",
-   "fonte_id": "agbrasil",
-   "data": "2026-10-27T18:14-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "27f12c572eb1",
-   "titulo": "Outubro Rosa: TJMT promove circuito de autocuidado e valorização da saúde feminina",
-   "resumo": "Entre o trabalho, a família e as responsabilidades do dia a dia, muitas mulheres acabam deixando a própria saúde em segundo plano. Para mudar essa rea...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/outubro-rosa-tjmt-promove-circuito-autocuidado-e-valorizacao-saude-feminina",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-27T17:57-04:00",
-   "imagem": null,
-   "editorias": [
-    "familia"
-   ]
-  },
-  {
-   "id": "e2c4142612dc",
-   "titulo": "Justiça destina mais de R$ 935 mil para projetos sociais em Cuiabá",
-   "resumo": "O Juizado Especial Criminal (Jecrim) de Cuiabá destinou R$ 935.926,22 para o financiamento de 12 projetos sociais desenvolvidos por instituições que a...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/justica-destina-mais-r-935-mil-para-projetos-sociais-em-cuiaba",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-27T17:56-04:00",
-   "imagem": null,
-   "editorias": [
-    "penal"
-   ]
-  },
-  {
-   "id": "3828eda956e7",
-   "titulo": "Confira programação do Enajun e Fonajurd; encontro vai debater desafios e futuro da equidade racial no Judiciário",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27102026-Confira-programacao-do-Enajun-e-Fonajurd--encontro-vai-debater-desafios-e-futuro-da-equidade-racial-no-Judiciario.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-27T16:02-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/27102026-Confira-programacao-do-Enajun-e-Fonajurd--encontro-vai-debater-desafios-e-futuro-da-equidade-racial-no-Judiciario/76713_portal_interna_700x467%201.jpg",
-   "editorias": []
-  },
-  {
-   "id": "c63c029609ca",
-   "titulo": "Programa Esperança Garcia: doe livros e espalhe conhecimento",
-   "resumo": "",
-   "link": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/27102026-Programa-Esperanca-Garcia-doe-livros-e-espalhe-conhecimento.aspx",
-   "fonte": "STJ",
-   "fonte_id": "stj",
-   "data": "2026-10-27T15:25-04:00",
-   "imagem": "https://www.stj.jus.br/sites/portalp/PublishingImages/Paginas/Comunicacao/Noticias/2026/27102026-Programa-Esperanca-Garcia-doe-livros-e-espalhe-conhecimento/77190_conexao_cimp_carrossel_2026.jpg",
-   "editorias": []
-  },
-  {
-   "id": "5b19438c8430",
-   "titulo": "Projeto Nosso Judiciário orienta 175 estudantes sobre direitos, deveres e combate ao bullying",
-   "resumo": "Conhecer os próprios direitos, compreender as consequências de determinadas atitudes e aprender a lidar com situações de bullying foram alguns dos tem...",
-   "link": "https://www.tjmt.jus.br/noticias/2026/10/projeto-nosso-judiciario-orienta-175-estudantes-sobre-direitos-deveres-e-combate-ao-bullying",
-   "fonte": "TJMT",
-   "fonte_id": "tjmt",
-   "data": "2026-10-27T15:22-04:00",
-   "imagem": null,
-   "editorias": []
   }
  ]
 }
